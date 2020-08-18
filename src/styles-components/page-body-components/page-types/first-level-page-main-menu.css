@@ -1,0 +1,48 @@
+
+@keyframes fLtitleAnim {
+    0%{
+        font-variation-settings: "MONO" 0, "CASL" 0, "slnt" 0, "CRSV" 0;
+    }
+    100%{
+      font-variation-settings: "MONO" 0, "CASL" 1, "slnt" -15, "CRSV" 0;
+    }
+}
+
+.f-l-title{
+    text-align: right;
+    padding-right: 10%;
+    font-size: 3vw;
+    font-weight: 300;
+    color: var(--bb-logo-color);
+    animation: fLtitleAnim 6s 1 forwards;
+    font-variation-settings: "MONO" 0, "CASL" 1, "slnt" 0, "CRSV" 0;
+    letter-spacing: 3px;
+}
+
+.f-l-subTitle{
+    font-weight: 400;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    font-variation-settings: "MONO" 0, "CASL" 0.4, "slnt" -7, "CRSV" 1;
+    padding-right: 17%;
+}
+
+.f-l-mainContent{
+    columns: 2;
+    column-gap: 1%;
+    line-height: 110%;
+   
+}
+
+
+
+
+
+.f-l-footer{
+
+}
+
+.f-l-page{
+
+
+}

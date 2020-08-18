@@ -1,0 +1,65 @@
+.voce-menu{
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    /* padding-right: 20px; */
+
+    font-variation-settings: "MONO" 0, "CASL" 0, "slnt" 0, "CRSV" 1;
+    font-weight: 340;
+    font-size: 1.3vw;
+}
+
+
+.first-page-voce:hover{
+    font-variation-settings: "MONO" 0, "CASL" 0, "slnt" 0, "CRSV" 1;
+    font-weight: 400;
+    transition: 200ms ease-in-out ;
+}
+.first-page-voce:focus{
+    font-variation-settings: "MONO" 0, "CASL" 0, "slnt" 0, "CRSV" 1;
+    font-weight: 400;
+    transition: 200ms ease-in-out ;
+}
+
+.voce-menu:last-child{
+    margin-bottom: 10px;
+}
+
+.voce-menu-text-no-underline{
+    position: relative;
+    bottom: -3px;
+    height: fit-content;
+}
+
+.voce-menu-text{
+    align-self: flex-end;
+    border-bottom: solid 1px rgba(0, 0, 0, 0);
+    cursor: pointer;
+    transition: 0.3s;
+    width: 100%;
+    padding-right: 10px;
+}
+.voce-menu-text:hover{
+    border-bottom: var(--bb-border-top-style);
+    cursor: pointer;
+}
+
+.underlined{
+    border-bottom: var(--bb-border-top-style);
+    cursor: pointer;
+}
+
+.voce-menu-container{
+    display: none;
+    line-height: 20px;
+}
+
+.voce-menu-container .voce-menu-text{
+    font-size: 80%;
+    padding-right: 10%;
+}
+.voce-menu-container .voce-menu-container .voce-menu-text{
+    font-size: 80%;
+    padding-right: 15%;
+}

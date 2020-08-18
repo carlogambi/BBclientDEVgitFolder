@@ -1,0 +1,16 @@
+#menu-container{
+    border-right: var(--bb-border-top-style);
+    width: 22%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: fixed;
+    left: 1px;
+    top: 10%;
+    bottom: 1%;
+
+}
+
+#menu-icon-mobile{
+    width:20px;
+}

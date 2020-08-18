@@ -1,0 +1,26 @@
+#main-menu{
+    margin-top: 70px;
+    text-align: right;
+    margin-right: 0;
+    max-height: 410px;
+    line-height: 32px;
+}
+#main-menu::-webkit-scrollbar {
+    width: 12px;               /* width of the entire scrollbar */
+}
+
+#main-menu::-webkit-scrollbar-track {
+    background: #005ba500;        /* color of the tracking area */
+    border: solid 5.5px white;
+}
+
+#main-menu::-webkit-scrollbar-thumb {
+    background-color: white;    /* color of the scroll thumb */
+    /* border-radius: 100%; */       /* roundness of the scroll thumb */
+    height: 0px;
+    position: relative;
+    right: 10px;
+    width: 12px;
+    /* border: 1px solid #005CA5;   */
+    /* creates padding around scroll thumb */
+}

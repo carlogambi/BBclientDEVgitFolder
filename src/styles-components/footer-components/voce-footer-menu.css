@@ -1,0 +1,24 @@
+.voce-footer-menu{
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 11px;
+    font-weight: 600;
+    position: relative;
+    top: -3px;
+    cursor: pointer;
+}
+.voce-footer-menu:hover{
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 11px;
+    font-weight: 600;
+    position: relative;
+    top: -3px;
+    cursor: pointer;
+    color: var(--bb-logo-color);
+}
+
+.footer-menu label {
+    font-weight: 100;
+    font-size: 20px;
+}

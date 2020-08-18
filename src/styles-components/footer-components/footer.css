@@ -1,0 +1,15 @@
+.footer{
+    border-top: var(--bb-border-top-style);
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
+    position: fixed;
+    background: url(../../images/background.svg);
+    bottom: 1px;
+    width: 100%;
+    height: 6%;
+}
+
+#footer-first-page{
+    padding-top: 2px;
+}

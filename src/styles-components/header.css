@@ -1,0 +1,18 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    /* margin: 40px; */
+    position: fixed;
+    width: 100%;
+}
+
+.AreaResLangs{
+    display: flex;
+    justify-content: space-around;
+    width: 345px;
+    align-items: center;
+    position: relative;
+    top: 12px;
+    margin-right: 16px;
+
+}

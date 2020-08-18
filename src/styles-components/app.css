@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Recursive:slnt,wght,CASL,CRSV,MONO@-15..0,300..1000,0..1,0..1,0..1&display=swap");
+
+html {
+  /* font-family: "Recursive", monospace; */
+
+}
+
+body{
+    height: 100%;
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+    background: url(../images/background.svg);
+    background-repeat: no-repeat;
+    background-size: 120%;
+    overflow-y: hidden;
+}
+
+.app{
+    opacity: 0;
+}

@@ -1,0 +1,549 @@
+{
+    "lang":"ita",
+    "areaRes":"area riservata",
+    "pagine":[
+       {
+          "voce":"prima pagina ITA",
+          "isFirstPage":true,
+          "subTitle":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "mainContent":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "footer":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "images":[
+             "img/mainImg.jpg",
+             "img/placeholder2.png",
+             "img/cosa_facciamo.jpg",
+             "img/placeholder1.jpg"
+          ],
+          "id":"6699756649637"
+       },
+       {
+          "voce":"Chi siamo",
+          "images":[],
+          "id":"2540958409336"
+       },
+       {
+          "voce":" Cos’è BB",
+          "subTitle":"",
+          "mainContent":"BB S.p.A. è un'<strong>azienda meccanica di precisione</strong> che produce accessori di alta qualità, realizzati nei materiali più vari. <br>BB cura il ciclo produttivo dalla progettazione e <strong>realizzazione del prototipo</strong> sino all'<strong>industrializzazione</strong> e alla <strong>produzione su larga scala</strong>, secondo le specifiche del cliente.<br>BB, insieme alle aziende del gruppo BB Holding di cui fa parte, è in grado di offrire al cliente un <strong>servizio completo</strong>, partendo dalla concezione stessa dell'idea iniziale, fino a raggiungere la raffinatezza che contraddistingue l'accessorio in metallo prezioso dell'oggettistica di lusso.<br>Il suo raffinato prodotto di precisione si rivolge a una clientela che esige la <strong>massima accuratezza</strong> delle rifiniture e la cui tipologia spazia nei settori più eterogenei del mercato.<video style='margin-top: 8px' width='80%' autoplay loop><source src='img/video_bb_cnc.mp4' type='video/mp4'></video><br>",
+          "footer":"",
+          "images":[],
+          "id":"6202778809655"
+       },
+       {
+          "voce":"La nostra storia",
+          "subTitle":"",
+          "mainContent":"BB S.p.A. nasce da un’idea di <strong>Marco Bartoletti</strong>, Presidente e Fondatore, che, appassionato della meccanica di precisione, fonda nel 1990 B.B. MEC S.r.l.<br> I primi lavori riguardano la produzione di <strong>impugnature per rasoi artigianali</strong> per specializzarsi in seguito nel settore dell’automotive: in quegli anni B.B. MEC. conta 2 dipendenti.<br>Nel 2000 avviene l’incontro con il primo importante <strong>marchio di moda</strong>: è il momento in cui il settore aveva bisogno di un avvicinamento alla meccanica. Cresce la necessità di una produzione su larga scala, di un prodotto ripetitivo che mantenga tuttavia la sua artigianalità ed accuratezza.<br>Al primo cliente legato al settore della moda, negli anni se ne affiancano molti altri: ad oggi BB collabora con i <strong>più importanti brand del lusso a livello mondiale</strong>.<br>L’azienda negli anni si amplia, al suo interno si creano vari reparti per curare il <strong>ciclo completo dell’accessorio</strong>.<br>Nel 2014 nasce l’ultima azienda del gruppo, <strong>BB FEINMECHANIK</strong>, che con sede a Klagenfurt, si occupa della <strong>realizzazione di stampi a caldo e componenti stampati</strong>.<br>L’intuizione e il sogno di un giovane imprenditore sono diventati una <strong>solida ed affermata realtà</strong> nel tessuto industriale e sociale del territorio.<img id='la-nostra-storia-media' width='100%' src='img/moto_bb_mec.jpg' style='margin-top: 5%'>",
+          "footer":"",
+          "images":[],
+          "id":"8928391358503"
+       },
+       {
+          "voce":"I nostri professionisti",
+          "subTitle":"",
+          "mainContent":"BB ha da sempre investito in aggiornamento ed innovazione, puntando sullo sviluppo delle unità produttive, del parco macchine, del <strong>personale</strong>, sempre<strong> altamente qualificato</strong> in ogni comparto, per ogni lavorazione che l’accessorio richiede: dal disegno, dalla progettazione, alla galvanica, al montaggio, al controllo qualità.<br> BB è passata <strong>dai 2 ai 250 dipendenti diretti</strong> di oggi, creando un indotto di altrettanto valore.<br>Il <strong>team di BB è variegato</strong> in termini di competenze e professionalità: a fianco ai reparti produttivi, si trovano gli uffici dove i responsabili della progettazione, gli addetti alla pianificazione ed al controllo qualità integrano le rispettive professionalità alla <strong>continua ricerca dell'eccellenza</strong> che contraddistingue l'azienda.<br>Fondamentale è il <strong>reparto commerciale</strong> di BB, il vero core business dell’azienda, il primo<strong> punto di riferimento per il cliente</strong>.<br>In azienda sono inoltre presenti figure professionali specifiche come una <strong>psicologa aziendale</strong>, disponibile per tutti i dipendenti, un <strong>team</strong> di professionisti rivolto all’<strong>etica del lavoro</strong>, ed un <strong>ingegnere ambientale</strong>, con la quale BB porta avanti progetti e ricerche sul tema <strong>sostenibilità</strong>. <br>BB si propone come <strong>partner sicuro e affidabile</strong> per i propri clienti garantendo un <strong>servizio</strong> sempre più <strong>completo, accurato</strong> e <strong>veloce</strong>, non limitandosi alla semplice progettazione e costruzione di particolari metallici, ma partecipando attivamente al loro sviluppo.",
+          "footer":"",
+          "images":[],
+          "id":"9437028237259"
+       },
+       {
+          "voce":"Cosa facciamo",
+          "subTitle":"",
+          "mainContent":"",
+          "footer":"",
+          "images":[],
+          "id":"9964398074230"
+       },
+       {
+          "voce":"BB partner progettuale",
+          "subTitle":"",
+          "mainContent":"BB S.p.A. si pone non solo come esecutore, ma come vero e proprio <strong>partner progettuale, sicuro e affidabile</strong>, partecipa attivamente al processo di realizzazione dell’accessorio, così da garantire prestazioni sempre più complete, accurate e veloci.",
+          "footer":"",
+          "images":[],
+          "id":"6775488110116"
+       },
+       {
+          "voce":"Campionatura",
+          "subTitle":"",
+          "mainContent":"Il percorso dell’accessorio nasce(inizia) nel reparto campionatura luogo dove l’idea del cliente prende forma, dove si elaborano <strong>soluzioni costruttive innovative e moderne</strong>, avvalendosi, oltre alle attrezzature tradizionali, anche della <strong>prototipazione rapida</strong>. Fondamentale la competenza e l'esperienza dei tecnici; qui la <strong>manualità e l'artigianalità</strong> sono alla base della realizzazione dell’accessorio stesso.",
+          "footer":"",
+          "images":[],
+          "id":"385186228662"
+       },
+       {
+          "voce":"Industrializzazione",
+          "subTitle":"",
+          "mainContent":"Validato il prototipo, il reparto industrializzazione perfeziona l’articolo per la realizzazione su larga scala, <strong>ottimizzando costi e tempistiche</strong>. Si tratta di un centro di competenza fortemente orientato ai core business aziendali e costituisce il fondamentale <strong>anello di congiunzione tra</strong> le aree tecnica di<strong> progettazione e </strong>quella di <strong>produzione</strong>.",
+          "footer":"",
+          "images":[],
+          "id":"1292265386304"
+       },
+       {
+          "voce":"Materie e Materiali",
+          "subTitle":"",
+          "mainContent":"BB S.p.A. è in grado di lavorare su <strong>diverse tipologie di materiali</strong>, oltre a quelli tradizionali quali ottone, acciaio, alluminio e materiali plastici, il reparto campionatura BB può esplorare ogni materiale desiderato dal cliente, effettuando ricerche di mercato e tecnologiche. <br>BB è attiva nella ricerca e sviluppo di nuovi materiali, mirati, a parità di performance, alla <strong>sostenibilità ambientale</strong>.<br>BB è in grado di realizzare il prodotto finale in diverse finiture superficiali, ricercando anche soluzioni innovative.",
+          "footer":"",
+          "images":[],
+          "id":"444394404313"
+       },
+       {
+          "voce":"Produzione a 360°",
+          "subTitle":"",
+          "mainContent":"BB S.p.A. è in grado di curare l’<strong>intero ciclo della produzione al suo interno</strong> o avvalendosi, nel caso di concezione stampata, della collaborazione con <strong>BB FEINMECHANIK</strong>, azienda del gruppo, specializzata in <strong>realizzazione stampi e stampaggi a caldo</strong>. La modernità delle unità produttive, il costante aggiornamento e ampliamento del parco macchine e l'alta professionalità del personale permette a BB di soddisfare in tempi brevi <strong>qualsiasi richiesta del cliente</strong>, mantenendo in ogni caso uno <strong>standard qualitativo elevato</strong>, sia nelle piccole che nelle grandi tirature. L'azienda, inoltre, è in grado di realizzare qualsiasi tipo di <strong>trattamento superficiale</strong>, fornendo così l'accessorio finito secondo le richieste del cliente. La customer care è sempre garantita dall’<strong>ufficio commerciale</strong> che accompagna l’articolo in ogni sua fase di lavorazione fino alla consegna al cliente.",
+          "footer":"",
+          "images":[],
+          "id":"2469686961864"
+       },
+       {
+          "voce":"Lavorazioni Meccaniche",
+          "subTitle":"",
+          "mainContent":"Il reparto lavorazioni meccaniche è costituto da <strong>torni e da centri di lavoro a controllo numerico</strong>, alcuni particolarmente indicati per le lavorazioni di incisione, altri più adatti alla produzione in serie. Inoltre dispone di un reparto attrezzato con <strong>macchinari per il taglio, l’incisione</strong> e la saldatura <strong>laser</strong>.",
+          "footer":"",
+          "images":[],
+          "id":"9292649936642"
+       },
+       {
+          "voce":"Saldatura",
+          "subTitle":"",
+          "mainContent":"Il reparto saldatura è costituito da <strong>20 moderne postazioni di lavoro</strong>, un <strong>forno rotativo continuo</strong> a controllo elettronico, una <strong>fresa</strong> dedicata per la realizzazione di piazzature grafitiche per saldatura. Le macchine, insieme al personale specializzato, permettono al reparto di rispondere a qualsiasi esigenza produttiva e qualitativa.",
+          "footer":"",
+          "images":[],
+          "id":"5736766581662"
+       },
+       {
+          "voce":"Smalteria",
+          "subTitle":"",
+          "mainContent":"La smalteria BB è in grado di effettuare <strong>smaltature su superfici difficili</strong> guidando il cliente verso le scelte migliori. Il personale qualificato del reparto cura anche il <strong>montaggio a mano</strong> di <strong>strass e pietre dure</strong> e realizza anche <strong>forme in cera</strong> per la realizzazione di manufatti con processo di <strong>fusione a cera persa</strong>, partendo dal primo prototipo realizzato interamente a mano da personale qualificato.",
+          "footer":"",
+          "images":[],
+          "id":"7919489898885"
+       },
+       {
+          "voce":"Galvanica",
+          "subTitle":"",
+          "mainContent":"BB dispone anche di un reparto galvanica moderno e all’avanguardia. La collaborazione interna con <strong>laboratori di ricerca chimico-fisica</strong> permette di studiare <strong>finiture innovative</strong> e di rispondere a qualsiasi esigenza del cliente. I reparti interni di <strong>vibro-finitura</strong> e <strong>pulimentatura</strong>, consentono di gestire e ottimizzare un processo dedicato come la <strong>elettrodeposizione galvanica</strong> rendendolo industrialmente efficiente e, al contempo, preservando standard qualitativi elevati.",
+          "footer":"",
+          "images":[],
+          "id":"8087288243882"
+       },
+       {
+          "voce":"Montaggio",
+          "subTitle":"",
+          "mainContent":"Il reparto montaggio è in grado di eseguire l’<strong>assemblaggio attento e curato</strong> di componenti in finitura preziosa, garantendo la <strong>funzionalità di meccanismi</strong> anche complessi e, allo stesso tempo, preservando l’estetica del prodotto.",
+          "footer":"",
+          "images":[],
+          "id":"8087288243882"
+       },
+       {
+          "voce":"Termoformatura",
+          "subTitle":"",
+          "mainContent":"Il viaggio dell’accessorio si conclude nel <strong>reparto confezionamento</strong>, dove il prodotto viene accuratamente imballato nel <strong>plateau ecologico brevettato da BB</strong> o secondo le <strong>specifiche del cliente</strong>.",
+          "footer":"",
+          "images":[],
+          "id":"1219334177102"
+       },
+       {
+          "voce":"Percorso della qualità",
+          "subTitle":"",
+          "mainContent":"Per garantire l’alta qualità del suo prodotto, BB opera un <strong>controllo rigoroso e costante</strong> delle eventuali difettosità in ogni fase del processo produttivo al fine di mantenere <strong>elevati gli standard di qualità</strong> dell’intera filiera.<br>All’interno del laboratorio di qualità, si eseguono <strong>prove meccaniche e chimico-fisiche</strong>. <br><strong>BB progetta</strong> e <strong>costruisce</strong> molte delle <strong>apparecchiature</strong> con cui vengono effettuati i test meccanici, richiesti dal cliente, per le prove chimico-fisiche si rivolge a <strong>laboratori esterni accreditati</strong>. ",
+          "footer":"",
+          "images":[],
+          "id":"5737132138964"
+       },
+       {
+          "voce":"Ricerca e sviluppo",
+          "subTitle":"",
+          "mainContent":"Grazie al reparto ricerca e sviluppo, BB è in grado di rispondere alle richieste produttive del cliente con lo sviluppo di sistemi e macchinari capaci di effettuare <strong>lavorazioni non convenzionali</strong> in maniera automatizzata, <strong>ottimizzando i tempi e i costi </strong>di quei processi produttivi fino ad oggi eseguiti manualmente.",
+          "footer":"Nel complesso, la struttura e le apparecchiature all’avanguardia che caratterizzano BB acquistano valore e prestigio soprattutto grazie alla <strong>competenza</strong>, l’<strong>efficienza</strong> e l’<strong>impegno</strong> dei suoi collaboratori: i responsabili della progettazione, gli addetti alla pianificazione e alla verifica del lavoro e i responsabili del controllo qualità integrano le rispettive professionalità alla <strong>continua ricerca dell’eccellenza</strong> che contraddistingue l’azienda.",
+          "images":[],
+          "id":"7023429588991"
+       },
+       {
+          "voce":"Il nostro operare",
+          "subTitle":"Il successo di BB non segue le tradizionali logiche economiche e quello che il Presidente Marco Bartoletti è riuscito a costruire va oltre il valore finanziario di un’<strong>impresa sana</strong>  ed economicamente indipendente.",
+          "mainContent":" <strong>Eccellenza qualitativa, creatività</strong>  ed <strong>attenzione alla persona</strong>  sono i pilastri e le fondamenta dell’identità e della filosofia aziendale. Il segreto risiede nel lavoro vero e nell’etica sociale</strong>  di una realtà che investe gli utili in <strong>ricerca e sviluppo</strong>  rimanendo sempre vicina ai propri collaboratori considerati una vera e propria famiglia.<br>BB è infatti fermamente convinta che l’economia del futuro si costruisca <strong>mettendo al centro le persone</strong>  e intendendo il lavoro come una delle più nobili espressioni del valore umano. Fare impresa essendo etici non solo è possibile, ma anche un dovere morale ed il <strong>profitto si può coniugare all’aspetto sociale</strong> , l’impresa diviene il tramite attraverso cui attualizzare i <strong>propri valori etici e politici</strong> .<br>Per questo motivo BB ha fatto della “<strong>non esclusione</strong> ” il punto cardine di tutta la sua politica aziendale, facendo convivere al suo interno <strong>collaboratori di etnie e religioni diverse, uomini e donne</strong> , e tra questi anche persone che vivono <strong>vari tipi di difficoltà</strong> .<br>Attraverso il lavoro le persone in difficoltà ricominciano a vivere, ritrovano il sorriso perduto e la dignità, vivono un miracolo lavorativo quotidiano che offre l’opportunità  di essere persone.<br> <i>“Per ogni persona per quanto disabilitante possa essere la sua patologia o la sua condizione esiste un lavoro che può svolgere sfruttando al meglio le proprie capacità residue. Questi lavoratori non rappresentano un freno per l’azienda” ricorda sempre il presidente Marco Bartoletti “ma anzi, se responsabilizzati e messi nelle giuste condizione psicologiche e ambientali, possono ‘rendere’ tanto quanti i lavoratori normodotati dimostrandosi spesso più motivati. L’impegno quotidiano di questi soggetti è per loro in qualche modo terapeutico in quando ne accresce l’autostima non facendoli sentire un peso per la famiglia o per la società e riesce anche a farli sentire meglio fisicamente. Sono fermamente convinto che la disabilità nasconda facoltà che noi neppure conosciamo e il lavoro riesca a tirar fuori queste capacità nascoste o tarpate. Purtroppo la società privando le persone malate di una vita normale ha fatto peggio della malattia, gli ha tolto la dignità.”</i><br>L’azienda diventa un luogo nel quale <strong>nessuno viene lasciato indietro</strong>, ma dove tutti condividono un cammino insieme e un progetto industriale, e si costruisce un pezzo di <strong>futuro</strong> anche per chi il futuro fatica ad immaginarselo.",
+          "footer":"Ai dipendenti BB non si chiede di essere in buona salute, ma di dare il massimo nel lavoro, di far parte di una squadra vincente, stimolando il senso di appartenenza e partecipazione, così da realizzare tutti insieme un luogo nel quale nessuno venga lasciato indietro.",
+          "images":[],
+          "id":"9808468696997"
+       },
+       {
+          "voce":"La persona al centro dell’impresa",
+          "subTitle":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "mainContent":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "footer":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "images":[
+             "img/persona_centro_impresa.jpg",
+             "img/persona_centro_impresa.jpg"
+          ],
+          "id":"2624315114898"
+       },
+       {
+          "voce":"Innovazione continua",
+          "subTitle":"",
+          "mainContent":"Fin dall’inizio della sua attività imprenditoriale BB S.p.A. ha sempre rivolto una particolare attenzione alla <strong>ricerca e sviluppo</strong> e alla collaborazione con gli enti di ricerca scientifica, per una continua <strong>innovazione dei prodotti</strong> e del <strong>miglioramento dei processi</strong> aziendali.<br>Le collaborazioni, con l’ambiente universitario fiorentino in particolare, sono avvenute fino al 2015 tramite il consorzio <strong>Pro.Mo.Design</strong>, di cui BB è stato uno dei soci fondatori insieme al Comune di Calenzano. L’obiettivo strategico di Pro.Mo.Design era <strong>creare una rete nazionale di Università</strong>, laboratori e partner da cui potesse scaturire una “filiera del valore”, in grado di “trasformare un’idea in un prodotto”.<br>Da tale esperienza sono giunti i contatti con l’<strong>Università di Firenze</strong> e con i laboratori di ricerca ad essa collegati, con i quali BB ha valutato e condiviso idee e progetti.<br>Con l’inizio del 2016 il gruppo BB ha dunque deciso di rendere ancora più stretta e fattiva la collaborazione con l’Università acquisendo una quota di partecipazione nel <strong>PIN, il Polo Universitario città di Prato</strong>.<br>Negli ultimi anni BB è stata impegnata come incubatrice per la promozione e formazione di nuove realtà imprenditoriali del territorio. In quest’ottica BB fornisce tutto il supporto necessario per un sicuro avvio dell’attività lavorativa, mettendo a disposizione spazi, attrezzature e etica del lavoro. Infine BB fornisce anche il lavoro stesso.<br>L’interesse per la ricerca è un punto focale nella policy di BB S.p.A., in quanto è volto al miglioramento continuo.<br><br>Il progetto <strong>MASS</strong> “Materiali innovativi naturali e sostenibili per accessori, finiture e oggettistica di lusso” in collaborazione con il PIN di Prato, ha avuto come obiettivo la realizzazione di nuovi prodotti migliorando la sostenibilità del processo produttivo e del prodotto finito.<br><br>Il progetto <strong>FOMEMI</strong> “Sensori e strumenti a tecnologia fotonica per medicina a minima invasività” ha previsto la progettazione e realizzazione di componenti per il settore biomedicale, in particolare per lo sviluppo di un sistema innovativo di trattamento ulcere tramite laser. Grazie all’esperienza in metallizzazione e rivestimenti superficiali di alta qualità, su materiali di varia natura, BB S.p.A.ha portato avanti la sua attività di ricerca con l’obiettivo di trasferire su un nuovo mercato, il biomedicale, competenze tecnologiche legate alla meccanica e al trattamento superficiale di lusso.<br>Progetti di ricerca: www.bbSpa.eu/progetti_bb.pdf",
+          "footer":"",
+          "images":[],
+          "id":"4649410036447"
+       },
+       {
+          "voce":"BB per l’ambiente",
+          "subTitle":"",
+          "mainContent":"BB S.p.A. ha sempre creduto alla necessità di <strong>innovazione dell’industria</strong>, e sta già portando avanti tematiche importanti quali la <strong>responsabilità sociale d’impresa</strong> e le <strong>tematiche ambientali</strong>.<br>Negli ultimi anni si è accentuata in maniera esponenziale la consapevolezza dell’impatto che ogni attività umana ha sull’ambiente. Il tema della <strong>sostenibilità delle imprese</strong> è destinato a diventare una tematica centrale nella definizione degli obiettivi strategici per le aziende.<br>In quest’ottica BB ha pionieristicamente studiato la possibilità di utilizzare <strong>bioplastiche compostabili al 100%</strong> per i prodotti floccati o di termoformatura, ottenendo con successo un prodotto biodegradabile e compostabile, rispettoso dell’ambiente, che l’azienda produce e utilizza come packaging.<br>Nel 2015 BB ha ottenuto un <strong>importante riconoscimento dal CONAI</strong> (Consorzio Nazionale Imballaggi) come azienda che ha sviluppato una soluzione di packaging innovativa e sostenibile partecipando al progetto di prevenzione <i>«Valorizzare la sostenibilità ambientale degli imballaggi»</i><br>BB s’impegna a ridurre i propri consumi, su cui effettua una costante attività di monitoraggio, in particolare quelli legati al parco macchine (industria 4.0), all’utilizzo di acqua, energia elettrica e al condizionamento ambienti, cercando di implementare soluzioni a minor impatto in termini ambientali e di costi sostenuti.<br>Alcuni esempi per la <strong>riduzione della Carbon Footprint</strong>:<ol type='1'><li>Parco auto ecologico;</li><li>Progressiva sostituzione delle illuminazioni tradizionali con illuminazioni led in tutti gli stabilimenti;</li><li>Recupero del calore dissipato dalle macchine per condizionamento ambienti;</li><li>Acquisto energia proveniente da fonti rinnovabili; </li><li>Utilizzo packaging termoformato compostabile;  </li><li>Utilizzo di carta FSC e ECF;</li><li>Utilizzo di kit per caffè compostabile;</li><li>Dispenser di acqua per diminuire il consumo di plastica in bottiglia;</li></ol><br>Un altro obiettivo è legato al <strong>monitoraggio ed al coinvolgimento della supply chain</strong>, ovvero mirato a far sì che tutti i fornitori di BB si conformino agli standard etici ed ambientali, di uso di chemicals, di sicurezza, tracciabilità.",
+          "footer":"",
+          "images":[],
+          "id":"9321371046177"
+       },
+       {
+          "voce":"I nostri impegni sociali",
+          "subTitle":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "mainContent":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "footer":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "images":[
+             "img/placeholder1.jpg",
+             "img/placeholder2.png"
+          ],
+          "id":"663339631964"
+       },
+       {
+          "voce":"Territorio",
+          "subTitle":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "mainContent":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "footer":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "images":[
+             "img/placeholder1.jpg",
+             "img/placeholder2.png"
+          ],
+          "id":"3941110077752"
+       },
+       {
+          "voce":"Associazioni",
+          "subTitle":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "mainContent":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "footer":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "images":[
+             "img/placeholder1.jpg",
+             "img/placeholder2.png"
+          ],
+          "id":"1856942564937"
+       },
+       {
+          "voce":"Istituzioni",
+          "subTitle":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "mainContent":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "footer":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "images":[
+             "img/placeholder1.jpg",
+             "img/placeholder2.png"
+          ],
+          "id":"3897234816367"
+       },
+       {
+          "voce":"BB per lo sport",
+          "subTitle":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "mainContent":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "footer":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "images":[
+             "img/placeholder1.jpg",
+             "img/placeholder2.png"
+          ],
+          "id":"6609157950027"
+       },
+       {
+          "voce":"BB per l'ambiente",
+          "subTitle":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "mainContent":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "footer":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "images":[
+             "img/placeholder1.jpg",
+             "img/placeholder2.png"
+          ],
+          "id":"8225992546837"
+       },
+       {
+          "voce":"contatti",
+          "images":[
+             "img/mainImg.jpg",
+             "img/mainImg.jpg"
+          ],
+          "mainContent":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "subTitle":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "footer":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "id":"1865588427095"
+       },
+       {
+          "voce":"come raggiungerci",
+          "images":[
+             "img/mainImg.jpg",
+             "img/mainImg.jpg"
+          ],
+          "mainContent":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "subTitle":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "footer":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "id":"273050466731"
+       },
+       {
+          "voce":"press",
+          "images":[
+             "img/mainImg.jpg",
+             "img/mainImg.jpg"
+          ],
+          "mainContent":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "subTitle":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "footer":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "id":"1624154629850"
+       },
+       {
+          "voce":"documenti",
+          "images":[
+             "img/mainImg.jpg",
+             "img/mainImg.jpg"
+          ],
+          "mainContent":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "subTitle":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "footer":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "id":"8974399886761"
+       },
+       {
+          "voce":"come richedere un preventivo",
+          "images":[
+             "img/mainImg.jpg",
+             "img/mainImg.jpg"
+          ],
+          "mainContent":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "subTitle":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "footer":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "id":"4940055321576"
+       },
+       {
+          "voce":"dicono di noi",
+          "images":[
+             "img/mainImg.jpg",
+             "img/mainImg.jpg"
+          ],
+          "mainContent":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "subTitle":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "footer":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "id":"6853303796938"
+       },
+       {
+          "voce":"privacy",
+          "images":[
+             "img/mainImg.jpg",
+             "img/mainImg.jpg"
+          ],
+          "mainContent":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "subTitle":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "footer":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "id":"1164225018713"
+       },
+       {
+          "voce":"policy",
+          "images":[
+             "img/mainImg.jpg",
+             "img/mainImg.jpg"
+          ],
+          "mainContent":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "subTitle":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "footer":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "id":"520498140639"
+       },
+       {
+          "voce":"lavora con noi",
+          "images":[
+             "img/mainImg.jpg",
+             "img/mainImg.jpg"
+          ],
+          "mainContent":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "subTitle":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "footer":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "id":"120448140839"
+       }
+    ],
+    "vociMenu":[
+       {
+          "voce":"Chi siamo",
+          "contenuti":[
+             {
+                "voce":" Cos’è BB",
+                "contenuti":[
+ 
+                ]
+             },
+             {
+                "voce":"La nostra storia",
+                "contenuti":[
+ 
+                ]
+             },
+             {
+                "voce":"I nostri professionisti",
+                "contenuti":[
+ 
+                ]
+             }
+          ]
+       },
+       {
+          "voce":"Cosa facciamo",
+          "contenuti":[
+             {
+                "voce":"BB partner progettuale",
+                "contenuti":[
+                   {
+                      "voce":"Campionatura",
+                      "contenuti":[
+ 
+                      ]
+                   },
+                   {
+                      "voce":"Industrializzazione",
+                      "contenuti":[
+ 
+                      ]
+                   }
+                ]
+             },
+             {
+                "voce":"Materie e Materiali",
+                "contenuti":[
+ 
+                ]
+             },
+             {
+                "voce":"Produzione a 360°",
+                "contenuti":[
+                   {
+                      "voce":"Lavorazioni Meccaniche",
+                      "contenuti":[
+ 
+                      ]
+                   },
+                   {
+                      "voce":"Saldatura",
+                      "contenuti":[
+ 
+                      ]
+                   },
+                   {
+                      "voce":"Smalteria",
+                      "contenuti":[
+ 
+                      ]
+                   },
+                   {
+                      "voce":"Galvanica",
+                      "contenuti":[
+ 
+                      ]
+                   },
+                   {
+                      "voce":"Montaggio",
+                      "contenuti":[
+ 
+                      ]
+                   },
+                   {
+                      "voce":"Termoformatura",
+                      "contenuti":[
+ 
+                      ]
+                   }
+                ]
+             },
+             {
+                "voce":"Percorso della qualità",
+                "contenuti":[
+ 
+                ]
+             },
+             {
+                "voce":"Ricerca e sviluppo",
+                "contenuti":[
+ 
+                ]
+             }
+          ]
+       },
+       {
+          "voce":"Il nostro operare",
+          "contenuti":[
+             {
+                "voce":"La persona al centro dell’impresa",
+                "contenuti":[
+ 
+                ]
+             },
+             {
+                "voce":"Innovazione continua",
+                "contenuti":[
+ 
+                ]
+             },
+             {
+                "voce":"I nostri impegni sociali",
+                "contenuti":[
+                   {
+                      "voce":"Territorio",
+                      "contenuti":[
+ 
+                      ]
+                   },
+                   {
+                      "voce":"Associazioni",
+                      "contenuti":[
+ 
+                      ]
+                   },
+                   {
+                      "voce":"Istituzioni",
+                      "contenuti":[
+ 
+                      ]
+                   },
+                   {
+                      "voce":"BB per lo sport",
+                      "contenuti":[
+ 
+                      ]
+                   }
+                ]
+             },
+             {
+                "voce":"BB per l’ambiente",
+                "contenuti":[
+ 
+                ]
+             }
+          ]
+       }
+    ],
+    "vociFooter":[
+       {
+          "voce":"contatti"
+       },
+       {
+          "voce":"come raggiungerci"
+       },
+       {
+          "voce":"press"
+       },
+       {
+          "voce":"documenti"
+       },
+       {
+          "voce":"come richedere un preventivo"
+       },
+       {
+          "voce":"dicono di noi"
+       },
+       {
+          "voce":"privacy"
+       },
+       {
+          "voce":"policy"
+       },
+       {
+          "voce":"lavora con noi"
+       }
+    ],
+    "footerInfo":"BB S.p.a. | Gruppo BB Holding - Socio Unico | Tel. 055-8874644 - Fax 8826570 | Via F. Petrarca 158, 50041, Calenzano (FI) |<br> <u>bb@bbspa.eu</u> | Reg.Imp. FI e P.IVA n. 05373430486 - Cap. Soc. € 350.000,00 i.v."
+ }

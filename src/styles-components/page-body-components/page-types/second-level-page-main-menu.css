@@ -1,0 +1,41 @@
+
+.s-l-title{
+margin-left: 1vw;
+font-variation-settings: "MONO" 0, "CASL" 0, "slnt" 0, "CRSV" 0;
+font-weight: 370;
+margin-bottom: 10px;
+font-size: 1.3vw;
+text-transform: uppercase;
+letter-spacing: 3px;
+
+}
+
+.s-l-subTitle{
+    font-weight: 400;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    font-variation-settings: "MONO" 0, "CASL" 0.4, "slnt" -15, "CRSV" 1;
+    padding-right: 17%;
+}
+
+.s-l-mainContent{
+    font-size: 1vw;
+    padding-right: 18%;
+    column-count: 2;
+    column-gap: 3vw;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.s-l-footer{
+
+}
+
+.s-l-page{
+    border-left: 1px solid var(--bb-logo-color);
+    padding-left: 2%;
+    margin-top: 2vw;
+}
+
+#la-nostra-storia-media{
+}

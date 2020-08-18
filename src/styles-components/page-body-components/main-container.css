@@ -1,0 +1,59 @@
+.main-container{
+    /* width: 65%; */
+    /* overflow-y: scroll; */
+    overflow-x: hidden;
+    padding-left: 20px;
+    scrollbar-color: var(--bb-logo-color) white;
+    scrollbar-width: thin;
+    position: fixed;
+    top:12%;
+    left: 22%;
+    right: 2%;
+    bottom: 2%;
+    padding-bottom: 80px;
+    padding-right: 10px;
+}
+
+.main-container::-webkit-scrollbar {
+    width: 12px;               /* width of the entire scrollbar */
+}
+
+.main-container::-webkit-scrollbar-track {
+    background: var(--bb-logo-color);        /* color of the tracking area */
+    border: solid 5.5px white;
+}
+
+.main-container::-webkit-scrollbar-thumb {
+    background-color: white;    /* color of the scroll thumb */
+    /* border-radius: 100%; */       /* roundness of the scroll thumb */
+    height: 0px;
+    position: relative;
+    right: 4px;
+    border: var(--bb-border-top-style);  /* creates padding around scroll thumb */
+}
+
+@keyframes strongAnim {
+    0%{
+        font-weight: 300;
+        /* font-variation-settings: "MONO" 0, "CASL" 0, "slnt" 0, "CRSV" 0; */
+    }
+    100%{
+      /* font-variation-settings: "MONO" 0, "CASL" 0, "slnt" 0, "CRSV" 0; */
+      font-weight: 600;
+    }
+  }
+  
+  
+  
+strong {
+    font-weight: 600;
+    /*   
+    animation: strongAnim 1200ms 1 forwards;
+    font-variation-settings: "MONO" 0, "CASL" 0, "slnt" 0, "CRSV" 0; */
+  }
+
+
+
+
+
+
