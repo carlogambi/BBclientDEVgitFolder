@@ -27,12 +27,15 @@ AGGIORNARE LA CARTELLA DI GITHUB CON LE MODIFICHE FATTE IN LOCALE
 - nella cartella principale del progetto locale aprire git bash e scrivere
   
   git add .
+  
   (per fare il listing delle differenze tra locale/github)
   
   git commit -m "messaggio a scelta, dendenzialmente descrittivo"
+  
   (per preparare il progetto all'upload)
   
   git push -u origin master
+  
   (per eseguire l'upload vero e proprio)
   
  -------------------------------------------------------------------------------------
