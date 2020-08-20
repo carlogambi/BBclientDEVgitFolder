@@ -1,7 +1,7 @@
 # BBclientDEVgitFolder
 
 -------------------------------------------------------------------------------------
- istruzioni per la gestione di github (in progress) 
+ istruzioni per la gestione di github  
 -------------------------------------------------------------------------------------
 
 CLONARE LA REPOSITORY (DA FARE SOLO LA PRIMA VOLTA)
@@ -14,9 +14,9 @@ verrà creata all'interno della cartella un altra cartella contenente la reposit
 
 -------------------------------------------------------------------------------------
 
-COLLEGARE GITUHB ALLA CARTELLA IN LOCALE
+COLLEGARE GITUHB ALLA CARTELLA IN LOCALE  (SOLO SE NON TROVA L'ORIGINE DEL REMOTO)
 
-nella cartella locale scrivere, NON NECESSARIO se nella stessa sessione è stata eseguita la procedura per clonare la repository di github in locale
+nella cartella locale scrivere
     
     git remote add origin https://github.com/carlogambi/BBclientDEVgitFolder.git
 
@@ -25,6 +25,10 @@ nella cartella locale scrivere, NON NECESSARIO se nella stessa sessione è stata
 AGGIORNARE LA CARTELLA DI GITHUB CON LE MODIFICHE FATTE IN LOCALE
 
 nella cartella principale del progetto locale aprire git bash e scrivere
+  
+  ` git add . `
+  
+  poi
   
   ` git add . `
   
