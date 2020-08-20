@@ -8,9 +8,9 @@
     text-transform: uppercase;
 }
 
-.t-l-subTitle{
+/* .t-l-subTitle{
 
-}
+} */
 
 .t-l-mainContent{
     margin-left: 3vw;
@@ -19,11 +19,14 @@
     margin-right: 8%;
 }
 
-.t-l-footer{
+/* .t-l-footer{
 
-}
+} */
 
 .t-l-page{
-
+    border-top: solid 1px var(--bb-logo-color);
+    margin-bottom: 2vw;
+    width: 70%;
+    margin-left: 10%;
 
 }

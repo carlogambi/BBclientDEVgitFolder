@@ -11,11 +11,13 @@
 }
 
 
-.first-page-voce:hover{
+/* .first-page-voce:hover{
     font-variation-settings: "MONO" 0, "CASL" 0, "slnt" 0, "CRSV" 1;
     font-weight: 400;
+    color: var(--bb-logo-color);
     transition: 200ms ease-in-out ;
-}
+} */
+
 .first-page-voce:focus{
     font-variation-settings: "MONO" 0, "CASL" 0, "slnt" 0, "CRSV" 1;
     font-weight: 400;

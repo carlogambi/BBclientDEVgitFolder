@@ -16,7 +16,7 @@ export default (props) => {
     }
     function gallery(){
         if(props.page.images && props.page.images.length > 0){ 
-            return <Gallery images = {props.page.images} />
+            return <div className="f-l-gallery"><Gallery images = {props.page.images} /></div>
         }
     }
     function mainContent(){

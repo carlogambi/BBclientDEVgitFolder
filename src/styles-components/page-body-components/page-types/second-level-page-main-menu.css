@@ -19,23 +19,26 @@ letter-spacing: 3px;
 }
 
 .s-l-mainContent{
-    font-size: 1vw;
+    font-size: 1.1vw;
     padding-right: 18%;
+    font-weight: 300;
     column-count: 2;
+    grid-column-gap: 3vw;
     column-gap: 3vw;
     font-family: 'Poppins', sans-serif;
 }
 
 
-.s-l-footer{
+/* .s-l-footer{
 
-}
+} */
 
 .s-l-page{
     border-left: 1px solid var(--bb-logo-color);
     padding-left: 2%;
-    margin-top: 2vw;
+    border-top: solid 1px var(--bb-logo-color);
+    margin-bottom: 3vw;
 }
 
-#la-nostra-storia-media{
-}
+/* #la-nostra-storia-media{
+} */

@@ -4,7 +4,7 @@ import VoceFooterMenu from './voce-footer-menu'
 
 import './../../styles-components/footer-components/footer-menu.css'
 
-import $ from 'jquery'
+// import $ from 'jquery'
 
 export default (props) => {
     const digested = props.vociFooter.map(
