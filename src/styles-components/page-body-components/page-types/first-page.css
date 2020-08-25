@@ -22,24 +22,26 @@
     letter-spacing: 2px; 
 }
 
-.fondoOp{
-  background-color: rgba(0, 150, 240, 0.10);
+.first-page strong{
+}
+
+.first-page i{
 }
 
 @keyframes example {
-    0%{
-        /* color:#7bd481; */
-        color: rgba(0, 0, 255, 0);
-      letter-spacing: 1px;
+  0%{
+    /* color:#7bd481; */
+    color: rgba(0, 0, 255, 0);
+    letter-spacing: 1px;
     }
-
+    
     100%{
-         color: var(--bb-logo-color); 
-         letter-spacing: 8px;
-         
+      color: var(--bb-logo-color); 
+      letter-spacing: 8px;
+      
     }
   }
-
+  
   #video-prima-pagina{
     width: 100%;
     height: 510px ;
@@ -47,9 +49,12 @@
     right: 6.5%;
     /*padding-left: 2%;*/
   }
+  
+  
+  /* .fondoOp{
+    background-color: rgba(0, 150, 240, 0.10);
+  } 
 
-
- 
 .someBold{
   font-weight: 400;
 }
@@ -61,4 +66,4 @@
     top: 58px;
     opacity: 0.8;
 }
- 
+  */
