@@ -12,6 +12,6 @@ export default () => {
     }
 
     return <div id="logo-bb-container" onClick={backToStart}>
-        <img src={logoBB} alt="logo BB.spa" className="logoBB"/>
+        <img src={logoBB} alt="logo BB S.p.A." className="logoBB"/>
     </div>
 }
