@@ -527,12 +527,6 @@
           "voce":"press"
        },
        {
-          "voce":"documenti"
-       },
-       {
-          "voce":"come richedere un preventivo"
-       },
-       {
           "voce":"dicono di noi"
        },
        {
@@ -545,5 +539,5 @@
           "voce":"lavora con noi"
        }
     ],
-    "footerInfo":"BB S.p.a. | Gruppo BB Holding - Socio Unico | Tel. 055-8874644 - Fax 8826570 | Via F. Petrarca 158, 50041, Calenzano (FI) |<br> <u>bb@bbspa.eu</u> | Reg.Imp. FI e P.IVA n. 05373430486 - Cap. Soc. € 350.000,00 i.v."
+    "footerInfo":"BB S.p.A. | Gruppo BB Holding - Socio Unico | Tel. 055-8874644 - Fax 8826570 | Via F. Petrarca 158, 50041, Calenzano (FI) |<br> <u>bb@bbspa.eu</u> | Reg.Imp. FI e P.IVA n. 05373430486 - Cap. Soc. € 350.000,00 i.v."
  }
