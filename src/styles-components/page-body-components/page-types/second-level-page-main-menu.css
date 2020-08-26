@@ -8,6 +8,7 @@ font-size: 1.3vw;
 text-transform: uppercase;
 letter-spacing: 3px;
 border-bottom: solid 1px var(--bb-logo-color);
+border-left: 1px solid var(--bb-logo-color);
 margin-bottom: 0px;
 
 }
@@ -30,18 +31,23 @@ margin-bottom: 0px;
     grid-column-gap: 3vw;
     column-gap: 3vw;
     font-family: 'Poppins', sans-serif;
+    border-left: 1px solid var(--bb-logo-color);
+
 }
 
 
-/* .s-l-footer{
+.s-l-footer{
+    /*text-align: justify;*/
+    margin: 10% 20% 1% 20%;
+    padding-right: 18%;
 
-} */
+
+}
 
 .s-l-page{
     /*padding-left: 2%;*/
 /*    border-top: solid 1px var(--bb-logo-color);*/
     margin-bottom: 3vw;
-    border-left: 1px solid var(--bb-logo-color);
 }
 
 /* #la-nostra-storia-media{

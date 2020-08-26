@@ -4,8 +4,9 @@
     font-variation-settings: "MONO" 0, "CASL" 0.4, "slnt" -15, "CRSV" 1;
     font-weight: 300;
     font-size: 1.3vw;
-    margin-bottom: 8px;
+    margin-bottom: 4px;
     text-transform: uppercase;
+    
 }
 
 /* .t-l-subTitle{
@@ -17,6 +18,8 @@
     font-size: 1vw;
     line-height: 20px;
     margin-right: 8%;
+    border-top: solid 1px var(--bb-logo-color);
+    padding-top: 8px;
 }
 
 /* .t-l-footer{
@@ -24,7 +27,6 @@
 } */
 
 .t-l-page{
-    border-top: solid 1px var(--bb-logo-color);
     margin-bottom: 2vw;
     width: 70%;
     margin-left: 10%;

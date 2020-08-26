@@ -1,5 +1,7 @@
 
 .f-d-p-title{
+
+
     font-size: 3vw;
     font-weight: 200;
     color: var(--bb-logo-color);
@@ -8,6 +10,7 @@
 }
 
 .f-d-p-subtitle{
+
     font-weight: 370;
     /* margin-bottom: 10px; */
     font-size: 1.3vw;
@@ -17,15 +20,12 @@
 }
 
 .f-d-p-main-content{
-    padding-left: 4vw;
+    padding-left: 2vw;
 }
 
 .f-d-p-main-content ul{
-    width: 80%;
-    /*margin-left: 1vw;*/
+
     border: solid 1px var(--bb-logo-color);
-    padding-left: 10%;
-    padding: 3%;
     list-style: none;
 }
 
@@ -42,13 +42,18 @@
 }
 
 .footer-derived-page{
+    width: 90%;
+    padding: 4%;
+
 }
 
 .f-d-p-main-content #general-contact{
-    width: 60%;
+
     display: flex;
-    justify-content: left;
+    justify-content: space-between;
+
 }
 .f-d-p-main-content #general-contact span {
-    margin-right: 4%;
+    
+
 }
