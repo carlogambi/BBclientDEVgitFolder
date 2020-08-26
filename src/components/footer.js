@@ -95,7 +95,7 @@ $( document ).ready(() => {
 export default (props) => {
     let id = 'footer';
     if(props.isFirstPage){ id += '-first-page' }
-    return <div 
+    return <div align="center"
             id={id} className="footer" 
             onMouseEnter={expandFooter} 
             onMouseLeave={reduceFooter}>

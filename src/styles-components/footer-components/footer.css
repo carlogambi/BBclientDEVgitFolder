@@ -1,7 +1,8 @@
 .footer{
     border-top: var(--bb-border-top-style);
-    display: flex;
-    justify-content: center;
+    /* display: flex; */
+    /* justify-content: center; */
+    text-align: center;
     padding-top: 15px;
     position: fixed;
     background: url(../../images/background.svg);
