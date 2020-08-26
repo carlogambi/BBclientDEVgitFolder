@@ -7,7 +7,7 @@ export default (props) => {
 
     function title(){
         if(props.page.voce){ 
-            return <h1 className="t-l-title" dangerouslySetInnerHTML={{ __html: '- '+props.page.voce }}></h1>
+            return <h1 className="t-l-title" dangerouslySetInnerHTML={{ __html: ''+props.page.voce }}></h1>
         }
     }
     function subTitle(){
