@@ -30,7 +30,6 @@ margin-bottom: 0px;
     grid-column-gap: 3vw;
     column-gap: 3vw;
     font-family: 'Poppins', sans-serif;
-    border-left: 1px solid var(--bb-logo-color);
 }
 
 
@@ -42,6 +41,7 @@ margin-bottom: 0px;
     /*padding-left: 2%;*/
 /*    border-top: solid 1px var(--bb-logo-color);*/
     margin-bottom: 3vw;
+    border-left: 1px solid var(--bb-logo-color);
 }
 
 /* #la-nostra-storia-media{

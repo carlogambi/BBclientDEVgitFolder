@@ -5,7 +5,6 @@
     color: var(--bb-logo-color);
     text-transform: uppercase;
     text-align-last: center;
-    margin-left: 2vw;
 }
 
 .f-d-p-subtitle{
@@ -26,6 +25,8 @@
     /*margin-left: 1vw;*/
     border: solid 1px var(--bb-logo-color);
     padding-left: 10%;
+    padding: 3%;
+    list-style: none;
 }
 
 .f-d-p-main-content h2{
@@ -43,7 +44,11 @@
 .footer-derived-page{
 }
 
-.f-d-p-main-content #general-contact
-{
-    /*qui lo stile per solo i contatti generali*/
+.f-d-p-main-content #general-contact{
+    width: 60%;
+    display: flex;
+    justify-content: left;
+}
+.f-d-p-main-content #general-contact span {
+    margin-right: 4%;
 }
