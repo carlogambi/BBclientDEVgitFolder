@@ -262,8 +262,8 @@
           "voce":"contatti",
           "images":[],
           "subTitle":"BB s.p.A. Contatti aziendali",
-          "mainContent":"<ul><li><h4>Nome Cognome</h4><h5>Mansione</h5><p><i>000 000 000</i><br> mail@mail.it</p></li><li><h4>Nome Cognome</h4><h5>Mansione</h5><p><i>000 000 000</i><br> mail@mail.it</p></li><li><h4>Nome Cognome</h4><h5>Mansione</h5><p><i>000 000 000</i><br> mail@mail.it</p></li><li><h4>Nome Cognome</h4><h5>Mansione</h5><p><i>000 000 000</i><br> mail@mail.it</p></li><li><h4>Nome Cognome</h4><h5>Mansione</h5><p><i>000 000 000</i><br> mail@mail.it</p></li><li><h4>Nome Cognome</h4><p><strong>Mansione</strong><br><i>000 000 000</i><br> mail@mail.it</p></li></ul>",
-          "footer":"per qualsiasi domanda, rivolgersi a <br> <strong>Nome Cognome <br> mail@mail.it <br> 000 000 000 000</strong>",
+          "mainContent":"<p id='general-contat'> per qualsiasi domanda, rivolgersi a <br><strong>Nome Cognome <br> mail@mail.it <br> 000 000 000 000</strong> </p> <ul><li><h4>Veronica Rogialli</h4><h5>Ufficio Stampa</h5><p>v.rogialli@bbspa.eu<br></p></li><li><h4>Nome Cognome</h4><h5>Mansione</h5><p><i>000 000 000</i><br> mail@mail.it</p></li><li><h4>Nome Cognome</h4><h5>Mansione</h5><p><i>000 000 000</i><br> mail@mail.it</p></li><li><h4>Nome Cognome</h4><h5>Mansione</h5><p><i>000 000 000</i><br> mail@mail.it</p></li><li><h4>Nome Cognome</h4><h5>Mansione</h5><p><i>000 000 000</i><br> mail@mail.it</p></li>",
+          "footer":"",
           "id":"1865588427095"
        },
        {
