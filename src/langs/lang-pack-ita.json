@@ -24,7 +24,7 @@
        {
           "voce":" Cos’è BB",
           "subTitle":"",
-          "mainContent":"BB S.p.A. è un'<strong>azienda meccanica di precisione</strong> che produce accessori di alta qualità, realizzati nei materiali più vari. <br><br>BB cura il ciclo produttivo dalla progettazione e <strong>realizzazione del prototipo</strong> sino all'<strong>industrializzazione</strong> e alla <strong>produzione su larga scala</strong>, secondo le specifiche del cliente.<br><br>BB, insieme alle aziende del gruppo BB Holding di cui fa parte, è in grado di <strong>offrire al cliente un servizio completo</strong>, partendo dalla concezione stessa dell'idea iniziale, fino a raggiungere la raffinatezza che contraddistingue l'accessorio in metallo prezioso dell'oggettistica di lusso.<br><br>Il suo raffinato prodotto di precisione si rivolge a una clientela che esige la <strong>massima accuratezza</strong> delle rifiniture e la cui tipologia spazia nei settori più eterogenei del mercato.<br><video style='margin-top: 16px' width='100%' autoplay loop><source src='img/CentriPATENT_DET.mp4' type='video/mp4'></video><br>",
+          "mainContent":"BB S.p.A. è un'<strong>azienda meccanica di precisione</strong> che produce accessori di alta qualità, realizzati nei materiali più vari. <br><br>BB cura il ciclo produttivo dalla progettazione e <strong>realizzazione del prototipo</strong> sino all'<strong>industrializzazione</strong> e alla <strong>produzione su larga scala</strong>, secondo le specifiche del cliente.<br><br>BB, insieme alle aziende del gruppo BB Holding di cui fa parte, è in grado di <strong>offrire al cliente un servizio completo</strong>, partendo dalla concezione stessa dell'idea iniziale, fino a raggiungere la raffinatezza che contraddistingue l'accessorio in metallo prezioso dell'oggettistica di lusso.<br>Il suo raffinato prodotto di precisione si rivolge a una clientela che esige la <strong>massima accuratezza</strong> delle rifiniture e la cui tipologia spazia nei settori più eterogenei del mercato.<br><video style='margin-top: 16px' width='100%' autoplay loop><source src='img/CentriPATENT_DET.mp4' type='video/mp4'></video><br>",
           "footer":"",
           "images":[],
           "id":"6202778809655"
@@ -525,9 +525,6 @@
        },
        {
           "voce":"policy"
-       },
-       {
-          "voce":"lavora con noi"
        }
     ],
     "footerInfo":"BB S.p.A. | Gruppo BB Holding - Socio Unico | Tel. 055-8874644 - Fax 8826570 | Via F. Petrarca 158, 50041, Calenzano (FI) |<br> <u>bb@bbspa.eu</u> | Reg.Imp. FI e P.IVA n. 05373430486 - Cap. Soc. € 350.000,00 i.v."

@@ -66,9 +66,11 @@
   */
 
 #trasformiamo-idee-prodotti{
+  height: 30%;
+
   position: absolute;
-  right: 20px;
+  right: 35px;
     width: 50%;
-    top: 58px;
+    top: 70px;
     opacity: 0.84;
 }
