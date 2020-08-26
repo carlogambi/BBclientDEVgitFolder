@@ -260,24 +260,18 @@
        },
        {
           "voce":"contatti",
-          "images":[
-             "img/mainImg.jpg",
-             "img/mainImg.jpg"
-          ],
-          "mainContent":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
-          "subTitle":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
-          "footer":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "images":[],
+          "subTitle":"BB s.p.A. Contatti aziendali",
+          "mainContent":"<ul><li><h4>Nome Cognome</h4><h5>Mansione</h5><p><i>000 000 000</i><br> mail@mail.it</p></li><li><h4>Nome Cognome</h4><h5>Mansione</h5><p><i>000 000 000</i><br> mail@mail.it</p></li><li><h4>Nome Cognome</h4><h5>Mansione</h5><p><i>000 000 000</i><br> mail@mail.it</p></li><li><h4>Nome Cognome</h4><h5>Mansione</h5><p><i>000 000 000</i><br> mail@mail.it</p></li><li><h4>Nome Cognome</h4><h5>Mansione</h5><p><i>000 000 000</i><br> mail@mail.it</p></li><li><h4>Nome Cognome</h4><p><strong>Mansione</strong><br><i>000 000 000</i><br> mail@mail.it</p></li></ul>",
+          "footer":"per qualsiasi domanda, rivolgersi a <br> <strong>Nome Cognome <br> mail@mail.it <br> 000 000 000 000</strong>",
           "id":"1865588427095"
        },
        {
           "voce":"come raggiungerci",
-          "images":[
-             "img/mainImg.jpg",
-             "img/mainImg.jpg"
-          ],
-          "mainContent":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
-          "subTitle":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
-          "footer":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "images":[],
+          "subTitle":"Via Francesco Petrarca, 164,<br> 50041 Calenzano FI",
+          "mainContent":"<div style='width: 100%'><iframe width='100%' height='450' frameborder='0' scrolling='yes' marginheight='0' marginwidth='0' src='https://maps.google.com/maps?width=100%25&amp;height=450&amp;hl=en&amp;q=Via%20Francesco%20Petrarca,%20164,%2050041%20Calenzano%20FI+(BB%20s.p.A.)&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=B&amp;output=embed'></iframe></div>",
+          "footer":"eventuali indicazioni testuali",
           "id":"273050466731"
        },
        {
@@ -348,13 +342,10 @@
        },
        {
           "voce":"lavora con noi",
-          "images":[
-             "img/mainImg.jpg",
-             "img/mainImg.jpg"
-          ],
-          "mainContent":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
-          "subTitle":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
-          "footer":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "images":[],
+          "subTitle":"inviaci il tuo curriculum",
+          "mainContent":"<div><h2>posizioni aperte</h2><ul><li><h4>commerciale</h4><p>Cercasi commerciale con esperienza per inserimento a tempo indeterminato</p></li><li><h4>operatore tornio</h4><p>Cercasi operaio anche prima esperienza per percorso di formazione finalizzato all'assunzione</p></li></ul></div>",
+          "footer":"<div>inviaci il tuo curriculum a <i>nuoveassunzioni@bbpsa.it</i></div>",
           "id":"120448140839"
        }
     ],

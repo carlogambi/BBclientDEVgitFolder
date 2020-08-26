@@ -1,6 +1,8 @@
 import React from 'react'
 import Gallery from './../page-components/gallery'
 
+import './../../../styles-components/page-body-components/page-types/footer-menu-derived-page.css'
+
 export default class extends React.Component{
 
     constructor(props){
@@ -12,27 +14,27 @@ export default class extends React.Component{
 
     title(){
         if(this.state.props.page.voce){ 
-            return <h1>{this.state.props.page.voce}</h1>
+            return <h1 className="f-d-p-title" >{this.state.props.page.voce}</h1>
         }
     }
     subTitle(){
         if(this.state.props.page.subTitle){ 
-            return <h4>{this.state.props.page.subTitle}</h4>
+            return <h4 className="f-d-p-subtitle" dangerouslySetInnerHTML={{__html: this.state.props.page.subTitle}}></h4>
         }
     }
     gallery(){
-        if(this.state.props.page.images || this.state.props.page.images.length !== -1){ 
+        if(this.state.props.page.images && this.state.props.page.images.length > 0){ 
             return <Gallery images = {this.state.props.page.images} />
         }
     }
     mainContent(){
         if(this.state.props.page.mainContent){ 
-            return <p>{this.state.props.page.mainContent}</p>
+            return <div className="f-d-p-main-content" dangerouslySetInnerHTML={{__html: this.state.props.page.mainContent}}></div>
         }
     }
     footer(){
         if(this.state.props.page.footer){ 
-            return <p>{this.state.props.page.footer}</p>
+            return <div className="f-d-p-footer" dangerouslySetInnerHTML={{__html: this.state.props.page.footer}}></div>
         }
     }
 
@@ -53,7 +55,7 @@ export default class extends React.Component{
     }
 
     render(){
-        return <div>
+        return <div className="footer-derived-page">
         {this.title()}
         {this.subTitle()}
         {this.gallery()}

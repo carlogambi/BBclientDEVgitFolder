@@ -1,0 +1,44 @@
+
+.f-d-p-title{
+    font-size: 3vw;
+    font-weight: 200;
+    color: var(--bb-logo-color);
+    text-transform: uppercase;
+    text-align-last: center;
+    margin-left: 2vw;
+}
+
+.f-d-p-subtitle{
+    font-weight: 370;
+    /* margin-bottom: 10px; */
+    font-size: 1.3vw;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    text-align:center;
+}
+
+.f-d-p-main-content{
+    padding-left: 4vw;
+}
+
+.f-d-p-main-content ul{
+    margin-left: 1vw;
+    width: 50%;
+    margin-left: 4vw;
+    border: solid 1px var(--bb-logo-color);
+}
+
+.f-d-p-main-content h2{
+    font-weight: 370;
+    font-size: 1.3vw;
+    letter-spacing: 3px;
+    text-align:left;
+    margin-left: 4vw;
+}
+
+.f-d-p-footer{
+    text-align: center;
+}
+
+.footer-derived-page{
+}
