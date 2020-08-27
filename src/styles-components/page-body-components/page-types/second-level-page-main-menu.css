@@ -32,13 +32,7 @@ margin-bottom: 0px;
     column-gap: 3vw;
     font-family: 'Poppins', sans-serif;
     border-left: 1px solid var(--bb-logo-color);
-    display: flex;
 
-}
-
-.s-l-mainContent span{
-    vertical-align: text-top;   
-    width: 50%;
 }
 
 
@@ -53,7 +47,7 @@ margin-bottom: 0px;
 .s-l-page{
     /*padding-left: 2%;*/
 /*    border-top: solid 1px var(--bb-logo-color);*/
-    margin-bottom: 3vw;
+    margin-bottom: 3.5vw;
 }
 
 /* #la-nostra-storia-media{
