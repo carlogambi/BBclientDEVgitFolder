@@ -32,7 +32,13 @@ margin-bottom: 0px;
     column-gap: 3vw;
     font-family: 'Poppins', sans-serif;
     border-left: 1px solid var(--bb-logo-color);
+    display: flex;
 
+}
+
+.s-l-mainContent span{
+    vertical-align: text-top;   
+    width: 50%;
 }
 
 
