@@ -14,8 +14,8 @@ export default class SlPage extends React.Component{
     }
 
     manageVideoLoad(){
-        $('.s-l-video').css({opacity: 0});
-        $('.s-l-video').each((i, video) => {
+        $('.s-l-mainContent video').css({opacity: 0});
+        $('.s-l-mainContent video').each((i, video) => {
             $(video).on('canplay', () => {
                 if($(video).css('opacity') === '0'){
                     $(video).animate({ opacity: 1 }, 500);
