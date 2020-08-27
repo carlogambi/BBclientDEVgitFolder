@@ -20,6 +20,8 @@
     margin-right: 8%;
     border-top: solid 1px var(--bb-logo-color);
     padding-top: 8px;
+    display: flex;
+    justify-content: space-between;
 }
 
 /* .t-l-footer{
