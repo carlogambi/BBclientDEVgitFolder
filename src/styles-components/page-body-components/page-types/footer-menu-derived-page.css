@@ -1,37 +1,50 @@
 
 .f-d-p-title{
-
-
     font-size: 3vw;
+    margin: 0.2vw;
     font-weight: 200;
     color: var(--bb-logo-color);
     text-transform: uppercase;
     text-align-last: center;
+    letter-spacing: 0.045em;
 }
 
 .f-d-p-subtitle{
 
     font-weight: 370;
-    /* margin-bottom: 10px; */
     font-size: 1.3vw;
+    margin: 0.4vw;
     text-transform: uppercase;
     letter-spacing: 3px;
     text-align:center;
 }
 
 .f-d-p-main-content{
+    margin:1vw;
+    padding-top: 1.5vw;
     padding-left: 2vw;
+
+    font-weight: 370;
+    line-height: 1.8em;
+    letter-spacing: 0.045em;
+
+
 }
 
 .f-d-p-main-content ul{
-
+    padding:2.3vw;
     border: solid 1px var(--bb-logo-color);
     list-style: none;
+    letter-spacing: 0.4px;
+
+    font-weight: 370;
+    font-size: 0.9em;
+
 }
 
 .f-d-p-main-content h2{
     font-weight: 370;
-    font-size: 1.3vw;
+    font-size: 2.3vw;
     letter-spacing: 3px;
     text-align:left;
     margin-left: 4vw;
@@ -53,11 +66,24 @@
     justify-content: space-between;
     padding-top: 20px;
     padding-bottom: 30px;
-    /*margin-top: 10px;
-    margin-bottom: 10px;*/
-
 }
 .f-d-p-main-content #general-contact span {
     
+
+}
+.f-d-p-main-content #st{
+
+    letter-spacing: 1.5px;
+
+}
+.f-d-p-main-content strong{
+
+    font-weight: 430;
+}
+
+.f-d-p-main-content b{
+
+    color: rgb(80, 80, 80);
+    font-weight: 400;
 
 }
