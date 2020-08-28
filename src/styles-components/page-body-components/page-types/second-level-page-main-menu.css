@@ -6,7 +6,7 @@
     /* margin-bottom: 10px; */
     font-size: 1.3vw;
     text-transform: uppercase;
-    letter-spacing: 3px;
+    letter-spacing: 0.15em;
     border-bottom: solid 1px var(--bb-logo-color);
     border-left: 1px solid var(--bb-logo-color);
     margin-bottom: 0px;
@@ -35,8 +35,8 @@
         display: flex;
         text-align: justify;
         hyphens: auto;
-        letter-spacing: 0.02em;
-        line-height: 1.6em;
+        letter-spacing: 0.025em;
+        line-height: 1.5em;
 
 
     }
@@ -44,8 +44,8 @@
     .s-l-mainContent span{
         vertical-align: text-top;   
         width: 49%;
-        /*margin-left: 0.8%;
-        margin-right: 0.8%;*/
+        margin-left: -0.8%;
+        margin-right: -0.8%;
     }
     
     
