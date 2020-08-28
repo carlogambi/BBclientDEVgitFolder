@@ -33,6 +33,8 @@
         font-family: 'Poppins', sans-serif;
         border-left: 1px solid var(--bb-logo-color);
         display: flex;
+        text-align: justify;
+        hyphens: auto;
     
     }
     
