@@ -1,11 +1,13 @@
 
 .t-l-title{
-    margin-left: 4vw;
+    margin-left: 3vw;
     font-variation-settings: "MONO" 0, "CASL" 0.4, "slnt" -15, "CRSV" 1;
     font-weight: 300;
     font-size: 1.3vw;
     margin-bottom: 4px;
     text-transform: uppercase;
+    letter-spacing: 0.1em;
+
     
 }
 
@@ -15,13 +17,20 @@
 
 .t-l-mainContent{
     margin-left: 3vw;
-    font-size: 1vw;
+    font-size: 0.95vw;
     line-height: 20px;
     margin-right: 8%;
     border-top: solid 1px var(--bb-logo-color);
     padding-top: 8px;
     display: flex;
     justify-content: space-between;
+    text-align: right;
+    /*hyphens: auto;*/
+    letter-spacing: 0.02em;
+    line-height: 1.4em;
+    font-weight: 300;
+    margin-bottom: 4em;
+
 }
 
 /* .t-l-footer{
@@ -30,7 +39,21 @@
 
 .t-l-page{
     margin-bottom: 3vw;
-    width: 70%;
-    margin-left: 10%;
+    width: 85%;
+    margin-left: 4%;
 
 }
+
+.t-l-mainContent span{
+    vertical-align: text-top;
+    width: 22em;   
+    /*width: 48.5%;*/
+    margin-left: 1.6%;
+    /*margin-right: 0.8%;*/
+}
+
+.t-l-mainContent span video{
+    width: 140%;
+    margin-left: -42%;
+}
+

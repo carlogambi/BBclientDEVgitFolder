@@ -6,7 +6,7 @@
     /* margin-bottom: 10px; */
     font-size: 1.3vw;
     text-transform: uppercase;
-    letter-spacing: 3px;
+    letter-spacing: 0.15em;
     border-bottom: solid 1px var(--bb-logo-color);
     border-left: 1px solid var(--bb-logo-color);
     margin-bottom: 0px;
@@ -23,8 +23,8 @@
     
     .s-l-mainContent{
         padding-top: 10px;
-        font-size: 1.1vw;
-        padding-right: 18%;
+        font-size: 1.05vw;
+        padding-right: 13%;
         padding-left: 2%;
         font-weight: 300;
         column-count: 2;
@@ -35,20 +35,30 @@
         display: flex;
         text-align: justify;
         hyphens: auto;
-    
+        letter-spacing: 0.025em;
+        line-height: 1.5em;
+
+
     }
     
     .s-l-mainContent span{
         vertical-align: text-top;   
-        width: 50%;
+        width: 49%;
+        margin-left: -0.8%;
+        margin-right: -0.8%;
     }
     
     
     .s-l-footer{
         /*text-align: justify;*/
-        margin: 10% 20% 1% 20%;
-        padding-right: 18%;
-    
+        margin: 10% 15% 1% 15%;
+        padding-right: 15%;
+        font-weight: 300;
+        
+        font-size: 1.05vw;
+        /*text-align: justify;
+        hyphens: auto;*/
+        letter-spacing: 0.04em;
     
     }
     
@@ -60,3 +70,13 @@
     
     /* #la-nostra-storia-media{
     } */
+
+    .s-l-mainContent span video{
+        margin-top: 2em;
+        width: 100%;
+    }
+
+    .s-l-mainContent span img{
+        margin-top: 2em;
+        width: 100%;
+    }
