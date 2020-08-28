@@ -24,7 +24,7 @@
        {
          "voce":" Cos’è BB",
          "subTitle":"",
-         "mainContent":"<span>BB S.p.A. è un'<strong>azienda meccanica di precisione</strong> che produce accessori di alta qualità, realizzati nei materiali più vari. <br><br>BB cura il ciclo produttivo dalla progettazione e <strong>realizzazione del prototipo</strong> sino all'<strong>industrializzazione</strong> e alla <strong>produzione su larga scala</strong>, secondo le specifiche del cliente.<br><br>BB, insieme alle aziende del gruppo BB Holding di cui fa parte, è in grado di <strong>offrire al cliente un servizio completo</strong>, partendo dalla concezione stessa dell'idea iniziale, fino a raggiungere la raffinatezza che contraddistingue l'accessorio in metallo prezioso dell'oggettistica di lusso.</span><span> Il suo raffinato prodotto di precisione si rivolge a una clientela che esige la <strong>massima accuratezza</strong> delle rifiniture e la cui tipologia spazia nei settori più eterogenei del mercato.<br><video class='s-l-video' style='margin-top: 16px' width='100%' autoplay loop> <source src='img/CentriPATENT_DET.mp4' type='video/mp4'> </video></span>",
+         "mainContent":"<span>BB S.p.A. è un'<strong>azienda meccanica di precisione</strong> che produce accessori di alta qualità, realizzati nei materiali più vari. <br><br>BB cura il ciclo produttivo dalla progettazione e <strong>realizzazione del prototipo</strong> sino all'<strong>industrializzazione</strong> e alla <strong>produzione su larga scala</strong>, secondo le specifiche del cliente.<br><br>BB, insieme alle aziende del gruppo BB Holding di cui fa parte, è in grado di <strong>offrire al cliente un servizio completo</strong>, partendo dalla concezione stessa dell'idea iniziale, fino a raggiungere la raffinatezza che contraddistingue l'accessorio in metallo prezioso dell'oggettistica di lusso.</span><span> Il suo raffinato prodotto di precisione si rivolge a una clientela che esige la <strong>massima accuratezza</strong> delle rifiniture e la cui tipologia spazia nei settori più eterogenei del mercato.<br><video class='s-l-video' width='100%' autoplay loop> <source src='img/CentriPATENT_DET.mp4' type='video/mp4'> </video></span>",
          "footer":"",
          "images":[],
          "id":"6202778809655"
@@ -32,7 +32,7 @@
       {
          "voce":"La nostra storia",
          "subTitle":"",
-         "mainContent":"<span>BB S.p.A. nasce da un’idea di <strong>Marco Bartoletti</strong>, Presidente e Fondatore, che, appassionato della meccanica di precisione, fonda nel 1990 B.B. MEC S.r.l.<br><br> I primi lavori riguardano la produzione di <strong>impugnature per rasoi artigianali</strong> per specializzarsi in seguito nel settore dell’automotive: in quegli anni B.B. MEC conta 2 dipendenti.<br><br>Nel 2000 avviene l’incontro con il primo importante <strong>marchio di moda</strong>: è il momento in cui il settore aveva bisogno di un avvicinamento alla meccanica. Cresce la necessità di una produzione su larga scala, di <i>un prodotto ripetitivo che mantenga tuttavia la sua artigianalità ed accuratezza.</i><br><br>Al primo cliente legato al settore della moda, negli anni se ne affiancano molti altri: ad oggi BB collabora con i <strong>più importanti brand del lusso a livello mondiale</strong>.</span><span>L’azienda negli anni si amplia, al suo interno si creano vari reparti per curare il <strong>ciclo completo dell’accessorio</strong>. Nel 2014 nasce l’ultima azienda del gruppo, <strong>BB FEINMECHANIK</strong>, che con sede a Klagenfurt, si occupa della <strong>realizzazione di stampi a caldo e componenti stampati</strong>.<br><br>L’intuizione e il sogno di un giovane imprenditore sono diventati una <strong>solida ed affermata realtà</strong> nel tessuto industriale e sociale del territorio.<br><img id='la-nostra-storia-media' width='100%' src='img/moto_bb_mec.jpg' style='margin-top: 5%'></span>",
+         "mainContent":"<span>BB S.p.A. nasce da un’idea di <strong>Marco Bartoletti</strong>, Presidente e Fondatore, che, appassionato della meccanica di precisione, fonda nel 1990 B.B. MEC S.r.l.<br><br>I primi lavori riguardano la produzione di <strong>impugnature per rasoi artigianali</strong> per specializzarsi in seguito nel settore dell’automotive: in quegli anni B.B. MEC conta 2 dipendenti.<br><br>Nel 2000 avviene l’incontro con il primo importante <strong>marchio di moda</strong>: è il momento in cui il settore aveva bisogno di un avvicinamento alla meccanica. Cresce la necessità di una produzione su larga scala, di <i>un prodotto ripetitivo che mantenga tuttavia la sua artigianalità ed accuratezza.</i><br><br>Al primo cliente legato al settore della moda, negli anni se ne affiancano molti altri: ad oggi BB collabora con i <strong>più importanti brand del lusso a livello mondiale</strong>. L’azienda negli anni si amplia, al suo interno si creano vari reparti per curare il <strong>ciclo completo dell’accessorio</strong>. </span><span>Nel 2014 nasce l’ultima azienda del gruppo, <strong>BB FEINMECHANIK</strong>, che con sede a Klagenfurt, si occupa della <strong>realizzazione di stampi a caldo e componenti stampati</strong>.<br><br>L’intuizione e il sogno di un giovane imprenditore sono diventati una <strong>solida ed affermata realtà</strong> nel tessuto industriale e sociale del territorio.<br><img id='la-nostra-storia-media' width='100%' src='img/moto_bb_mec.jpg'></span>",
          "footer":"",
          "images":[],
          "id":"8928391358503"
@@ -56,7 +56,7 @@
        {
           "voce":"BB partner progettuale",
           "subTitle":"",
-          "mainContent":"<span style='width: 50%;'>BB S.p.A. si pone non solo come esecutore, ma come vero e proprio <strong>partner progettuale, sicuro e affidabile</strong>, partecipa attivamente al processo di realizzazione dell’accessorio, così da garantire prestazioni sempre più complete, accurate e veloci.</span>",
+          "mainContent":"<span> BB S.p.A. si pone non solo come esecutore, ma come vero e proprio <strong>partner progettuale, sicuro e affidabile</strong>, partecipa attivamente al processo di realizzazione dell’accessorio, così da garantire prestazioni sempre più complete, accurate e veloci.</span><span></span>",
           "footer":"",
           "images":[],
           "id":"6775488110116"
@@ -64,7 +64,7 @@
        {
           "voce":"Campionatura",
           "subTitle":"",
-          "mainContent":"<span>Il percorso dell’accessorio nasce(inizia) nel reparto campionatura luogo dove l’idea del cliente prende forma, dove si elaborano <strong>soluzioni costruttive innovative e moderne</strong>,</span><span> avvalendosi, oltre alle attrezzature tradizionali, anche della <strong>prototipazione rapida</strong>. Fondamentale la competenza e l'esperienza dei tecnici; qui la <strong>manualità e l'artigianalità</strong> sono alla base della realizzazione dell’accessorio stesso.</span>",
+          "mainContent":"<span> Il percorso dell’accessorio nasce nel reparto campionatura luogo dove l’idea del cliente prende forma, dove si elaborano <strong>soluzioni costruttive innovative e moderne</strong>, avvalendosi, oltre alle attrezzature tradizionali, anche della <strong>prototipazione rapida</strong>. <br><br>Fondamentale la competenza e l'esperienza dei tecnici; qui la <strong>manualità e l'artigianalità</strong> sono alla base della realizzazione dell’accessorio stesso.</span><span></span>",
           "footer":"",
           "images":[],
           "id":"385186228662"
@@ -72,7 +72,7 @@
        {
           "voce":"Industrializzazione",
           "subTitle":"",
-          "mainContent":"Validato il prototipo, il reparto industrializzazione perfeziona l’articolo per la realizzazione su larga scala, <strong>ottimizzando costi e tempistiche</strong>. Si tratta di un centro di competenza fortemente orientato ai core business aziendali e costituisce il fondamentale <strong>anello di congiunzione tra</strong> le aree tecnica di<strong> progettazione e </strong>quella di <strong>produzione</strong>.",
+          "mainContent":"<span>Validato il prototipo, il reparto industrializzazione perfeziona l’articolo per la realizzazione su larga scala,<strong>ottimizzando costi e tempistiche</strong>. <br><br>Si tratta di un centro di competenza fortemente orientato ai corebusiness aziendali e costituisce il fondamentale <strong>anello di congiunzione tra</strong> le aree tecnica di<strong> progettazione e </strong>quella di <strong>produzione</strong>.</span><span></span>",
           "footer":"",
           "images":[],
           "id":"1292265386304"
@@ -80,7 +80,7 @@
        {
           "voce":"Materie e Materiali",
           "subTitle":"",
-          "mainContent":"BB S.p.A. è in grado di lavorare su <strong>diverse tipologie di materiali</strong>, oltre a quelli tradizionali quali ottone, acciaio, alluminio e materiali plastici, il reparto campionatura BB può esplorare ogni materiale desiderato dal cliente, effettuando ricerche di mercato e tecnologiche. <br>BB è attiva nella ricerca e sviluppo di nuovi materiali, mirati, a parità di performance, alla <strong>sostenibilità ambientale</strong>.<br>BB è in grado di realizzare il prodotto finale in diverse finiture superficiali, ricercando anche soluzioni innovative.",
+          "mainContent":"<span>BB S.p.A. è in grado di lavorare su <strong>diverse tipologie di materiali</strong>, oltre a quelli tradizionali qualiottone, acciaio, alluminio e materiali plastici, il reparto campionatura BB può esplorare ogni materiale desiderato dalcliente, effettuando ricerche di mercato e tecnologiche.</span><span>BB è attiva nella ricerca e sviluppo di nuovi materiali,mirati, a parità di performance, alla <strong>sostenibilità ambientale</strong>.<br>BB è in grado di realizzare ilprodotto finale in diverse finiture superficiali, ricercando anche soluzioni innovative.</span>",
           "footer":"",
           "images":[],
           "id":"444394404313"
@@ -88,7 +88,7 @@
        {
           "voce":"Produzione a 360°",
           "subTitle":"",
-          "mainContent":"BB S.p.A. è in grado di curare l’<strong>intero ciclo della produzione al suo interno</strong> o avvalendosi, nel caso di concezione stampata, della collaborazione con <strong>BB FEINMECHANIK</strong>, azienda del gruppo, specializzata in <strong>realizzazione stampi e stampaggi a caldo</strong>. La modernità delle unità produttive, il costante aggiornamento e ampliamento del parco macchine e l'alta professionalità del personale permette a BB di soddisfare in tempi brevi <strong>qualsiasi richiesta del cliente</strong>, mantenendo in ogni caso uno <strong>standard qualitativo elevato</strong>, sia nelle piccole che nelle grandi tirature. L'azienda, inoltre, è in grado di realizzare qualsiasi tipo di <strong>trattamento superficiale</strong>, fornendo così l'accessorio finito secondo le richieste del cliente. La customer care è sempre garantita dall’<strong>ufficio commerciale</strong> che accompagna l’articolo in ogni sua fase di lavorazione fino alla consegna al cliente.",
+          "mainContent":"<span>BB S.p.A. è in grado di curare l’<strong>intero ciclo della produzione al suo interno</strong> o avvalendosi, nel casodi concezione stampata, della collaborazione con <strong>BB FEINMECHANIK</strong>, azienda del gruppo, specializzata in<strong>realizzazione stampi e stampaggi a caldo</strong>. La modernità delle unità produttive, il costanteaggiornamento e ampliamento del parco macchine e l'alta professionalità del personale permette a BB di soddisfare intempi brevi <strong>qualsiasi richiesta del cliente</strong>, mantenendo in ogni caso uno <strong>standard qualitativo elevato</strong>, sia nelle piccole che nelle grandi tirature.</span><span> L'azienda, inoltre, è in grado di realizzarequalsiasi tipo di <strong>trattamento superficiale</strong>, fornendo così l'accessorio finito secondo le richieste delcliente. La customer care è sempre garantita dall’<strong>ufficio commerciale</strong> che accompagna l’articolo in ognisua fase di lavorazione fino alla consegna al cliente.</span>",
           "footer":"",
           "images":[],
           "id":"2469686961864"
@@ -96,7 +96,7 @@
        {
           "voce":"Lavorazioni Meccaniche",
           "subTitle":"",
-          "mainContent":"Il reparto lavorazioni meccaniche è costituto da <strong>torni e da centri di lavoro a controllo numerico</strong>, alcuni particolarmente indicati per le lavorazioni di incisione, altri più adatti alla produzione in serie. Inoltre dispone di un reparto attrezzato con <strong>macchinari per il taglio, l’incisione</strong> e la saldatura <strong>laser</strong>.",
+          "mainContent":"<span>Il reparto lavorazioni meccaniche è costituto da <strong>torni e da centri di lavoro a controllo numerico</strong>,alcuni particolarmente indicati per le lavorazioni di incisione, altri più adatti alla produzione in serie.<br><br>Inoltredispone di un reparto attrezzato con <strong>macchinari per il taglio, l’incisione</strong> e la saldatura<strong>laser</strong>.</span><span></span>",
           "footer":"",
           "images":[],
           "id":"9292649936642"
@@ -104,7 +104,7 @@
        {
           "voce":"Saldatura",
           "subTitle":"",
-          "mainContent":"Il reparto saldatura è costituito da <strong>20 moderne postazioni di lavoro</strong>, un <strong>forno rotativo continuo</strong> a controllo elettronico, una <strong>fresa</strong> dedicata per la realizzazione di piazzature grafitiche per saldatura. Le macchine, insieme al personale specializzato, permettono al reparto di rispondere a qualsiasi esigenza produttiva e qualitativa.",
+          "mainContent":"<span>Il reparto saldatura è costituito da <strong>20 moderne postazioni di lavoro</strong>, un <strong>forno rotativo continuo</strong> a controllo elettronico, una <strong>fresa</strong> dedicata per la realizzazione di piazzaturegrafitiche per saldatura. <br><br>Le macchine, insieme al personale specializzato, permettono al reparto di rispondere aqualsiasi esigenza produttiva e qualitativa.</span><span></span>",
           "footer":"",
           "images":[],
           "id":"5736766581662"
@@ -112,7 +112,7 @@
        {
           "voce":"Smalteria",
           "subTitle":"",
-          "mainContent":"La smalteria BB è in grado di effettuare <strong>smaltature su superfici difficili</strong> guidando il cliente verso le scelte migliori. Il personale qualificato del reparto cura anche il <strong>montaggio a mano</strong> di <strong>strass e pietre dure</strong> e realizza anche <strong>forme in cera</strong> per la realizzazione di manufatti con processo di <strong>fusione a cera persa</strong>, partendo dal primo prototipo realizzato interamente a mano da personale qualificato.",
+          "mainContent":"<span>La smalteria BB è in grado di effettuare <strong>smaltature su superfici difficili</strong> guidando il cliente versole scelte migliori.<br><br>Il personale qualificato del reparto cura anche il <strong>montaggio a mano</strong> di<strong>strass e pietre dure</strong> e realizza anche <strong>forme in cera</strong> per la realizzazione di manufatticon processo di <strong>fusione a cera persa</strong>, partendo dal primo prototipo realizzato interamente a mano dapersonale qualificato.</span><span></span>",
           "footer":"",
           "images":[],
           "id":"7919489898885"
@@ -120,7 +120,7 @@
        {
           "voce":"Galvanica",
           "subTitle":"",
-          "mainContent":"BB dispone anche di un reparto galvanica moderno e all’avanguardia. La collaborazione interna con <strong>laboratori di ricerca chimico-fisica</strong> permette di studiare <strong>finiture innovative</strong> e di rispondere a qualsiasi esigenza del cliente. I reparti interni di <strong>vibro-finitura</strong> e <strong>pulimentatura</strong>, consentono di gestire e ottimizzare un processo dedicato come la <strong>elettrodeposizione galvanica</strong> rendendolo industrialmente efficiente e, al contempo, preservando standard qualitativi elevati.",
+          "mainContent":"<span>BB dispone anche di un reparto galvanica moderno e all’avanguardia. La collaborazione interna con <strong>laboratori di ricerca chimico-fisica</strong> permette di studiare <strong>finiture innovative</strong> e di rispondere aqualsiasi esigenza del cliente.<br><br>I reparti interni di <strong>vibro-finitura</strong> e <strong>pulimentatura</strong>,consentono di gestire e ottimizzare un processo dedicato come la <strong>elettrodeposizione galvanica</strong>rendendolo industrialmente efficiente e, al contempo, preservando standard qualitativi elevati.</span><span></span>",
           "footer":"",
           "images":[],
           "id":"8087288243882"
@@ -128,7 +128,7 @@
        {
           "voce":"Montaggio",
           "subTitle":"",
-          "mainContent":"Il reparto montaggio è in grado di eseguire l’<strong>assemblaggio attento e curato</strong> di componenti in finitura preziosa, garantendo la <strong>funzionalità di meccanismi</strong> anche complessi e, allo stesso tempo, preservando l’estetica del prodotto.",
+          "mainContent":"<span>Il reparto montaggio è in grado di eseguire l’<strong>assemblaggio attento e curato</strong> di componenti in finiturapreziosa, garantendo la <strong>funzionalità di meccanismi</strong> anche complessi e, allo stesso tempo, preservandol’estetica del prodotto.</span><span></span>",
           "footer":"",
           "images":[],
           "id":"8087288243882"
@@ -136,7 +136,7 @@
        {
           "voce":"Termoformatura",
           "subTitle":"",
-          "mainContent":"Il viaggio dell’accessorio si conclude nel <strong>reparto confezionamento</strong>, dove il prodotto viene accuratamente imballato nel <strong>plateau ecologico brevettato da BB</strong> o secondo le <strong>specifiche del cliente</strong>.",
+          "mainContent":"<span>Il viaggio dell’accessorio si conclude nel <strong>reparto confezionamento</strong>, dove il prodotto vieneaccuratamente imballato nel <strong>plateau ecologico brevettato da BB</strong> o secondo le <strong>specifiche del cliente</strong>.</span><span></span>",
           "footer":"",
           "images":[],
           "id":"1219334177102"
@@ -144,7 +144,7 @@
        {
           "voce":"Percorso della qualità",
           "subTitle":"",
-          "mainContent":"Per garantire l’alta qualità del suo prodotto, BB opera un <strong>controllo rigoroso e costante</strong> delle eventuali difettosità in ogni fase del processo produttivo al fine di mantenere <strong>elevati gli standard di qualità</strong> dell’intera filiera.<br>All’interno del laboratorio di qualità, si eseguono <strong>prove meccaniche e chimico-fisiche</strong>. <br><strong>BB progetta</strong> e <strong>costruisce</strong> molte delle <strong>apparecchiature</strong> con cui vengono effettuati i test meccanici, richiesti dal cliente, per le prove chimico-fisiche si rivolge a <strong>laboratori esterni accreditati</strong>. ",
+          "mainContent":"<span>Per garantire l’alta qualità del suo prodotto, BB opera un <strong>controllo rigoroso e costante</strong> delleeventuali difettosità in ogni fase del processo produttivo al fine di mantenere <strong>elevati gli standard di qualità</strong> dell’intera filiera. </span><span> All’interno del laboratorio di qualità, si eseguono <strong>prove meccaniche e chimico-fisiche</strong>. <strong>BB progetta</strong> e <strong>costruisce</strong> molte delle<strong>apparecchiature</strong> con cui vengono effettuati i test meccanici, richiesti dal cliente, per le provechimico-fisiche si rivolge a <strong>laboratori esterni accreditati</strong>.</span>",
           "footer":"",
           "images":[],
           "id":"5737132138964"
@@ -152,7 +152,7 @@
        {
           "voce":"Ricerca e sviluppo",
           "subTitle":"",
-          "mainContent":"Grazie al reparto ricerca e sviluppo, BB è in grado di rispondere alle richieste produttive del cliente con lo sviluppo di sistemi e macchinari capaci di effettuare <strong>lavorazioni non convenzionali</strong> in maniera automatizzata, <strong>ottimizzando i tempi e i costi </strong>di quei processi produttivi fino ad oggi eseguiti manualmente.",
+          "mainContent":"<span>Grazie al reparto ricerca e sviluppo, BB è in grado di rispondere alle richieste produttive del cliente con lo sviluppodi sistemi e macchinari capaci di effettuare <strong>lavorazioni non convenzionali</strong> in maniera automatizzata,<strong>ottimizzando i tempi e i costi </strong>di quei processi produttivi fino ad oggi eseguiti manualmente.</span><span></span>",
           "footer":"Nel complesso, la struttura e le apparecchiature all’avanguardia che caratterizzano BB acquistano valore e prestigio soprattutto grazie alla <strong>competenza</strong>, l’<strong>efficienza</strong> e l’<strong>impegno</strong> dei suoi collaboratori: i responsabili della progettazione, gli addetti alla pianificazione e alla verifica del lavoro e i responsabili del controllo qualità integrano le rispettive professionalità alla <strong>continua ricerca dell’eccellenza</strong> che contraddistingue l’azienda.",
           "images":[],
           "id":"7023429588991"
