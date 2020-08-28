@@ -31,6 +31,14 @@ export default class MainContainer extends React.Component{
             footerData: props.footerData
         })
     }
+
+    componentDidUpdate(){
+        if(this.state.pageOrigin === 'voce-footer-menu'){
+            $('#main-container').animate({
+                scrollTop: 0
+            }, 500);
+        }
+    }
     
     componentDidMount(){
         changepageEvent.intereceptChangePageEvent((e) => {
@@ -79,16 +87,10 @@ export default class MainContainer extends React.Component{
                         scrollAnimationEndIndicator.setAnimationEnd(true);
                     });
                 }
-        })
+        });
+
     }
 
-    // componentWillReceiveProps(){
-    //     $('#main-container').fadeOut();
-    // }
-    
-    // componentDidUpdate(){
-    //     $('#main-container').fadeIn();
-    // }
     
     
     render(){
