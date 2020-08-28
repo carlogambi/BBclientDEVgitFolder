@@ -2,9 +2,9 @@ import langmanager from './../langs/langManager';
 import $ from 'jquery'
 let a = document.querySelector('#custom-event-dispatcher');
 
-const updateHtmlLangAttribute = (event) => {
-    if($('html').attr('lang') !== event.detail){
-        $('html').attr('lang', event.detail);
+const updateHtmlLangAttribute = (lang) => {
+    if($('html').attr('lang') !== lang){
+        $('html').attr('lang', lang);
     }
 }
 
@@ -16,13 +16,13 @@ export default {
                 'lang-changed', 
                 { detail: lang }
                 )
-            );
+                );
+        updateHtmlLangAttribute(lang);
 
     },
     intereceptChangeLangEvent: (callback) => {
         a.addEventListener('lang-changed', (event) => {
             callback(event);
-            updateHtmlLangAttribute(event);
         })
     }
 }
