@@ -52,13 +52,15 @@ export default class MainContainer extends React.Component{
                     page: pageManager.getCurrentPage(),
                 });
             }
-        });        
+        });    
+
         changeLangEvent.intereceptChangeLangEvent(() => {
             this.setState(()=>({
                 currentLang: langmanager.getCurrentLang(),
                 page: pageManager.getCurrentPage(),
             }));
         });
+        
         changePageSectionEvent.intercept((e) => { 
             let currentFocusedSection;
             document
