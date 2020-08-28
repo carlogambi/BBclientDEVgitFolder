@@ -34,3 +34,10 @@
     margin-left: 10%;
 
 }
+
+.t-l-mainContent span{
+    vertical-align: text-top;   
+    width: 50%;
+    margin-left: 0.4%;
+    margin-right: 0.4%;
+}
