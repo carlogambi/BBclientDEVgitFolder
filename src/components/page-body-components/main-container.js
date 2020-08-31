@@ -11,7 +11,7 @@ import PageGroup from './page-types/page-group'
 import changePageSectionEvent from '../../custom-events/changePageSectionEvent';
 
 import scrollAnimationEndIndicator from './../util/scroll-animation-end-indicator';
-
+import historyManager from './../util/history-management';
 
 import $ from 'jquery'
 
@@ -24,6 +24,18 @@ export default class MainContainer extends React.Component{
             pageOrigin: 'first-page',
             footerData: props.footerData
         }
+
+        historyManager.interceptChangeState((event) => {
+            if(event.state.payload){
+                // console.log(event.state)
+                if(langmanager.getCurrentLang() !== event.state.lang){
+                    changeLangEvent.triggerChangeLangEvent(event.state.lang)
+                }
+                if((pageManager.getCurrentPage().voce !== event.state.currentPage) && event.state.payload.isPageRef){
+                    changepageEvent.triggerChangePageEvent(event.state.currentPage)
+                }
+            }
+        })
     }
 
     componentWillReceiveProps(props){

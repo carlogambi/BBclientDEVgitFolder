@@ -2,18 +2,25 @@ import visiblePageSectionEvent from '../../custom-events/visiblePageSectionEvent
 
 import scrollAnimationEndIndicator from './scroll-animation-end-indicator';
 
-let currentVisible;
-let currentVisibleTitle;
+let currentVisible; //string: html node id 
+
+let currentVisibleTitle; //html node
 
 export default (targetId, containerId) => {
 
-    const visibleY = (el) => {
-        let rect = el.getBoundingClientRect();
+    const visibleY = (el) => { //input param -el-: html node
+        //initialization
+        let rect = el.getBoundingClientRect(); // object (with position & dimensions): { height: int, width: int, top: int, bottom: int, left: int, right: int, x: int, y: int }
         let top = rect.top, height = rect.height; 
-          el = el.parentNode;
+        el = el.parentNode; // html node: element id -> #main-container
+        
         do {
           rect = el.getBoundingClientRect();
-          if (top <= rect.bottom ) { if(rect.bottom === false){return false;}}
+          if (top <= rect.bottom ) {
+             if(rect.bottom === false){
+               return false;
+              }
+            }
           // Check if the element is out of view due to a container scrolling
           if ((top + height) <= rect.top) return false
           el = el.parentNode;

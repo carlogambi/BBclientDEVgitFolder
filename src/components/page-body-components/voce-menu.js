@@ -5,7 +5,9 @@ import changePageEvent from './../../custom-events/changePageEvent'
 
 import '../../styles-components/page-body-components/voce-menu.css';
 import changePageSectionEvent from '../../custom-events/changePageSectionEvent';
-import visiblePageSectionEvent from './../../custom-events/visiblePageSectionEvent'
+import visiblePageSectionEvent from './../../custom-events/visiblePageSectionEvent';
+import historyManager from './../util/history-management';
+import langmanager from '../../langs/langManager';
 
 
 export default class VoceMenu extends React.Component{
@@ -46,6 +48,7 @@ export default class VoceMenu extends React.Component{
             changePageSectionEvent.trigger(this.state.voce, 'voce-menu')
         }
         
+        historyManager.newState({currentPage: this.state.voce, lang: langmanager.getCurrentLang(), payload: {isPageRef: this.isPagRef}});
     }
     
     buildChild(){

@@ -10,10 +10,11 @@ import './fonts/font-manager.css'
 import './styles-components/app.css'
 
 ReactDOM.render(
-
-    <App />
+  
+  <App />
   ,
   document.getElementById('root')
-);
+  );
+  
+  serviceWorker.unregister();
 
-serviceWorker.unregister();
