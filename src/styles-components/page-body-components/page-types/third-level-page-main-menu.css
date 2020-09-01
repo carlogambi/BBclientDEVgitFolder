@@ -46,18 +46,14 @@
 
 .t-l-mainContent span{
     vertical-align: text-top;
-    width: 26em;   
-    max-height: 18em;
+    width: 22em;   
     /*width: 48.5%;*/
     margin-left: 1.6%;
     /*margin-right: 0.8%;*/
-    overflow: hidden;
 }
 
 .t-l-mainContent span video{
-    position: relative;
-    width: 110%;
-    left: -5%;
-    top: -5%;
+    width: 140%;
+    margin-left: -42%;
 }
 

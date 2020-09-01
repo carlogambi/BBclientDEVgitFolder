@@ -1,521 +1,521 @@
 {
-   "lang":"ita",
-   "areaRes":"area riservata",
-   "pagine":[
-      {
-         "voce":"prima pagina ITA",
-         "isFirstPage":true,
-         "subTitle":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
-         "mainContent":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
-         "footer":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
-         "images":[
-            "img/mainImg.jpg",
-            "img/placeholder2.png",
-            "img/cosa_facciamo.jpg",
-            "img/placeholder1.jpg"
-         ],
-         "id":"6699756649637"
-      },
-      {
-         "voce":"Chi siamo",
-         "images":[],
-         "id":"2540958409336"
-      },
-      {
-        "voce":" Cos’è BB",
-        "subTitle":"",
-        "mainContent":"<span>BB S.p.A. è un'<strong>azienda meccanica di precisione</strong> che produce accessori di alta qualità, realizzati nei materiali più vari. <br><br>BB cura il ciclo produttivo dalla progettazione e <strong>realizzazione del prototipo</strong> sino all'<strong>industrializzazione</strong> e alla <strong>produzione su larga scala</strong>, secondo le specifiche del cliente.<br><br>BB, insieme alle aziende del gruppo BB Holding di cui fa parte, è in grado di <strong>offrire al cliente un servizio completo</strong>, partendo dalla concezione stessa dell'idea iniziale, fino a raggiungere la raffinatezza che contraddistingue l'accessorio in metallo prezioso dell'oggettistica di lusso.</span><span> Il suo raffinato prodotto di precisione si rivolge a una clientela che esige la <strong>massima accuratezza</strong> delle rifiniture e la cui tipologia spazia nei settori più eterogenei del mercato.<br><video class='s-l-video' width='100%' autoplay loop> <source src='img/CentriPATENT_DET.mp4' type='video/mp4'> </video></span>",
-        "footer":"",
-        "images":[],
-        "id":"6202778809655"
-     },
-     {
-        "voce":"La nostra storia",
-        "subTitle":"",
-        "mainContent":"<span>BB S.p.A. nasce da un’idea di <strong>Marco Bartoletti</strong>, Presidente e Fondatore, che, appassionato della meccanica di precisione, fonda nel 1990 B.B. MEC S.r.l.<br><br>I primi lavori riguardano la produzione di <strong>impugnature per rasoi artigianali</strong> per specializzarsi in seguito nel settore dell’automotive: in quegli anni B.B. MEC conta 2 dipendenti.<br><br>Nel 2000 avviene l’incontro con il primo importante <strong>marchio di moda</strong>: è il momento in cui il settore aveva bisogno di un avvicinamento alla meccanica. Cresce la necessità di una produzione su larga scala, di <i>un prodotto ripetitivo che mantenga tuttavia la sua artigianalità ed accuratezza.</i><br><br>Al primo cliente legato al settore della moda, negli anni se ne affiancano molti altri: ad oggi BB collabora con i <strong>più importanti brand del lusso a livello mondiale</strong>. L’azienda negli anni si amplia, al suo interno si creano vari reparti per curare il <strong>ciclo completo dell’accessorio</strong>. </span><span>Nel 2014 nasce l’ultima azienda del gruppo, <strong>BB FEINMECHANIK</strong>, che con sede a Klagenfurt, si occupa della <strong>realizzazione di stampi a caldo e componenti stampati</strong>.<br><br>L’intuizione e il sogno di un giovane imprenditore sono diventati una <strong>solida ed affermata realtà</strong> nel tessuto industriale e sociale del territorio.<br><img id='la-nostra-storia-media' width='100%' src='img/moto_bb_mec.jpg'></span>",
-        "footer":"",
-        "images":[],
-        "id":"8928391358503"
-     },
-     {
-        "voce":"I nostri professionisti",
-        "subTitle":"",
-        "mainContent":"<span>BB ha da sempre investito in aggiornamento ed innovazione, puntando sullo sviluppo delle unità produttive, del parco macchine, del <strong>personale</strong>, sempre<strong> altamente qualificato</strong> in ogni comparto, per ogni lavorazione che l’accessorio richiede: dal disegno, dalla progettazione, alla galvanica, al montaggio, al controllo qualità.<br><br>BB è passata <strong>dai 2 ai 250 dipendenti diretti</strong> di oggi, creando un indotto di altrettanto valore.<br><br>Il <strong>team di BB è variegato</strong> in termini di competenze e professionalità: a fianco dei reparti produttivi, si trovano gli uffici dove i responsabili della progettazione, gli addetti alla pianificazione ed al controllo qualità integrano le rispettive professionalità alla <strong>continua ricerca dell'eccellenza</strong> che contraddistingue l'azienda.</span> <span> Fondamentale è il <strong>reparto commerciale</strong> di BB, il vero core business dell’azienda, il primo<strong> punto di riferimento per il cliente</strong>.<br><br>In azienda sono inoltre presenti figure professionali specifiche come una <strong>psicologa aziendale</strong>, disponibile per tutti i dipendenti, un <strong>team</strong> di professionisti rivolto all’<strong>etica del lavoro</strong>, ed un <strong>ingegnere ambientale</strong>, con la quale BB porta avanti progetti e ricerche sul tema <strong>sostenibilità</strong>. <br><br>BB si propone come <strong>partner sicuro e affidabile</strong> per i propri clienti garantendo un <strong>servizio</strong> sempre più <strong>completo, accurato</strong> e <strong>veloce</strong>, non limitandosi alla semplice progettazione e costruzione di particolari metallici, ma partecipando attivamente al loro sviluppo.</span>",
-        "footer":"",
-        "images":[],
-        "id":"9437028237259"
-     },
-      {
-         "voce":"Cosa facciamo",
+    "lang":"ita",
+    "areaRes":"area riservata",
+    "pagine":[
+       {
+          "voce":"prima pagina ITA",
+          "isFirstPage":true,
+          "subTitle":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "mainContent":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "footer":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "images":[
+             "img/mainImg.jpg",
+             "img/placeholder2.png",
+             "img/cosa_facciamo.jpg",
+             "img/placeholder1.jpg"
+          ],
+          "id":"6699756649637"
+       },
+       {
+          "voce":"Chi siamo",
+          "images":[],
+          "id":"2540958409336"
+       },
+       {
+         "voce":" Cos’è BB",
          "subTitle":"",
-         "mainContent":"",
+         "mainContent":"<span>BB S.p.A. è un'<strong>azienda meccanica di precisione</strong> che produce accessori di alta qualità, realizzati nei materiali più vari. <br><br>BB cura il ciclo produttivo dalla progettazione e <strong>realizzazione del prototipo</strong> sino all'<strong>industrializzazione</strong> e alla <strong>produzione su larga scala</strong>, secondo le specifiche del cliente.<br><br>BB, insieme alle aziende del gruppo BB Holding di cui fa parte, è in grado di <strong>offrire al cliente un servizio completo</strong>, partendo dalla concezione stessa dell'idea iniziale, fino a raggiungere la raffinatezza che contraddistingue l'accessorio in metallo prezioso dell'oggettistica di lusso.</span><span> Il suo raffinato prodotto di precisione si rivolge a una clientela che esige la <strong>massima accuratezza</strong> delle rifiniture e la cui tipologia spazia nei settori più eterogenei del mercato.<br><video class='s-l-video' width='100%' autoplay loop> <source src='img/CentriPATENT_DET.mp4' type='video/mp4'> </video></span>",
          "footer":"",
          "images":[],
-         "id":"9964398074230"
+         "id":"6202778809655"
       },
       {
-         "voce":"BB partner progettuale",
+         "voce":"La nostra storia",
          "subTitle":"",
-         "mainContent":"<span></span><span> BB S.p.A. si pone non solo come esecutore, ma come vero e proprio <strong>partner progettuale, sicuro e affidabile</strong>, partecipa attivamente al processo di realizzazione dell’accessorio, così da garantire prestazioni sempre più complete, accurate e veloci.</span>",
+         "mainContent":"<span>BB S.p.A. nasce da un’idea di <strong>Marco Bartoletti</strong>, Presidente e Fondatore, che, appassionato della meccanica di precisione, fonda nel 1990 B.B. MEC S.r.l.<br><br>I primi lavori riguardano la produzione di <strong>impugnature per rasoi artigianali</strong> per specializzarsi in seguito nel settore dell’automotive: in quegli anni B.B. MEC conta 2 dipendenti.<br><br>Nel 2000 avviene l’incontro con il primo importante <strong>marchio di moda</strong>: è il momento in cui il settore aveva bisogno di un avvicinamento alla meccanica. Cresce la necessità di una produzione su larga scala, di <i>un prodotto ripetitivo che mantenga tuttavia la sua artigianalità ed accuratezza.</i><br><br>Al primo cliente legato al settore della moda, negli anni se ne affiancano molti altri: ad oggi BB collabora con i <strong>più importanti brand del lusso a livello mondiale</strong>. L’azienda negli anni si amplia, al suo interno si creano vari reparti per curare il <strong>ciclo completo dell’accessorio</strong>. </span><span>Nel 2014 nasce l’ultima azienda del gruppo, <strong>BB FEINMECHANIK</strong>, che con sede a Klagenfurt, si occupa della <strong>realizzazione di stampi a caldo e componenti stampati</strong>.<br><br>L’intuizione e il sogno di un giovane imprenditore sono diventati una <strong>solida ed affermata realtà</strong> nel tessuto industriale e sociale del territorio.<br><img id='la-nostra-storia-media' width='100%' src='img/moto_bb_mec.jpg'></span>",
          "footer":"",
          "images":[],
-         "id":"6775488110116"
+         "id":"8928391358503"
       },
       {
-         "voce":"Campionatura",
+         "voce":"I nostri professionisti",
          "subTitle":"",
-         "mainContent":"<span> Il percorso dell’accessorio nasce nel reparto campionatura luogo dove l’idea del cliente prende forma, dove si elaborano <strong>soluzioni costruttive innovative e moderne</strong>, avvalendosi, oltre alle attrezzature tradizionali, anche della <strong>prototipazione rapida</strong>. <br><br>Fondamentale la competenza e l'esperienza dei tecnici; qui la <strong>manualità e l'artigianalità</strong> sono alla base della realizzazione dell’accessorio stesso.</span><span> <video autoplay loop muted> <source src='img/CAMPIONATURA-BB.mp4' type='video/mp4'/> </video></span>",
+         "mainContent":"<span>BB ha da sempre investito in aggiornamento ed innovazione, puntando sullo sviluppo delle unità produttive, del parco macchine, del <strong>personale</strong>, sempre<strong> altamente qualificato</strong> in ogni comparto, per ogni lavorazione che l’accessorio richiede: dal disegno, dalla progettazione, alla galvanica, al montaggio, al controllo qualità.<br><br>BB è passata <strong>dai 2 ai 250 dipendenti diretti</strong> di oggi, creando un indotto di altrettanto valore.<br><br>Il <strong>team di BB è variegato</strong> in termini di competenze e professionalità: a fianco dei reparti produttivi, si trovano gli uffici dove i responsabili della progettazione, gli addetti alla pianificazione ed al controllo qualità integrano le rispettive professionalità alla <strong>continua ricerca dell'eccellenza</strong> che contraddistingue l'azienda.</span> <span> Fondamentale è il <strong>reparto commerciale</strong> di BB, il vero core business dell’azienda, il primo<strong> punto di riferimento per il cliente</strong>.<br><br>In azienda sono inoltre presenti figure professionali specifiche come una <strong>psicologa aziendale</strong>, disponibile per tutti i dipendenti, un <strong>team</strong> di professionisti rivolto all’<strong>etica del lavoro</strong>, ed un <strong>ingegnere ambientale</strong>, con la quale BB porta avanti progetti e ricerche sul tema <strong>sostenibilità</strong>. <br><br>BB si propone come <strong>partner sicuro e affidabile</strong> per i propri clienti garantendo un <strong>servizio</strong> sempre più <strong>completo, accurato</strong> e <strong>veloce</strong>, non limitandosi alla semplice progettazione e costruzione di particolari metallici, ma partecipando attivamente al loro sviluppo.</span>",
          "footer":"",
          "images":[],
-         "id":"385186228662"
+         "id":"9437028237259"
       },
-      {
-         "voce":"Industrializzazione",
+       {
+          "voce":"Cosa facciamo",
+          "subTitle":"",
+          "mainContent":"",
+          "footer":"",
+          "images":[],
+          "id":"9964398074230"
+       },
+       {
+          "voce":"BB partner progettuale",
+          "subTitle":"",
+          "mainContent":"<span></span><span> BB S.p.A. si pone non solo come esecutore, ma come vero e proprio <strong>partner progettuale, sicuro e affidabile</strong>, partecipa attivamente al processo di realizzazione dell’accessorio, così da garantire prestazioni sempre più complete, accurate e veloci.</span>",
+          "footer":"",
+          "images":[],
+          "id":"6775488110116"
+       },
+       {
+          "voce":"Campionatura",
+          "subTitle":"",
+          "mainContent":"<span> Il percorso dell’accessorio nasce nel reparto campionatura luogo dove l’idea del cliente prende forma, dove si elaborano <strong>soluzioni costruttive innovative e moderne</strong>, avvalendosi, oltre alle attrezzature tradizionali, anche della <strong>prototipazione rapida</strong>. <br><br>Fondamentale la competenza e l'esperienza dei tecnici; qui la <strong>manualità e l'artigianalità</strong> sono alla base della realizzazione dell’accessorio stesso.</span><span> <video autoplay loop muted> <source src='img/CAMPIONATURA-BB.mp4' type='video/mp4'/> </video></span>",
+          "footer":"",
+          "images":[],
+          "id":"385186228662"
+       },
+       {
+          "voce":"Industrializzazione",
+          "subTitle":"",
+          "mainContent":"<span> Validato il prototipo, il reparto industrializzazione perfeziona l’articolo per la realizzazione su larga scala, <strong>ottimizzando costi e tempistiche</strong>. <br><br>Si tratta di un centro di competenza fortemente orientato ai core business aziendali e costituisce il fondamentale <strong>anello di congiunzione tra</strong> le aree tecnica di<strong> progettazione e </strong>quella di <strong>produzione</strong>.</span><span> <video autoplay loop muted> <source src='img/INDUSTRIALIZZAZIONE-BB.mp4' type='video/mp4'/> </video></span>",
+          "footer":"",
+          "images":[],
+          "id":"1292265386304"
+       },
+       {
+          "voce":"Materie e Materiali",
+          "subTitle":"",
+          "mainContent":"<span>BB S.p.A. è in grado di lavorare su <strong>diverse tipologie di materiali</strong>, oltre a quelli tradizionali qualiottone, acciaio, alluminio e materiali plastici, il reparto campionatura BB può esplorare ogni materiale desiderato dalcliente, effettuando ricerche di mercato e tecnologiche.</span><span>BB è attiva nella ricerca e sviluppo di nuovi materiali,mirati, a parità di performance, alla <strong>sostenibilità ambientale</strong>.<br>BB è in grado di realizzare ilprodotto finale in diverse finiture superficiali, ricercando anche soluzioni innovative.</span>",
+          "footer":"",
+          "images":[],
+          "id":"444394404313"
+       },
+       {
+          "voce":"Produzione a 360°",
+          "subTitle":"",
+          "mainContent":"<span>BB S.p.A. è in grado di curare l’<strong>intero ciclo della produzione al suo interno</strong> o avvalendosi, nel casodi concezione stampata, della collaborazione con <strong>BB FEINMECHANIK</strong>, azienda del gruppo, specializzata in<strong>realizzazione stampi e stampaggi a caldo</strong>. La modernità delle unità produttive, il costanteaggiornamento e ampliamento del parco macchine e l'alta professionalità del personale permette a BB di soddisfare intempi brevi <strong>qualsiasi richiesta del cliente</strong>, mantenendo in ogni caso uno <strong>standard qualitativo elevato</strong>, sia nelle piccole che nelle grandi tirature.</span><span> L'azienda, inoltre, è in grado di realizzarequalsiasi tipo di <strong>trattamento superficiale</strong>, fornendo così l'accessorio finito secondo le richieste delcliente. La customer care è sempre garantita dall’<strong>ufficio commerciale</strong> che accompagna l’articolo in ognisua fase di lavorazione fino alla consegna al cliente.</span>",
+          "footer":"",
+          "images":[],
+          "id":"2469686961864"
+       },
+       {
+          "voce":"Lavorazioni Meccaniche",
+          "subTitle":"",
+          "mainContent":"<span> Il reparto lavorazioni meccaniche è costituto da <strong>torni e da centri di lavoro a controllo numerico</strong>, alcuni particolarmente indicati per le lavorazioni di incisione, altri più adatti alla produzione in serie.<br><br>Inoltre dispone di un reparto attrezzato con <strong>macchinari per il taglio, l’incisione</strong> e la saldatura <strong>laser</strong>.</span><span> <video autoplay loop muted> <source src='img/LAV-MEC-BB.mp4' type='video/mp4'/> </video></span>",
+          "footer":"",
+          "images":[],
+          "id":"9292649936642"
+       },
+       {
+          "voce":"Saldatura",
+          "subTitle":"",
+          "mainContent":"<span> Il reparto saldatura è costituito da <strong>20 moderne postazioni di lavoro</strong>, un <strong>forno rotativo continuo</strong> a controllo elettronico, una <strong>fresa</strong> dedicata per la realizzazione di piazzature grafitiche per saldatura. <br><br>Le macchine, insieme al personale specializzato, permettono al reparto di rispondere a qualsiasi esigenza produttiva e qualitativa.</span><span> <video autoplay loop muted> <source src='img/SALDATURA-BB.mp4' type='video/mp4'/> </video></span>",
+          "footer":"",
+          "images":[],
+          "id":"5736766581662"
+       },
+       {
+          "voce":"Smalteria",
+          "subTitle":"",
+          "mainContent":"<span> La smalteria BB è in grado di effettuare <strong>smaltature su superfici difficili</strong> guidando il cliente verso le scelte migliori.<br><br>Il personale qualificato del reparto cura anche il <strong>montaggio a mano</strong> di <strong>strass e pietre dure</strong> e realizza anche <strong>forme in cera</strong> per la realizzazione di manufatti con processo di <strong>fusione a cera persa</strong>, partendo dal primo prototipo realizzato interamente a mano da personale qualificato.</span><span> <video autoplay loop muted> <source src='img/SMALTERIA-BB.mp4' type='video/mp4'/> </video></span>",
+          "footer":"",
+          "images":[],
+          "id":"7919489898885"
+       },
+       {
+          "voce":"Galvanica",
+          "subTitle":"",
+          "mainContent":"<span> BB dispone anche di un reparto galvanica moderno e all’avanguardia. La collaborazione interna con <strong>laboratori di ricerca chimico-fisica</strong> permette di studiare <strong>finiture innovative</strong> e di rispondere a qualsiasi esigenza del cliente.<br><br>I reparti interni di <strong>vibro-finitura</strong> e <strong>pulimentatura</strong>, consentono di gestire e ottimizzare un processo dedicato come la <strong>elettrodeposizione galvanica</strong> rendendolo industrialmente efficiente e, al contempo, preservando standard qualitativi elevati.</span><span> <video autoplay loop muted> <source src='img/GALVANICA-BB.mp4' type='video/mp4'/> </video></span>",
+          "footer":"",
+          "images":[],
+          "id":"8087288243882"
+       },
+       {
+          "voce":"Montaggio",
+          "subTitle":"",
+          "mainContent":"<span> Il reparto montaggio è in grado di eseguire l’<strong>assemblaggio attento e curato</strong> di componenti in finitura preziosa, garantendo la <strong>funzionalità di meccanismi</strong> anche complessi e, allo stesso tempo, preservando l’estetica del prodotto.</span><span> <video autoplay loop muted> <source src='img/MONTAGGIO-BB.mp4' type='video/mp4'/> </video></span>",
+          "footer":"",
+          "images":[],
+          "id":"8087288243882"
+       },
+       {
+          "voce":"Termoformatura",
+          "subTitle":"",
+          "mainContent":"<span> Il viaggio dell’accessorio si conclude nel <strong>reparto confezionamento</strong>, dove il prodotto viene accuratamente imballato nel <strong>plateau ecologico brevettato da BB</strong> o secondo le <strong>specifiche del cliente</strong>.</span><span> <video autoplay loop muted> <source src='img/CONFEZIONAMENTO-BB.mp4' type='video/mp4'/> </video></span>",
+          "footer":"",
+          "images":[],
+          "id":"1219334177102"
+       },
+       {
+          "voce":"Percorso della qualità",
+          "subTitle":"",
+          "mainContent":"<span>Per garantire l’alta qualità del suo prodotto, BB opera un <strong>controllo rigoroso e costante</strong> delleeventuali difettosità in ogni fase del processo produttivo al fine di mantenere <strong>elevati gli standard di qualità</strong> dell’intera filiera. </span><span> All’interno del laboratorio di qualità, si eseguono <strong>prove meccaniche e chimico-fisiche</strong>. <strong>BB progetta</strong> e <strong>costruisce</strong> molte delle<strong>apparecchiature</strong> con cui vengono effettuati i test meccanici, richiesti dal cliente, per le provechimico-fisiche si rivolge a <strong>laboratori esterni accreditati</strong>.</span>",
+          "footer":"",
+          "images":[],
+          "id":"5737132138964"
+       },
+       {
+          "voce":"Ricerca e sviluppo",
+          "subTitle":"",
+          "mainContent":"<span> <video autoplay loop muted style='margin-top:0em; width:102%;'> <source src='img/RICERCA-E-SVILUPPO-BB.mp4' type='video/mp4'/> </video></span><span> Grazie al reparto ricerca e sviluppo, BB è in grado di rispondere alle richieste produttive del cliente con lo sviluppo di sistemi e macchinari capaci di effettuare <strong>lavorazioni non convenzionali</strong> in maniera automatizzata, <strong>ottimizzando i tempi e i costi </strong>di quei processi produttivi fino ad oggi eseguiti manualmente.</span>",
+          "footer":"Nel complesso, la struttura e le apparecchiature all’avanguardia che caratterizzano BB acquistano valore e prestigio soprattutto grazie alla <strong>competenza</strong>, l’<strong>efficienza</strong> e l’<strong>impegno</strong> dei suoi collaboratori: i responsabili della progettazione, gli addetti alla pianificazione e alla verifica del lavoro e i responsabili del controllo qualità integrano le rispettive professionalità alla <strong>continua ricerca dell’eccellenza</strong> che contraddistingue l’azienda.",
+          "images":[],
+          "id":"7023429588991"
+       },
+       {
+          "voce":"Il nostro operare",
+          "subTitle":"",
+          "mainContent":"Il successo di BB non segue le tradizionali logiche economiche e quello che il Presidente Marco Bartoletti è riuscito a costruire va oltre il valore finanziario di un’<strong>impresa sana</strong>  ed economicamente indipendente.<br> <strong>Eccellenza qualitativa, creatività</strong>  ed <strong>attenzione alla persona</strong>  sono i pilastri e le fondamenta dell’identità e della filosofia aziendale. Il segreto risiede nel lavoro vero e nell’etica sociale</strong>  di una realtà che investe gli utili in <strong>ricerca e sviluppo</strong>  rimanendo sempre vicina ai propri collaboratori considerati una vera e propria famiglia.<br>BB è infatti fermamente convinta che l’economia del futuro si costruisca <strong>mettendo al centro le persone</strong>  e intendendo il lavoro come una delle più nobili espressioni del valore umano. Fare impresa essendo etici non solo è possibile, ma anche un dovere morale ed il <strong>profitto si può coniugare all’aspetto sociale</strong> , l’impresa diviene il tramite attraverso cui attualizzare i <strong>propri valori etici e politici</strong> .<br>Per questo motivo BB ha fatto della “<strong>non esclusione</strong> ” il punto cardine di tutta la sua politica aziendale, facendo convivere al suo interno <strong>collaboratori di etnie e religioni diverse, uomini e donne</strong> , e tra questi anche persone che vivono <strong>vari tipi di difficoltà</strong> .<br>Attraverso il lavoro le persone in difficoltà ricominciano a vivere, ritrovano il sorriso perduto e la dignità, vivono un miracolo lavorativo quotidiano che offre l’opportunità  di essere persone.<br> <i>“Per ogni persona per quanto disabilitante possa essere la sua patologia o la sua condizione esiste un lavoro che può svolgere sfruttando al meglio le proprie capacità residue. Questi lavoratori non rappresentano un freno per l’azienda” ricorda sempre il presidente Marco Bartoletti “ma anzi, se responsabilizzati e messi nelle giuste condizione psicologiche e ambientali, possono ‘rendere’ tanto quanti i lavoratori normodotati dimostrandosi spesso più motivati. L’impegno quotidiano di questi soggetti è per loro in qualche modo terapeutico in quando ne accresce l’autostima non facendoli sentire un peso per la famiglia o per la società e riesce anche a farli sentire meglio fisicamente. Sono fermamente convinto che la disabilità nasconda facoltà che noi neppure conosciamo e il lavoro riesca a tirar fuori queste capacità nascoste o tarpate. Purtroppo la società privando le persone malate di una vita normale ha fatto peggio della malattia, gli ha tolto la dignità.”</i><br>L’azienda diventa un luogo nel quale <strong>nessuno viene lasciato indietro</strong>, ma dove tutti condividono un cammino insieme e un progetto industriale, e si costruisce un pezzo di <strong>futuro</strong> anche per chi il futuro fatica ad immaginarselo. <br>Ai dipendenti BB non si chiede di essere in buona salute, ma di dare il massimo nel lavoro, di far parte di una squadra vincente, stimolando il senso di appartenenza e partecipazione, così da realizzare tutti insieme un luogo nel quale nessuno venga lasciato indietro.",
+          "footer":"",
+          "images":[],
+          "id":"9808468696997"
+       },
+       {
+          "voce":"La persona al centro dell’impresa",
+          "subTitle":"",
+          "mainContent":"<span>Il successo di BB non segue le tradizionali logiche economiche e quello che il Presidente Marco Bartoletti è riuscito a costruire va oltre il valore finanziario di un’<strong>impresa sana, solida</strong> ed economicamente indipendente. <strong>Eccellenza qualitativa</strong>, <strong>creatività</strong> ed <strong>attenzione alla persona</strong> sono i pilastri e le fondamenta dell’identità e della filosofia aziendale. Il segreto risiede nel lavoro vero e nell’<strong>etica sociale</strong> di una realtà che investe gli utili in <strong>ricerca e sviluppo</strong> rimanendo sempre vicina ai propri collaboratori considerati una vera e propria famiglia.<br>BB è infatti fermamente convinta che l’economia del futuro si costruisca <strong>mettendo al centro le persone</strong> e intendendo il lavoro come una delle più nobili espressioni del valore umano. Fare impresa essendo etici non solo è possibile, ma anche un dovere morale ed il <strong>profitto si può coniugare all’aspetto sociale</strong>, l’impresa diviene il tramite attraverso cui attualizzare i <strong>propri valori etici e politici</strong>.<br>Per questo motivo BB ha fatto della <strong>“non esclusione”</strong> il punto cardine di tutta la sua politica aziendale, facendo convivere al suo interno <strong>collaboratori di etnie e religioni diverse, uomini e donne</strong>, e tra questi anche persone che vivono <strong>vari tipi di difficoltà</strong>.<br>“Attraverso il lavoro le persone in difficoltà ricominciano a vivere, ritrovano il sorriso perduto e la dignità, vivono un miracolo lavorativo quotidiano che offre l’opportunità di essere persone.” M.B.<br><i>“Per ogni persona per quanto disabilitante possa essere la sua patologia o la sua condizione esiste un lavoro che può svolgere sfruttando al meglio le proprie capacità residue. Questi lavoratori non rappresentano un freno per l’azienda” ricorda sempre il presidente Marco Bartoletti “ma anzi, se responsabilizzati e messi nelle giuste condizione psicologiche e ambientali, possono ‘rendere’ tanto quanti i lavoratori normodotati dimostrandosi spesso più motivati. L’impegno quotidiano di questi soggetti è per loro in qualche modo terapeutico in quando ne accresce l’autostima non facendoli sentire un peso per la famiglia o per la società e riesce anche a farli sentire meglio fisicamente. Sono fermamente convinto che la disabilità nasconda facoltà che noi neppure conosciamo e il lavoro riesca a tirar fuori queste capacità nascoste o tarpate. Purtroppo la società privando le persone malate di una vita normale ha fatto peggio della malattia, gli ha tolto la dignità.”</i><br>L’azienda diventa un luogo nel quale <strong>nessuno viene lasciato indietro</strong>, ma dove tutti condividono un cammino insieme e un progetto industriale, e si costruisce un pezzo di <strong>futuro</strong> anche per chi il futuro fatica ad immaginarselo. L’azienda diventa lo specchio del territorio, le peculiarità della comunità si intrecciano con l’impresa e i valori presenti all’interno di BB si riversano sul tessuto sociale.<br>Ai dipendenti BB si chiede di dare il massimo nel lavoro, impegnandosi e facendo parte di una squadra vincente, stimolando il senso di appartenenza e partecipazione, così da realizzare tutti insieme un luogo nel quale nessuno venga lasciato indietro. Le competenze ed i saperi si scambiano e si completano fino al raggiungimento di un sicuro equilibrio operativo.<br>L’imprenditoria italiana può e deve fare da apripista a un’altra idea di impresa, dove il profitto si coniuga all’<strong>aspetto sociale</strong>, senza pietismi e continuando a fare <strong>business</strong>.</span><span></span>",
+          "footer":"",
+          "images":[],
+          "id":"2624315114898"
+       },
+       {
+          "voce":"Innovazione continua",
+          "subTitle":"",
+          "mainContent":"<span>Fin dall’inizio della sua attività imprenditoriale BB S.p.A. ha sempre rivolto una particolare attenzione alla <strong>ricerca e sviluppo</strong> e alla collaborazione con gli enti di ricerca scientifica, per una continua <strong>innovazione dei prodotti</strong> e del <strong>miglioramento dei processi</strong> aziendali.<br>Le collaborazioni, con l’ambiente universitario fiorentino in particolare, sono avvenute fino al 2015 tramite il consorzio <strong>Pro.Mo.Design</strong>, di cui BB è stato uno dei soci fondatori insieme al Comune di Calenzano. L’obiettivo strategico di Pro.Mo.Design era <strong>creare una rete nazionale di Università</strong>, laboratori e partner da cui potesse scaturire una “filiera del valore”, in grado di “trasformare un’idea in un prodotto”.<br>Da tale esperienza sono giunti i contatti con l’<strong>Università di Firenze</strong> e con i laboratori di ricerca ad essa collegati, con i quali BB ha valutato e condiviso idee e progetti.<br>Con l’inizio del 2016 il gruppo BB ha dunque deciso di rendere ancora più stretta e fattiva la collaborazione con l’Università acquisendo una quota di partecipazione nel <strong>PIN, il Polo Universitario città di Prato</strong>.<br>Negli ultimi anni BB è stata impegnata come incubatrice per la promozione e formazione di nuove realtà imprenditoriali del territorio. In quest’ottica BB fornisce tutto il supporto necessario per un sicuro avvio dell’attività lavorativa, mettendo a disposizione spazi, attrezzature e etica del lavoro. Infine BB fornisce anche il lavoro stesso.<br>L’interesse per la ricerca è un punto focale nella policy di BB S.p.A., in quanto è volto al miglioramento continuo.<br><br>Il progetto <strong>MASS</strong> “Materiali innovativi naturali e sostenibili per accessori, finiture e oggettistica di lusso” in collaborazione con il PIN di Prato, ha avuto come obiettivo la realizzazione di nuovi prodotti migliorando la sostenibilità del processo produttivo e del prodotto finito.<br><br>Il progetto <strong>FOMEMI</strong> “Sensori e strumenti a tecnologia fotonica per medicina a minima invasività” ha previsto la progettazione e realizzazione di componenti per il settore biomedicale, in particolare per lo sviluppo di un sistema innovativo di trattamento ulcere tramite laser. Grazie all’esperienza in metallizzazione e rivestimenti superficiali di alta qualità, su materiali di varia natura, BB S.p.A.ha portato avanti la sua attività di ricerca con l’obiettivo di trasferire su un nuovo mercato, il biomedicale, competenze tecnologiche legate alla meccanica e al trattamento superficiale di lusso.<br>Progetti di ricerca: www.bbSpa.eu/progetti_bb.pdf </span><span></span>",
+          "footer":"",
+          "images":[],
+          "id":"4649410036447"
+       },
+       {
+          "voce":"BB per l’ambiente",
+          "subTitle":"",
+          "mainContent":"<span>BB S.p.A. ha sempre creduto alla necessità di <strong>innovazione dell’industria</strong>, e sta già portando avanti tematiche importanti quali la <strong>responsabilità sociale d’impresa</strong> e le <strong>tematiche ambientali</strong>.<br>Negli ultimi anni si è accentuata in maniera esponenziale la consapevolezza dell’impatto che ogni attività umana ha sull’ambiente. Il tema della <strong>sostenibilità delle imprese</strong> è destinato a diventare una tematica centrale nella definizione degli obiettivi strategici per le aziende.<br>In quest’ottica BB ha pionieristicamente studiato la possibilità di utilizzare <strong>bioplastiche compostabili al 100%</strong> per i prodotti floccati o di termoformatura, ottenendo con successo un prodotto biodegradabile e compostabile, rispettoso dell’ambiente, che l’azienda produce e utilizza come packaging.<br>Nel 2015 BB ha ottenuto un <strong>importante riconoscimento dal CONAI</strong> (Consorzio Nazionale Imballaggi) come azienda che ha sviluppato una soluzione di packaging innovativa e sostenibile partecipando al progetto di prevenzione <i>«Valorizzare la sostenibilità ambientale degli imballaggi»</i><br>BB s’impegna a ridurre i propri consumi, su cui effettua una costante attività di monitoraggio, in particolare quelli legati al parco macchine (industria 4.0), all’utilizzo di acqua, energia elettrica e al condizionamento ambienti, cercando di implementare soluzioni a minor impatto in termini ambientali e di costi sostenuti.<br>Alcuni esempi per la <strong>riduzione della Carbon Footprint</strong>:<ol type='1'><li>Parco auto ecologico;</li><li>Progressiva sostituzione delle illuminazioni tradizionali con illuminazioni led in tutti gli stabilimenti;</li><li>Recupero del calore dissipato dalle macchine per condizionamento ambienti;</li><li>Acquisto energia proveniente da fonti rinnovabili; </li><li>Utilizzo packaging termoformato compostabile;  </li><li>Utilizzo di carta FSC e ECF;</li><li>Utilizzo di kit per caffè compostabile;</li><li>Dispenser di acqua per diminuire il consumo di plastica in bottiglia;</li></ol><br>Un altro obiettivo è legato al <strong>monitoraggio ed al coinvolgimento della supply chain</strong>, ovvero mirato a far sì che tutti i fornitori di BB si conformino agli standard etici ed ambientali, di uso di chemicals, di sicurezza, tracciabilità.</span><span></span>",
+          "footer":"",
+          "images":[],
+          "id":"9321371046177"
+       },
+       {
+          "voce":"I nostri impegni sociali",
+          "subTitle":"",
+          "mainContent":"<span>BB è inserita appieno nel <strong>tessuto sociale</strong> con un’attenzione costante al territorio e a tutti gli individui operanti per l’azienda, convinta che il mondo non vada consumato, ma utilizzato con rispetto e attenzione in chiave di <strong>creazione di valore</strong>.Il lavoro e l’impresa diventano gli strumenti con cui <strong>migliorare la vita</strong> di chi lavora, custodire le <strong>bellezze del mondo</strong>, realizzare progetti rivolti alle <strong>future generazioni</strong> e alla società.</span>",
+          "footer":"",
+          "images":[],
+          "id":"663339631964"
+       },
+       {
+          "voce":"Territorio",
+          "subTitle":"",
+          "mainContent":"<span>In questa ottica BB ha come leitmotiv del suo operato l’attenzione per l’ambiente ed il territorio che l’accoglie. Da anni l’azienda tiene stretti rapporti con il Comune di Calenzano, condividendo progetti e organizzando eventi per la cittadinanza sempre indirizzati alla non esclusione lavorativa e sociale. <br>Un esempio di plus valore restituito al territorio è Villa Petruzzi, villa-fattoria del XIV secolo, che BB ha preso recentemente in gestione e dove ha restaurato gratuitamente la Chiesa/Cappella privata e l’Oratorio di Santa Maria a Fibbiana, gli ambienti della Tinaia e gli appartamenti padronali, sotto l’alta sorveglianza della Soprintendenza Archeologia, Belle Arti e Paesaggio per la Città Metropolitana di Firenze e per le Province di Pistoia e Prato.<br>Nella Villa vengono organizzati eventi gratuiti per la Comunità e vengono accolti i clienti.<br>Qui verrà realizzato il Centro Design, luogo dove vivere la creazione dell’accessorio. Ogni stilista infatti troverà spazio per progettare, sperimentare, collaudare l’accessorio immaginato vivendo un’esperienza a 360°. Il cliente potrà avvalersi di professionisti <u>dell’Università di Disegno Industriale, esperti di meccanica, ma anche artigiani, smaltatori e pellettieri</u> così da concretizzare l’integrazione e la fusione tra tradizione e innovazione in una location di prestigio.</span><span></span>",
+          "footer":"",
+          "images":[],
+          "id":"3941110077752"
+       },
+       {
+          "voce":"Associazioni",
+          "subTitle":"",
+          "mainContent":"<span>Questo approccio lavorativo è condiviso con i fornitori promuovendo anche con loro l’integrazione lavorativa e lo sviluppo di una cultura inclusiva di <strong>buone pratiche</strong>.<br>BB nella filiera produttiva ha inserito anche delle Cooperative ed Associazioni impegnate nel sociale, come <strong>Lettera Otto</strong> che da anni si occupa dell’inserimento dei giovani disabili nel mondo del lavoro e <strong>Azur Loppiano</strong>, dove è stato creato un reparto ad hoc di montaggio e confezionamento. <br>L’approccio etico di BB si estende anche al supporto di attività a beneficio del territorio locale e al sostegno di Associazioni impegnate nel sociale, come la <strong>Parent Project Onlus</strong>, associazione impegnata nella lotta alla distrofia muscolare di Duchenne, <strong>l’A.I.L.</strong> (Associazione italiana contro le leucemie-linfomi e mieloma), la <strong>Misericordia di Calenzano</strong> e <strong>l’Associazione Habilia</strong>. Con queste ultime realtà BB ha instaurato un dialogo grazie al quale gli utenti di queste associazioni possono avere un canale preferenziale per la ricerca del lavoro attraverso l’azienda o i fornitori con cui viene condivisa la politica di inserimento nel mondo del lavoro di persone in difficoltà.<br>Altra importante collaborazione si è sviluppata con l’ospedale Universitario di Careggi e il <strong>GOIRC</strong> (Gruppo Oncologico Italiano di Ricerca Clinica), con il quale nel 2015, 2017 e 2019 BB ha organizzato convegni di divulgazione e prevenzione medico-oncologica per la cittadinanza e realizzato una raccolta fondi per il gruppo di ricerca scientifica. </span><span></span>",
+          "footer":"",
+          "images":[],
+          "id":"1856942564937"
+       },
+       {
+          "voce":"Istituzioni",
+          "subTitle":"",
+          "mainContent":"<span>BB collabora da anni con le Istituzioni locali e nazionali. E’ disponibile con Scuole Professionali ed Università ad accogliere neodiplomati e neolaureati per percorsi di stage e tirocinii, facilitando la conoscenza e l’inserimento nel mondo del lavoro.</span><span></span>",
+          "footer":"",
+          "images":[],
+          "id":"3897234816367"
+       },
+       {
+          "voce":"BB per lo sport",
+          "subTitle":"",
+          "mainContent":"<span>All’interno dell’azienda molti collaboratori sono attivi anche nell’ambito sportivo, BB sostiene l’attività sportiva per persone con difficoltà: sci, pallavolo, handbike, tennis.</span><span></span>",
+          "footer":"",
+          "images":[],
+          "id":"6609157950027"
+       },
+       {
+          "voce":"BB per l'ambiente",
+          "subTitle":"",
+          "mainContent":"<span>BB S.p.A. ha sempre creduto alla necessità di <strong>innovazione dell’industria</strong>, e sta già portando avanti tematiche importanti quali la <strong>responsabilità sociale d’impresa</strong> e le <strong>tematiche ambientali</strong>.<br>Negli ultimi anni si è accentuata in maniera esponenziale la consapevolezza dell’impatto che ogni attività umana ha sull’ambiente. Il tema della <strong>sostenibilità delle imprese</strong> è destinato a diventare una tematica centrale nella definizione degli obiettivi strategici per le aziende.<br>In quest’ottica BB ha pionieristicamente studiato la possibilità di utilizzare <strong>bioplastiche compostabili al 100%</strong> per i prodotti floccati o di termoformatura, ottenendo con successo un prodotto biodegradabile e compostabile, rispettoso dell’ambiente, che l’azienda produce e utilizza come packaging.<br>Nel 2015 BB ha ottenuto un <strong>importante riconoscimento dal CONAI</strong> (Consorzio Nazionale Imballaggi) come azienda che ha sviluppato una soluzione di packaging innovativa e sostenibile partecipando al progetto di prevenzione <i>«Valorizzare la sostenibilità ambientale degli imballaggi»</i><br>BB s’impegna a ridurre i propri consumi, su cui effettua una costante attività di monitoraggio, in particolare quelli legati al parco macchine (industria 4.0), all’utilizzo di acqua, energia elettrica e al condizionamento ambienti, cercando di implementare soluzioni a minor impatto in termini ambientali e di costi sostenuti.<br>Alcuni esempi per la <strong>riduzione della Carbon Footprint</strong>:<ol type='1'><li>Parco auto ecologico;</li><li>Progressiva sostituzione delle illuminazioni tradizionali con illuminazioni led in tutti gli stabilimenti;</li><li>Recupero del calore dissipato dalle macchine per condizionamento ambienti;</li><li>Acquisto energia proveniente da fonti rinnovabili; </li><li>Utilizzo packaging termoformato compostabile;  </li><li>Utilizzo di carta FSC e ECF;</li><li>Utilizzo di kit per caffè compostabile;</li><li>Dispenser di acqua per diminuire il consumo di plastica in bottiglia;</li></ol><br>Un altro obiettivo è legato al <strong>monitoraggio ed al coinvolgimento della supply chain</strong>, ovvero mirato a far sì che tutti i fornitori di BB si conformino agli standard etici ed ambientali, di uso di chemicals, di sicurezza, tracciabilità.</span><span></span>",
+          "footer":"",
+          "images":[],
+          "id":"8225992546837"
+       },
+       {
+         "voce":"Certificazioni",
          "subTitle":"",
-         "mainContent":"<span> Validato il prototipo, il reparto industrializzazione perfeziona l’articolo per la realizzazione su larga scala, <strong>ottimizzando costi e tempistiche</strong>. <br><br>Si tratta di un centro di competenza fortemente orientato ai core business aziendali e costituisce il fondamentale <strong>anello di congiunzione tra</strong> le aree tecnica di<strong> progettazione e </strong>quella di <strong>produzione</strong>.</span><span> <video autoplay loop muted> <source src='img/INDUSTRIALIZZAZIONE-BB.mp4' type='video/mp4'/> </video></span>",
+         "mainContent":"<span>BB Spa a coronamento degli sforzi profusi per lo sviluppo in ambito tecnologico, produttivo e etico, si è vista riconoscere tre importanti <strong>certificazioni</strong>, tradotte poi in standard applicativi.<br>Con l’applicazione dello standard <strong>SA8000</strong>, BB Spa dichiara di voler rispettare le regole sull’etica del lavoro definite dalle più importanti organizzazioni mondiali per la tutela dei diritti umani e del lavoro, con la <strong>ISO 14001</strong> si impegna a minimizzare l'impatto ambientale dei propri sistemi produttivi e con la <strong>ISO 9001</strong> a garantire qualità dell’organizzazione e dei processi aziendali.</span><span></span>",
          "footer":"",
          "images":[],
-         "id":"1292265386304"
+         "id":"1225932546637"
       },
-      {
-         "voce":"Materie e Materiali",
-         "subTitle":"",
-         "mainContent":"<span>BB S.p.A. è in grado di lavorare su <strong>diverse tipologie di materiali</strong>, oltre a quelli tradizionali qualiottone, acciaio, alluminio e materiali plastici, il reparto campionatura BB può esplorare ogni materiale desiderato dalcliente, effettuando ricerche di mercato e tecnologiche.</span><span>BB è attiva nella ricerca e sviluppo di nuovi materiali,mirati, a parità di performance, alla <strong>sostenibilità ambientale</strong>.<br>BB è in grado di realizzare ilprodotto finale in diverse finiture superficiali, ricercando anche soluzioni innovative.</span>",
+       {
+          "voce":"contatti",
+          "images":[],
+          "subTitle":"BB s.p.A. Contatti aziendali",
+          "mainContent":"<p id='general-contact'> <span> <span id='st'>FRONT-OFFICE:</span> <br><br><b>mail: </b><a href='mailto:bb@bbspa.eu'>bb@bbspa.eu</a> <br><b>Tel.</b> (+39) 055 88 74 644 <br><b>Fax.</b> (+39) 055 88 26 570 <br><b style='font-size:0.9em;'>Lun-Ven 8.30-18.00(GMT+1)</b> </span> <span> <span id='st'>SEDE OPERATIVA:</span> <br><br><strong>BB S.p.A.</strong> <br>Via Petrarca 158, <br>50041 Calenzano (FI), <br><b style='font-size:0.9em;'>Italia</b> </span></p><ul> <li><strong>·&nbsp;&nbsp;Amministrazione</strong>&nbsp;&nbsp;|&nbsp;&nbsp;<b>Silvia Ferroni</b>&nbsp;&nbsp;|&nbsp;&nbsp; <a href='mailto:s.ferroni@bbspa.eu'>s.ferroni@bbspa.eu</a> </li><br><li><strong>·&nbsp;&nbsp;Responsabile Commerciale</strong>&nbsp;&nbsp;|&nbsp;&nbsp;<b>Nicola Lastrucci</b>&nbsp;&nbsp;|&nbsp;&nbsp; <a href='mailto:n.lastrucci@bbspa.eu'>n.lastrucci@bbspa.eu</a> </li><br><li><strong>·&nbsp;&nbsp;Ufficio Dipendenti</strong>&nbsp;&nbsp;|&nbsp;&nbsp;<b>Marta Umbrinano</b>&nbsp;&nbsp;|&nbsp;&nbsp; <a href='mailto:m.umbriano@bbspa.eu'>m.umbriano@bbspa.eu</a> </li><br><li><strong>·&nbsp;&nbsp;Ufficio Stampa</strong>&nbsp;&nbsp;|&nbsp;&nbsp;<b>Veronica Rogialli</b>&nbsp;&nbsp;|&nbsp;&nbsp; <a href='mailto:v.rogialli@bbspa.eu'>v.rogialli@bbspa.eu</a> </li></ul>",
+          "footer":"",
+          "id":"1865588427095"
+       },
+       {
+          "voce":"come raggiungerci",
+          "images":[],
+          "subTitle":"Via Francesco Petrarca, 164,<br> 50041 Calenzano FI",
+          "mainContent":"<div style='width: 100%'><iframe width='100%' height='450' frameborder='0' scrolling='yes' marginheight='0' marginwidth='0' src='https://maps.google.com/maps?width=100%25&amp;height=450&amp;hl=en&amp;q=Via%20Francesco%20Petrarca,%20164,%2050041%20Calenzano%20FI+(BB%20s.p.A.)&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=B&amp;output=embed'></iframe></div>",
+          "footer":"eventuali indicazioni testuali",
+          "id":"273050466731"
+       },
+       {
+          "voce":"press",
+          "images":[
+             "img/mainImg.jpg",
+             "img/mainImg.jpg"
+          ],
+          "mainContent":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "subTitle":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "footer":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "id":"1624154629850"
+       },
+       {
+          "voce":"documenti",
+          "images":[
+             "img/mainImg.jpg",
+             "img/mainImg.jpg"
+          ],
+          "mainContent":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "subTitle":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "footer":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "id":"8974399886761"
+       },
+       {
+          "voce":"come richedere un preventivo",
+          "images":[
+             "img/mainImg.jpg",
+             "img/mainImg.jpg"
+          ],
+          "mainContent":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "subTitle":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "footer":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "id":"4940055321576"
+       },
+       {
+          "voce":"dicono di noi",
+          "images":[
+             "img/mainImg.jpg",
+             "img/mainImg.jpg"
+          ],
+          "mainContent":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "subTitle":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "footer":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "id":"6853303796938"
+       },
+       {
+          "voce":"privacy",
+          "images":[
+             "img/mainImg.jpg",
+             "img/mainImg.jpg"
+          ],
+          "mainContent":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "subTitle":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "footer":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
+          "id":"1164225018713"
+       },
+       {
+         "voce":"policy",
+         "images":[],
+         "mainContent":"<div> <p>BB S.p.A. è un'azienda meccanica di precisione che produce accessori di alta qualità, per grandi marchi del lusso a livello mondiale, realizzati nei materiali più vari. BB S.p.A. cura il ciclo produttivo dalla progettazione e realizzazione del prototipo sino all'industrializzazione e alla realizzazione del prodotto finale su larga scala, secondo le specifiche del cliente. L’azienda garantisce prestazioni sempre più complete e rigorose ed ha nella cura del dettaglio il suo peculiare punto di forza. <br>L’esperienza maturata, la costante crescita e l’esigenza di migliorarsi continuamente, hanno portato BB S.p.A. a voler adattare la propria organizzazione ad una gestione aziendale focalizzata oltre che sulla soddisfazione del Cliente, anche sul miglioramento del proprio rapporto con i lavoratori e tutti gli altri stakeholders dell’Azienda, sulla prevenzione dell’inquinamento, oltre che sull’ottimizzazione delle proprie risorse per migliorare l’efficienza aziendale. Per tale motivo BB S.p.A. ha deciso di intraprendere il cammino per la costruzione di un Sistema di Gestione Integrato Qualità-Ambiente-Responsabilità Sociale conforme alle normative UNI EN ISO 9001:2015, UNI EN ISO 14001:2015, SA8000:2014.&nbsp; <br>La Direzione di BB S.p.A. è, per prima, responsabile dell’applicazione della Politica in azienda ed in quest’ottica s’impegna a diffonderne il contenuto ad ogni livello organizzativo. <br>La Direzione si impegna a identificare e valutare i rischi aziendali con conseguenti piani di trattamento per eliminarli o mitigarli.<br>La Direzione stabilisce &nbsp;obiettivi relativamente a:</p><ul style='list-style-type: circle'> <li>Livello di soddisfazione del Cliente</li><li>Grado di efficienza dei processi operativi costituenti il Sistema di Gestione Integrato e sul possibile miglioramento</li><li>La conformità legislativa per quanto riguarda gli aspetti ambientali e gli altri requisiti che l’organizzazione decida di sottoscrivere</li><li>Prevenzione dell’inquinamento ed adozione di misure atte a diminuire le eventuali emissioni di inquinanti e di rifiuti, con particolare interesse al mantenimento delle risorse naturali </li><li>Ottimizzazione dell’impiego delle risorse in generale ed in particolare per quelle umane, sui percorsi di crescita professionale e miglioramento del microclima aziendale</li><li>Crescita dell’immagine di BB S.p.A. sul mercato</li><li>Crescita della redditività aziendale. </li></ul> <p>Inoltre la Direzione di BB S.p.A. si impegna, a: </p><ul  style='list-style-type: circle'> <li>garantire che tutte le attività dell’organizzazione vengano svolte nel rispetto dei requisiti dello standard SA8000:2014 e delle leggi nazionali vigenti ed applicabili al proprio settore di attività, ivi inclusi il D.Lgs. 81/2008 relativo alla sicurezza sul posto di lavoro, nonché alle disposizioni contenute nei documenti ufficiali internazionali ed alle loro interpretazioni (norme ILO);</li><li>operare con metodi e sistemi che favoriscano lo sviluppo di un ambiente di lavoro socialmente responsabile e la crescita professionale di tutti i lavoratori, nel rispetto delle leggi locali e internazionali e dei diritti umani (ONU);</li><li>garantire il costante monitoraggio e miglioramento del proprio Sistema di Gestione, e assicurare che i principi di responsabilità sociale siano seguiti da tutti i fornitori coinvolti nella catena di fornitura del prodotto/servizio oggetto della sua attività;</li><li>rendere la politica disponibile al personale mediante affissioni in bacheca ed alle parti interessate mediante pubblicazione sul sito internet; </li><li>mettere a punto un efficiente ed efficace sistema di motivazione, coinvolgimento e sviluppo della professionalità del PERSONALE al fine di garantirne il benessere, la sicurezza e salute sul lavoro e il rispetto dei diritti;</li><li>incentivare costantemente la sensibilità ambientale del personale aziendale e promuovere azioni volte alla sensibilizzazione delle problematiche ambientali nei confronti di fornitori e di clienti che dimostrino interesse a tali tematiche;</li><li>tenere costantemente sotto controllo i vari parametri ambientali, al fine di intervenire prontamente qualora si verificassero situazioni che potrebbero portare ad impatti ambientali significativi;</li><li>collaborare attivamente con gli organi di controllo al fine di rendere fattibile ogni soluzione necessaria al miglioramento delle performance. </li></ul> <p>La Direzione organizza incontri per illustrare, far comprendere e rendere consapevoli tutti i livelli organizzativi dell’azienda e a tutte le persone che lavorano sotto il suo controllo la Politica Integrata e gli obiettivi da raggiungere; inoltre si propone di riverificare ogni anno, in sede di Riesame di Direzione, la validità della presente Politica.</p><a href='img/bilancio_sociale_2018.pdf' target='_blank'>bilancio sociale 2018</a> </div>",
+         "subTitle":"Politica integrata qualità, ambiente e responsabilità sociale",
          "footer":"",
-         "images":[],
-         "id":"444394404313"
+         "id":"520498140639"
       },
-      {
-         "voce":"Produzione a 360°",
-         "subTitle":"",
-         "mainContent":"<span>BB S.p.A. è in grado di curare l’<strong>intero ciclo della produzione al suo interno</strong> o avvalendosi, nel casodi concezione stampata, della collaborazione con <strong>BB FEINMECHANIK</strong>, azienda del gruppo, specializzata in<strong>realizzazione stampi e stampaggi a caldo</strong>. La modernità delle unità produttive, il costanteaggiornamento e ampliamento del parco macchine e l'alta professionalità del personale permette a BB di soddisfare intempi brevi <strong>qualsiasi richiesta del cliente</strong>, mantenendo in ogni caso uno <strong>standard qualitativo elevato</strong>, sia nelle piccole che nelle grandi tirature.</span><span> L'azienda, inoltre, è in grado di realizzarequalsiasi tipo di <strong>trattamento superficiale</strong>, fornendo così l'accessorio finito secondo le richieste delcliente. La customer care è sempre garantita dall’<strong>ufficio commerciale</strong> che accompagna l’articolo in ognisua fase di lavorazione fino alla consegna al cliente.</span>",
-         "footer":"",
-         "images":[],
-         "id":"2469686961864"
-      },
-      {
-         "voce":"Lavorazioni Meccaniche",
-         "subTitle":"",
-         "mainContent":"<span> Il reparto lavorazioni meccaniche è costituto da <strong>torni e da centri di lavoro a controllo numerico</strong>, alcuni particolarmente indicati per le lavorazioni di incisione, altri più adatti alla produzione in serie.<br><br>Inoltre dispone di un reparto attrezzato con <strong>macchinari per il taglio, l’incisione</strong> e la saldatura <strong>laser</strong>.</span><span> <video autoplay loop muted> <source src='img/LAV-MEC-BB.mp4' type='video/mp4'/> </video></span>",
-         "footer":"",
-         "images":[],
-         "id":"9292649936642"
-      },
-      {
-         "voce":"Saldatura",
-         "subTitle":"",
-         "mainContent":"<span> Il reparto saldatura è costituito da <strong>20 moderne postazioni di lavoro</strong>, un <strong>forno rotativo continuo</strong> a controllo elettronico, una <strong>fresa</strong> dedicata per la realizzazione di piazzature grafitiche per saldatura. <br><br>Le macchine, insieme al personale specializzato, permettono al reparto di rispondere a qualsiasi esigenza produttiva e qualitativa.</span><span> <video autoplay loop muted> <source src='img/SALDATURA-BB.mp4' type='video/mp4'/> </video></span>",
-         "footer":"",
-         "images":[],
-         "id":"5736766581662"
-      },
-      {
-         "voce":"Smalteria",
-         "subTitle":"",
-         "mainContent":"<span> La smalteria BB è in grado di effettuare <strong>smaltature su superfici difficili</strong> guidando il cliente verso le scelte migliori.<br><br>Il personale qualificato del reparto cura anche il <strong>montaggio a mano</strong> di <strong>strass e pietre dure</strong> e realizza anche <strong>forme in cera</strong> per la realizzazione di manufatti con processo di <strong>fusione a cera persa</strong>, partendo dal primo prototipo realizzato interamente a mano da personale qualificato.</span><span> <video autoplay loop muted> <source src='img/SMALTERIA-BB.mp4' type='video/mp4'/> </video></span>",
-         "footer":"",
-         "images":[],
-         "id":"7919489898885"
-      },
-      {
-         "voce":"Galvanica",
-         "subTitle":"",
-         "mainContent":"<span> BB dispone anche di un reparto galvanica moderno e all’avanguardia. La collaborazione interna con <strong>laboratori di ricerca chimico-fisica</strong> permette di studiare <strong>finiture innovative</strong> e di rispondere a qualsiasi esigenza del cliente.<br><br>I reparti interni di <strong>vibro-finitura</strong> e <strong>pulimentatura</strong>, consentono di gestire e ottimizzare un processo dedicato come la <strong>elettrodeposizione galvanica</strong> rendendolo industrialmente efficiente e, al contempo, preservando standard qualitativi elevati.</span><span> <video autoplay loop muted> <source src='img/GALVANICA-BB.mp4' type='video/mp4'/> </video></span>",
-         "footer":"",
-         "images":[],
-         "id":"8087288243882"
-      },
-      {
-         "voce":"Montaggio",
-         "subTitle":"",
-         "mainContent":"<span> Il reparto montaggio è in grado di eseguire l’<strong>assemblaggio attento e curato</strong> di componenti in finitura preziosa, garantendo la <strong>funzionalità di meccanismi</strong> anche complessi e, allo stesso tempo, preservando l’estetica del prodotto.</span><span> <video autoplay loop muted> <source src='img/MONTAGGIO-BB.mp4' type='video/mp4'/> </video></span>",
-         "footer":"",
-         "images":[],
-         "id":"8087288243882"
-      },
-      {
-         "voce":"Termoformatura",
-         "subTitle":"",
-         "mainContent":"<span> Il viaggio dell’accessorio si conclude nel <strong>reparto confezionamento</strong>, dove il prodotto viene accuratamente imballato nel <strong>plateau ecologico brevettato da BB</strong> o secondo le <strong>specifiche del cliente</strong>.</span><span> <video autoplay loop muted> <source src='img/CONFEZIONAMENTO-BB.mp4' type='video/mp4'/> </video></span>",
-         "footer":"",
-         "images":[],
-         "id":"1219334177102"
-      },
-      {
-         "voce":"Percorso della qualità",
-         "subTitle":"",
-         "mainContent":"<span>Per garantire l’alta qualità del suo prodotto, BB opera un <strong>controllo rigoroso e costante</strong> delleeventuali difettosità in ogni fase del processo produttivo al fine di mantenere <strong>elevati gli standard di qualità</strong> dell’intera filiera. </span><span> All’interno del laboratorio di qualità, si eseguono <strong>prove meccaniche e chimico-fisiche</strong>. <strong>BB progetta</strong> e <strong>costruisce</strong> molte delle<strong>apparecchiature</strong> con cui vengono effettuati i test meccanici, richiesti dal cliente, per le provechimico-fisiche si rivolge a <strong>laboratori esterni accreditati</strong>.</span>",
-         "footer":"",
-         "images":[],
-         "id":"5737132138964"
-      },
-      {
-         "voce":"Ricerca e sviluppo",
-         "subTitle":"",
-         "mainContent":"<span> <video autoplay loop muted style='margin-top:0em; width:102%;'> <source src='img/RICERCA-E-SVILUPPO-BB.mp4' type='video/mp4'/> </video></span><span> Grazie al reparto ricerca e sviluppo, BB è in grado di rispondere alle richieste produttive del cliente con lo sviluppo di sistemi e macchinari capaci di effettuare <strong>lavorazioni non convenzionali</strong> in maniera automatizzata, <strong>ottimizzando i tempi e i costi </strong>di quei processi produttivi fino ad oggi eseguiti manualmente.</span>",
-         "footer":"Nel complesso, la struttura e le apparecchiature all’avanguardia che caratterizzano BB acquistano valore e prestigio soprattutto grazie alla <strong>competenza</strong>, l’<strong>efficienza</strong> e l’<strong>impegno</strong> dei suoi collaboratori: i responsabili della progettazione, gli addetti alla pianificazione e alla verifica del lavoro e i responsabili del controllo qualità integrano le rispettive professionalità alla <strong>continua ricerca dell’eccellenza</strong> che contraddistingue l’azienda.",
-         "images":[],
-         "id":"7023429588991"
-      },
-      {
-         "voce":"Il nostro operare",
-         "subTitle":"",
-         "mainContent":"Il successo di BB non segue le tradizionali logiche economiche e quello che il Presidente Marco Bartoletti è riuscito a costruire va oltre il valore finanziario di un’<strong>impresa sana</strong>  ed economicamente indipendente.<br> <strong>Eccellenza qualitativa, creatività</strong>  ed <strong>attenzione alla persona</strong>  sono i pilastri e le fondamenta dell’identità e della filosofia aziendale. Il segreto risiede nel lavoro vero e nell’etica sociale</strong>  di una realtà che investe gli utili in <strong>ricerca e sviluppo</strong>  rimanendo sempre vicina ai propri collaboratori considerati una vera e propria famiglia.<br>BB è infatti fermamente convinta che l’economia del futuro si costruisca <strong>mettendo al centro le persone</strong>  e intendendo il lavoro come una delle più nobili espressioni del valore umano. Fare impresa essendo etici non solo è possibile, ma anche un dovere morale ed il <strong>profitto si può coniugare all’aspetto sociale</strong> , l’impresa diviene il tramite attraverso cui attualizzare i <strong>propri valori etici e politici</strong> .<br>Per questo motivo BB ha fatto della “<strong>non esclusione</strong> ” il punto cardine di tutta la sua politica aziendale, facendo convivere al suo interno <strong>collaboratori di etnie e religioni diverse, uomini e donne</strong> , e tra questi anche persone che vivono <strong>vari tipi di difficoltà</strong> .<br>Attraverso il lavoro le persone in difficoltà ricominciano a vivere, ritrovano il sorriso perduto e la dignità, vivono un miracolo lavorativo quotidiano che offre l’opportunità  di essere persone.<br> <i>“Per ogni persona per quanto disabilitante possa essere la sua patologia o la sua condizione esiste un lavoro che può svolgere sfruttando al meglio le proprie capacità residue. Questi lavoratori non rappresentano un freno per l’azienda” ricorda sempre il presidente Marco Bartoletti “ma anzi, se responsabilizzati e messi nelle giuste condizione psicologiche e ambientali, possono ‘rendere’ tanto quanti i lavoratori normodotati dimostrandosi spesso più motivati. L’impegno quotidiano di questi soggetti è per loro in qualche modo terapeutico in quando ne accresce l’autostima non facendoli sentire un peso per la famiglia o per la società e riesce anche a farli sentire meglio fisicamente. Sono fermamente convinto che la disabilità nasconda facoltà che noi neppure conosciamo e il lavoro riesca a tirar fuori queste capacità nascoste o tarpate. Purtroppo la società privando le persone malate di una vita normale ha fatto peggio della malattia, gli ha tolto la dignità.”</i><br>L’azienda diventa un luogo nel quale <strong>nessuno viene lasciato indietro</strong>, ma dove tutti condividono un cammino insieme e un progetto industriale, e si costruisce un pezzo di <strong>futuro</strong> anche per chi il futuro fatica ad immaginarselo. <br>Ai dipendenti BB non si chiede di essere in buona salute, ma di dare il massimo nel lavoro, di far parte di una squadra vincente, stimolando il senso di appartenenza e partecipazione, così da realizzare tutti insieme un luogo nel quale nessuno venga lasciato indietro.",
-         "footer":"",
-         "images":[],
-         "id":"9808468696997"
-      },
-      {
-         "voce":"La persona al centro dell’impresa",
-         "subTitle":"",
-         "mainContent":"<span>Il successo di BB non segue le tradizionali logiche economiche e quello che il Presidente Marco Bartoletti è riuscito a costruire va oltre il valore finanziario di un’<strong>impresa sana, solida</strong> ed economicamente indipendente. <strong>Eccellenza qualitativa</strong>, <strong>creatività</strong> ed <strong>attenzione alla persona</strong> sono i pilastri e le fondamenta dell’identità e della filosofia aziendale. Il segreto risiede nel lavoro vero e nell’<strong>etica sociale</strong> di una realtà che investe gli utili in <strong>ricerca e sviluppo</strong> rimanendo sempre vicina ai propri collaboratori considerati una vera e propria famiglia.<br>BB è infatti fermamente convinta che l’economia del futuro si costruisca <strong>mettendo al centro le persone</strong> e intendendo il lavoro come una delle più nobili espressioni del valore umano. Fare impresa essendo etici non solo è possibile, ma anche un dovere morale ed il <strong>profitto si può coniugare all’aspetto sociale</strong>, l’impresa diviene il tramite attraverso cui attualizzare i <strong>propri valori etici e politici</strong>.<br>Per questo motivo BB ha fatto della <strong>“non esclusione”</strong> il punto cardine di tutta la sua politica aziendale, facendo convivere al suo interno <strong>collaboratori di etnie e religioni diverse, uomini e donne</strong>, e tra questi anche persone che vivono <strong>vari tipi di difficoltà</strong>.<br>“Attraverso il lavoro le persone in difficoltà ricominciano a vivere, ritrovano il sorriso perduto e la dignità, vivono un miracolo lavorativo quotidiano che offre l’opportunità di essere persone.” M.B.<br><i>“Per ogni persona per quanto disabilitante possa essere la sua patologia o la sua condizione esiste un lavoro che può svolgere sfruttando al meglio le proprie capacità residue. Questi lavoratori non rappresentano un freno per l’azienda” ricorda sempre il presidente Marco Bartoletti “ma anzi, se responsabilizzati e messi nelle giuste condizione psicologiche e ambientali, possono ‘rendere’ tanto quanti i lavoratori normodotati dimostrandosi spesso più motivati. L’impegno quotidiano di questi soggetti è per loro in qualche modo terapeutico in quando ne accresce l’autostima non facendoli sentire un peso per la famiglia o per la società e riesce anche a farli sentire meglio fisicamente. Sono fermamente convinto che la disabilità nasconda facoltà che noi neppure conosciamo e il lavoro riesca a tirar fuori queste capacità nascoste o tarpate. Purtroppo la società privando le persone malate di una vita normale ha fatto peggio della malattia, gli ha tolto la dignità.”</i><br>L’azienda diventa un luogo nel quale <strong>nessuno viene lasciato indietro</strong>, ma dove tutti condividono un cammino insieme e un progetto industriale, e si costruisce un pezzo di <strong>futuro</strong> anche per chi il futuro fatica ad immaginarselo. L’azienda diventa lo specchio del territorio, le peculiarità della comunità si intrecciano con l’impresa e i valori presenti all’interno di BB si riversano sul tessuto sociale.<br>Ai dipendenti BB si chiede di dare il massimo nel lavoro, impegnandosi e facendo parte di una squadra vincente, stimolando il senso di appartenenza e partecipazione, così da realizzare tutti insieme un luogo nel quale nessuno venga lasciato indietro. Le competenze ed i saperi si scambiano e si completano fino al raggiungimento di un sicuro equilibrio operativo.<br>L’imprenditoria italiana può e deve fare da apripista a un’altra idea di impresa, dove il profitto si coniuga all’<strong>aspetto sociale</strong>, senza pietismi e continuando a fare <strong>business</strong>.</span><span></span>",
-         "footer":"",
-         "images":[],
-         "id":"2624315114898"
-      },
-      {
-         "voce":"Innovazione continua",
-         "subTitle":"",
-         "mainContent":"<span>Fin dall’inizio della sua attività imprenditoriale BB S.p.A. ha sempre rivolto una particolare attenzione alla <strong>ricerca e sviluppo</strong> e alla collaborazione con gli enti di ricerca scientifica, per una continua <strong>innovazione dei prodotti</strong> e del <strong>miglioramento dei processi</strong> aziendali.<br>Le collaborazioni, con l’ambiente universitario fiorentino in particolare, sono avvenute fino al 2015 tramite il consorzio <strong>Pro.Mo.Design</strong>, di cui BB è stato uno dei soci fondatori insieme al Comune di Calenzano. L’obiettivo strategico di Pro.Mo.Design era <strong>creare una rete nazionale di Università</strong>, laboratori e partner da cui potesse scaturire una “filiera del valore”, in grado di “trasformare un’idea in un prodotto”.<br>Da tale esperienza sono giunti i contatti con l’<strong>Università di Firenze</strong> e con i laboratori di ricerca ad essa collegati, con i quali BB ha valutato e condiviso idee e progetti.<br>Con l’inizio del 2016 il gruppo BB ha dunque deciso di rendere ancora più stretta e fattiva la collaborazione con l’Università acquisendo una quota di partecipazione nel <strong>PIN, il Polo Universitario città di Prato</strong>.<br>Negli ultimi anni BB è stata impegnata come incubatrice per la promozione e formazione di nuove realtà imprenditoriali del territorio. In quest’ottica BB fornisce tutto il supporto necessario per un sicuro avvio dell’attività lavorativa, mettendo a disposizione spazi, attrezzature e etica del lavoro. Infine BB fornisce anche il lavoro stesso.<br>L’interesse per la ricerca è un punto focale nella policy di BB S.p.A., in quanto è volto al miglioramento continuo.<br><br>Il progetto <strong>MASS</strong> “Materiali innovativi naturali e sostenibili per accessori, finiture e oggettistica di lusso” in collaborazione con il PIN di Prato, ha avuto come obiettivo la realizzazione di nuovi prodotti migliorando la sostenibilità del processo produttivo e del prodotto finito.<br><br>Il progetto <strong>FOMEMI</strong> “Sensori e strumenti a tecnologia fotonica per medicina a minima invasività” ha previsto la progettazione e realizzazione di componenti per il settore biomedicale, in particolare per lo sviluppo di un sistema innovativo di trattamento ulcere tramite laser. Grazie all’esperienza in metallizzazione e rivestimenti superficiali di alta qualità, su materiali di varia natura, BB S.p.A.ha portato avanti la sua attività di ricerca con l’obiettivo di trasferire su un nuovo mercato, il biomedicale, competenze tecnologiche legate alla meccanica e al trattamento superficiale di lusso.<br>Progetti di ricerca: www.bbSpa.eu/progetti_bb.pdf </span><span></span>",
-         "footer":"",
-         "images":[],
-         "id":"4649410036447"
-      },
-      {
-         "voce":"BB per l’ambiente",
-         "subTitle":"",
-         "mainContent":"<span>BB S.p.A. ha sempre creduto alla necessità di <strong>innovazione dell’industria</strong>, e sta già portando avanti tematiche importanti quali la <strong>responsabilità sociale d’impresa</strong> e le <strong>tematiche ambientali</strong>.<br>Negli ultimi anni si è accentuata in maniera esponenziale la consapevolezza dell’impatto che ogni attività umana ha sull’ambiente. Il tema della <strong>sostenibilità delle imprese</strong> è destinato a diventare una tematica centrale nella definizione degli obiettivi strategici per le aziende.<br>In quest’ottica BB ha pionieristicamente studiato la possibilità di utilizzare <strong>bioplastiche compostabili al 100%</strong> per i prodotti floccati o di termoformatura, ottenendo con successo un prodotto biodegradabile e compostabile, rispettoso dell’ambiente, che l’azienda produce e utilizza come packaging.<br>Nel 2015 BB ha ottenuto un <strong>importante riconoscimento dal CONAI</strong> (Consorzio Nazionale Imballaggi) come azienda che ha sviluppato una soluzione di packaging innovativa e sostenibile partecipando al progetto di prevenzione <i>«Valorizzare la sostenibilità ambientale degli imballaggi»</i><br>BB s’impegna a ridurre i propri consumi, su cui effettua una costante attività di monitoraggio, in particolare quelli legati al parco macchine (industria 4.0), all’utilizzo di acqua, energia elettrica e al condizionamento ambienti, cercando di implementare soluzioni a minor impatto in termini ambientali e di costi sostenuti.<br>Alcuni esempi per la <strong>riduzione della Carbon Footprint</strong>:<ol type='1'><li>Parco auto ecologico;</li><li>Progressiva sostituzione delle illuminazioni tradizionali con illuminazioni led in tutti gli stabilimenti;</li><li>Recupero del calore dissipato dalle macchine per condizionamento ambienti;</li><li>Acquisto energia proveniente da fonti rinnovabili; </li><li>Utilizzo packaging termoformato compostabile;  </li><li>Utilizzo di carta FSC e ECF;</li><li>Utilizzo di kit per caffè compostabile;</li><li>Dispenser di acqua per diminuire il consumo di plastica in bottiglia;</li></ol><br>Un altro obiettivo è legato al <strong>monitoraggio ed al coinvolgimento della supply chain</strong>, ovvero mirato a far sì che tutti i fornitori di BB si conformino agli standard etici ed ambientali, di uso di chemicals, di sicurezza, tracciabilità.</span><span></span>",
-         "footer":"",
-         "images":[],
-         "id":"9321371046177"
-      },
-      {
-         "voce":"I nostri impegni sociali",
-         "subTitle":"",
-         "mainContent":"<span>BB è inserita appieno nel <strong>tessuto sociale</strong> con un’attenzione costante al territorio e a tutti gli individui operanti per l’azienda, convinta che il mondo non vada consumato, ma utilizzato con rispetto e attenzione in chiave di <strong>creazione di valore</strong>.Il lavoro e l’impresa diventano gli strumenti con cui <strong>migliorare la vita</strong> di chi lavora, custodire le <strong>bellezze del mondo</strong>, realizzare progetti rivolti alle <strong>future generazioni</strong> e alla società.</span>",
-         "footer":"",
-         "images":[],
-         "id":"663339631964"
-      },
-      {
-         "voce":"Territorio",
-         "subTitle":"",
-         "mainContent":"<span>In questa ottica BB ha come leitmotiv del suo operato l’attenzione per l’ambiente ed il territorio che l’accoglie. Da anni l’azienda tiene stretti rapporti con il Comune di Calenzano, condividendo progetti e organizzando eventi per la cittadinanza sempre indirizzati alla non esclusione lavorativa e sociale. <br>Un esempio di plus valore restituito al territorio è Villa Petruzzi, villa-fattoria del XIV secolo, che BB ha preso recentemente in gestione e dove ha restaurato gratuitamente la Chiesa/Cappella privata e l’Oratorio di Santa Maria a Fibbiana, gli ambienti della Tinaia e gli appartamenti padronali, sotto l’alta sorveglianza della Soprintendenza Archeologia, Belle Arti e Paesaggio per la Città Metropolitana di Firenze e per le Province di Pistoia e Prato.<br>Nella Villa vengono organizzati eventi gratuiti per la Comunità e vengono accolti i clienti.<br>Qui verrà realizzato il Centro Design, luogo dove vivere la creazione dell’accessorio. Ogni stilista infatti troverà spazio per progettare, sperimentare, collaudare l’accessorio immaginato vivendo un’esperienza a 360°. Il cliente potrà avvalersi di professionisti <u>dell’Università di Disegno Industriale, esperti di meccanica, ma anche artigiani, smaltatori e pellettieri</u> così da concretizzare l’integrazione e la fusione tra tradizione e innovazione in una location di prestigio.</span><span></span>",
-         "footer":"",
-         "images":[],
-         "id":"3941110077752"
-      },
-      {
-         "voce":"Associazioni",
-         "subTitle":"",
-         "mainContent":"<span>Questo approccio lavorativo è condiviso con i fornitori promuovendo anche con loro l’integrazione lavorativa e lo sviluppo di una cultura inclusiva di <strong>buone pratiche</strong>.<br>BB nella filiera produttiva ha inserito anche delle Cooperative ed Associazioni impegnate nel sociale, come <strong>Lettera Otto</strong> che da anni si occupa dell’inserimento dei giovani disabili nel mondo del lavoro e <strong>Azur Loppiano</strong>, dove è stato creato un reparto ad hoc di montaggio e confezionamento. <br>L’approccio etico di BB si estende anche al supporto di attività a beneficio del territorio locale e al sostegno di Associazioni impegnate nel sociale, come la <strong>Parent Project Onlus</strong>, associazione impegnata nella lotta alla distrofia muscolare di Duchenne, <strong>l’A.I.L.</strong> (Associazione italiana contro le leucemie-linfomi e mieloma), la <strong>Misericordia di Calenzano</strong> e <strong>l’Associazione Habilia</strong>. Con queste ultime realtà BB ha instaurato un dialogo grazie al quale gli utenti di queste associazioni possono avere un canale preferenziale per la ricerca del lavoro attraverso l’azienda o i fornitori con cui viene condivisa la politica di inserimento nel mondo del lavoro di persone in difficoltà.<br>Altra importante collaborazione si è sviluppata con l’ospedale Universitario di Careggi e il <strong>GOIRC</strong> (Gruppo Oncologico Italiano di Ricerca Clinica), con il quale nel 2015, 2017 e 2019 BB ha organizzato convegni di divulgazione e prevenzione medico-oncologica per la cittadinanza e realizzato una raccolta fondi per il gruppo di ricerca scientifica. </span><span></span>",
-         "footer":"",
-         "images":[],
-         "id":"1856942564937"
-      },
-      {
-         "voce":"Istituzioni",
-         "subTitle":"",
-         "mainContent":"<span>BB collabora da anni con le Istituzioni locali e nazionali. E’ disponibile con Scuole Professionali ed Università ad accogliere neodiplomati e neolaureati per percorsi di stage e tirocinii, facilitando la conoscenza e l’inserimento nel mondo del lavoro.</span><span></span>",
-         "footer":"",
-         "images":[],
-         "id":"3897234816367"
-      },
-      {
-         "voce":"BB per lo sport",
-         "subTitle":"",
-         "mainContent":"<span>All’interno dell’azienda molti collaboratori sono attivi anche nell’ambito sportivo, BB sostiene l’attività sportiva per persone con difficoltà: sci, pallavolo, handbike, tennis.</span><span></span>",
-         "footer":"",
-         "images":[],
-         "id":"6609157950027"
-      },
-      {
-         "voce":"BB per l'ambiente",
-         "subTitle":"",
-         "mainContent":"<span>BB S.p.A. ha sempre creduto alla necessità di <strong>innovazione dell’industria</strong>, e sta già portando avanti tematiche importanti quali la <strong>responsabilità sociale d’impresa</strong> e le <strong>tematiche ambientali</strong>.<br>Negli ultimi anni si è accentuata in maniera esponenziale la consapevolezza dell’impatto che ogni attività umana ha sull’ambiente. Il tema della <strong>sostenibilità delle imprese</strong> è destinato a diventare una tematica centrale nella definizione degli obiettivi strategici per le aziende.<br>In quest’ottica BB ha pionieristicamente studiato la possibilità di utilizzare <strong>bioplastiche compostabili al 100%</strong> per i prodotti floccati o di termoformatura, ottenendo con successo un prodotto biodegradabile e compostabile, rispettoso dell’ambiente, che l’azienda produce e utilizza come packaging.<br>Nel 2015 BB ha ottenuto un <strong>importante riconoscimento dal CONAI</strong> (Consorzio Nazionale Imballaggi) come azienda che ha sviluppato una soluzione di packaging innovativa e sostenibile partecipando al progetto di prevenzione <i>«Valorizzare la sostenibilità ambientale degli imballaggi»</i><br>BB s’impegna a ridurre i propri consumi, su cui effettua una costante attività di monitoraggio, in particolare quelli legati al parco macchine (industria 4.0), all’utilizzo di acqua, energia elettrica e al condizionamento ambienti, cercando di implementare soluzioni a minor impatto in termini ambientali e di costi sostenuti.<br>Alcuni esempi per la <strong>riduzione della Carbon Footprint</strong>:<ol type='1'><li>Parco auto ecologico;</li><li>Progressiva sostituzione delle illuminazioni tradizionali con illuminazioni led in tutti gli stabilimenti;</li><li>Recupero del calore dissipato dalle macchine per condizionamento ambienti;</li><li>Acquisto energia proveniente da fonti rinnovabili; </li><li>Utilizzo packaging termoformato compostabile;  </li><li>Utilizzo di carta FSC e ECF;</li><li>Utilizzo di kit per caffè compostabile;</li><li>Dispenser di acqua per diminuire il consumo di plastica in bottiglia;</li></ol><br>Un altro obiettivo è legato al <strong>monitoraggio ed al coinvolgimento della supply chain</strong>, ovvero mirato a far sì che tutti i fornitori di BB si conformino agli standard etici ed ambientali, di uso di chemicals, di sicurezza, tracciabilità.</span><span></span>",
-         "footer":"",
-         "images":[],
-         "id":"8225992546837"
-      },
-      {
-        "voce":"Certificazioni",
-        "subTitle":"",
-        "mainContent":"<span>BB Spa a coronamento degli sforzi profusi per lo sviluppo in ambito tecnologico, produttivo e etico, si è vista riconoscere tre importanti <strong>certificazioni</strong>, tradotte poi in standard applicativi.<br>Con l’applicazione dello standard <strong>SA8000</strong>, BB Spa dichiara di voler rispettare le regole sull’etica del lavoro definite dalle più importanti organizzazioni mondiali per la tutela dei diritti umani e del lavoro, con la <strong>ISO 14001</strong> si impegna a minimizzare l'impatto ambientale dei propri sistemi produttivi e con la <strong>ISO 9001</strong> a garantire qualità dell’organizzazione e dei processi aziendali.</span><span></span>",
-        "footer":"",
-        "images":[],
-        "id":"1225932546637"
-     },
-      {
-         "voce":"contatti",
-         "images":[],
-         "subTitle":"BB s.p.A. Contatti aziendali",
-         "mainContent":"<p id='general-contact'> <span> <span id='st'>FRONT-OFFICE:</span> <br><br><b>mail: </b><a href='mailto:bb@bbspa.eu'>bb@bbspa.eu</a> <br><b>Tel.</b> (+39) 055 88 74 644 <br><b>Fax.</b> (+39) 055 88 26 570 <br><b style='font-size:0.9em;'>Lun-Ven 8.30-18.00(GMT+1)</b> </span> <span> <span id='st'>SEDE OPERATIVA:</span> <br><br><strong>BB S.p.A.</strong> <br>Via Petrarca 158, <br>50041 Calenzano (FI), <br><b style='font-size:0.9em;'>Italia</b> </span></p><ul> <li><strong>·&nbsp;&nbsp;Amministrazione</strong>&nbsp;&nbsp;|&nbsp;&nbsp;<b>Silvia Ferroni</b>&nbsp;&nbsp;|&nbsp;&nbsp; <a href='mailto:s.ferroni@bbspa.eu'>s.ferroni@bbspa.eu</a> </li><br><li><strong>·&nbsp;&nbsp;Responsabile Commerciale</strong>&nbsp;&nbsp;|&nbsp;&nbsp;<b>Nicola Lastrucci</b>&nbsp;&nbsp;|&nbsp;&nbsp; <a href='mailto:n.lastrucci@bbspa.eu'>n.lastrucci@bbspa.eu</a> </li><br><li><strong>·&nbsp;&nbsp;Ufficio Dipendenti</strong>&nbsp;&nbsp;|&nbsp;&nbsp;<b>Marta Umbrinano</b>&nbsp;&nbsp;|&nbsp;&nbsp; <a href='mailto:m.umbriano@bbspa.eu'>m.umbriano@bbspa.eu</a> </li><br><li><strong>·&nbsp;&nbsp;Ufficio Stampa</strong>&nbsp;&nbsp;|&nbsp;&nbsp;<b>Veronica Rogialli</b>&nbsp;&nbsp;|&nbsp;&nbsp; <a href='mailto:v.rogialli@bbspa.eu'>v.rogialli@bbspa.eu</a> </li></ul>",
-         "footer":"",
-         "id":"1865588427095"
-      },
-      {
-         "voce":"come raggiungerci",
-         "images":[],
-         "subTitle":"Via Francesco Petrarca, 164,<br> 50041 Calenzano FI",
-         "mainContent":"<div style='width: 100%'><iframe width='100%' height='450' frameborder='0' scrolling='yes' marginheight='0' marginwidth='0' src='https://maps.google.com/maps?width=100%25&amp;height=450&amp;hl=en&amp;q=Via%20Francesco%20Petrarca,%20164,%2050041%20Calenzano%20FI+(BB%20s.p.A.)&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=B&amp;output=embed'></iframe></div>",
-         "footer":"eventuali indicazioni testuali",
-         "id":"273050466731"
-      },
-      {
-         "voce":"press",
-         "images":[
-            "img/mainImg.jpg",
-            "img/mainImg.jpg"
-         ],
-         "mainContent":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
-         "subTitle":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
-         "footer":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
-         "id":"1624154629850"
-      },
-      {
-         "voce":"documenti",
-         "images":[
-            "img/mainImg.jpg",
-            "img/mainImg.jpg"
-         ],
-         "mainContent":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
-         "subTitle":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
-         "footer":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
-         "id":"8974399886761"
-      },
-      {
-         "voce":"come richedere un preventivo",
-         "images":[
-            "img/mainImg.jpg",
-            "img/mainImg.jpg"
-         ],
-         "mainContent":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
-         "subTitle":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
-         "footer":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
-         "id":"4940055321576"
-      },
-      {
-         "voce":"dicono di noi",
-         "images":[
-            "img/mainImg.jpg",
-            "img/mainImg.jpg"
-         ],
-         "mainContent":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
-         "subTitle":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
-         "footer":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
-         "id":"6853303796938"
-      },
-      {
-         "voce":"privacy",
-         "images":[
-            "img/mainImg.jpg",
-            "img/mainImg.jpg"
-         ],
-         "mainContent":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
-         "subTitle":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
-         "footer":"ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.ITALorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis lacus et justo vehicula consectetur. In id lorem dui. Donec luctus a turpis eget dapibus.",
-         "id":"1164225018713"
-      },
-      {
-        "voce":"policy",
-        "images":[],
-        "mainContent":"<div> <p>BB S.p.A. è un'azienda meccanica di precisione che produce accessori di alta qualità, per grandi marchi del lusso a livello mondiale, realizzati nei materiali più vari. BB S.p.A. cura il ciclo produttivo dalla progettazione e realizzazione del prototipo sino all'industrializzazione e alla realizzazione del prodotto finale su larga scala, secondo le specifiche del cliente. L’azienda garantisce prestazioni sempre più complete e rigorose ed ha nella cura del dettaglio il suo peculiare punto di forza. <br>L’esperienza maturata, la costante crescita e l’esigenza di migliorarsi continuamente, hanno portato BB S.p.A. a voler adattare la propria organizzazione ad una gestione aziendale focalizzata oltre che sulla soddisfazione del Cliente, anche sul miglioramento del proprio rapporto con i lavoratori e tutti gli altri stakeholders dell’Azienda, sulla prevenzione dell’inquinamento, oltre che sull’ottimizzazione delle proprie risorse per migliorare l’efficienza aziendale. Per tale motivo BB S.p.A. ha deciso di intraprendere il cammino per la costruzione di un Sistema di Gestione Integrato Qualità-Ambiente-Responsabilità Sociale conforme alle normative UNI EN ISO 9001:2015, UNI EN ISO 14001:2015, SA8000:2014.&nbsp; <br>La Direzione di BB S.p.A. è, per prima, responsabile dell’applicazione della Politica in azienda ed in quest’ottica s’impegna a diffonderne il contenuto ad ogni livello organizzativo. <br>La Direzione si impegna a identificare e valutare i rischi aziendali con conseguenti piani di trattamento per eliminarli o mitigarli.<br>La Direzione stabilisce &nbsp;obiettivi relativamente a:</p><ul style='list-style-type: circle'> <li>Livello di soddisfazione del Cliente</li><li>Grado di efficienza dei processi operativi costituenti il Sistema di Gestione Integrato e sul possibile miglioramento</li><li>La conformità legislativa per quanto riguarda gli aspetti ambientali e gli altri requisiti che l’organizzazione decida di sottoscrivere</li><li>Prevenzione dell’inquinamento ed adozione di misure atte a diminuire le eventuali emissioni di inquinanti e di rifiuti, con particolare interesse al mantenimento delle risorse naturali </li><li>Ottimizzazione dell’impiego delle risorse in generale ed in particolare per quelle umane, sui percorsi di crescita professionale e miglioramento del microclima aziendale</li><li>Crescita dell’immagine di BB S.p.A. sul mercato</li><li>Crescita della redditività aziendale. </li></ul> <p>Inoltre la Direzione di BB S.p.A. si impegna, a: </p><ul  style='list-style-type: circle'> <li>garantire che tutte le attività dell’organizzazione vengano svolte nel rispetto dei requisiti dello standard SA8000:2014 e delle leggi nazionali vigenti ed applicabili al proprio settore di attività, ivi inclusi il D.Lgs. 81/2008 relativo alla sicurezza sul posto di lavoro, nonché alle disposizioni contenute nei documenti ufficiali internazionali ed alle loro interpretazioni (norme ILO);</li><li>operare con metodi e sistemi che favoriscano lo sviluppo di un ambiente di lavoro socialmente responsabile e la crescita professionale di tutti i lavoratori, nel rispetto delle leggi locali e internazionali e dei diritti umani (ONU);</li><li>garantire il costante monitoraggio e miglioramento del proprio Sistema di Gestione, e assicurare che i principi di responsabilità sociale siano seguiti da tutti i fornitori coinvolti nella catena di fornitura del prodotto/servizio oggetto della sua attività;</li><li>rendere la politica disponibile al personale mediante affissioni in bacheca ed alle parti interessate mediante pubblicazione sul sito internet; </li><li>mettere a punto un efficiente ed efficace sistema di motivazione, coinvolgimento e sviluppo della professionalità del PERSONALE al fine di garantirne il benessere, la sicurezza e salute sul lavoro e il rispetto dei diritti;</li><li>incentivare costantemente la sensibilità ambientale del personale aziendale e promuovere azioni volte alla sensibilizzazione delle problematiche ambientali nei confronti di fornitori e di clienti che dimostrino interesse a tali tematiche;</li><li>tenere costantemente sotto controllo i vari parametri ambientali, al fine di intervenire prontamente qualora si verificassero situazioni che potrebbero portare ad impatti ambientali significativi;</li><li>collaborare attivamente con gli organi di controllo al fine di rendere fattibile ogni soluzione necessaria al miglioramento delle performance. </li></ul> <p>La Direzione organizza incontri per illustrare, far comprendere e rendere consapevoli tutti i livelli organizzativi dell’azienda e a tutte le persone che lavorano sotto il suo controllo la Politica Integrata e gli obiettivi da raggiungere; inoltre si propone di riverificare ogni anno, in sede di Riesame di Direzione, la validità della presente Politica.</p><a href='img/bilancio_sociale_2018.pdf' target='_blank'>bilancio sociale 2018</a> </div>",
-        "subTitle":"Politica integrata qualità, ambiente e responsabilità sociale",
-        "footer":"",
-        "id":"520498140639"
-     },
-      {
-         "voce":"lavora con noi",
-         "images":[],
-         "subTitle":"inviaci il tuo curriculum",
-         "mainContent":"<div><h2>posizioni aperte</h2><ul><li><h4>commerciale</h4><p>Cercasi commerciale con esperienza per inserimento a tempo indeterminato</p></li><li><h4>operatore tornio</h4><p>Cercasi operaio anche prima esperienza per percorso di formazione finalizzato all'assunzione</p></li></ul></div>",
-         "footer":"<div>inviaci il tuo curriculum a <i>nuoveassunzioni@bbpsa.it</i></div>",
-         "id":"120448140839"
-      }
-   ],
-   "vociMenu":[
-      {
-         "voce":"Chi siamo",
-         "contenuti":[
-            {
-               "voce":" Cos’è BB",
-               "contenuti":[
-
-               ]
-            },
-            {
-               "voce":"La nostra storia",
-               "contenuti":[
-
-               ]
-            },
-            {
-               "voce":"I nostri professionisti",
+       {
+          "voce":"lavora con noi",
+          "images":[],
+          "subTitle":"inviaci il tuo curriculum",
+          "mainContent":"<div><h2>posizioni aperte</h2><ul><li><h4>commerciale</h4><p>Cercasi commerciale con esperienza per inserimento a tempo indeterminato</p></li><li><h4>operatore tornio</h4><p>Cercasi operaio anche prima esperienza per percorso di formazione finalizzato all'assunzione</p></li></ul></div>",
+          "footer":"<div>inviaci il tuo curriculum a <i>nuoveassunzioni@bbpsa.it</i></div>",
+          "id":"120448140839"
+       }
+    ],
+    "vociMenu":[
+       {
+          "voce":"Chi siamo",
+          "contenuti":[
+             {
+                "voce":" Cos’è BB",
+                "contenuti":[
+ 
+                ]
+             },
+             {
+                "voce":"La nostra storia",
+                "contenuti":[
+ 
+                ]
+             },
+             {
+                "voce":"I nostri professionisti",
+                "contenuti":[
+ 
+                ]
+             }
+          ]
+       },
+       {
+          "voce":"Cosa facciamo",
+          "contenuti":[
+             {
+                "voce":"BB partner progettuale",
+                "contenuti":[
+                   {
+                      "voce":"Campionatura",
+                      "contenuti":[
+ 
+                      ]
+                   },
+                   {
+                      "voce":"Industrializzazione",
+                      "contenuti":[
+ 
+                      ]
+                   }
+                ]
+             },
+             {
+                "voce":"Materie e Materiali",
+                "contenuti":[
+ 
+                ]
+             },
+             {
+                "voce":"Produzione a 360°",
+                "contenuti":[
+                   {
+                      "voce":"Lavorazioni Meccaniche",
+                      "contenuti":[
+ 
+                      ]
+                   },
+                   {
+                      "voce":"Saldatura",
+                      "contenuti":[
+ 
+                      ]
+                   },
+                   {
+                      "voce":"Smalteria",
+                      "contenuti":[
+ 
+                      ]
+                   },
+                   {
+                      "voce":"Galvanica",
+                      "contenuti":[
+ 
+                      ]
+                   },
+                   {
+                      "voce":"Montaggio",
+                      "contenuti":[
+ 
+                      ]
+                   },
+                   {
+                      "voce":"Termoformatura",
+                      "contenuti":[
+ 
+                      ]
+                   }
+                ]
+             },
+             {
+                "voce":"Percorso della qualità",
+                "contenuti":[
+ 
+                ]
+             },
+             {
+                "voce":"Ricerca e sviluppo",
+                "contenuti":[
+ 
+                ]
+             }
+          ]
+       },
+       {
+          "voce":"Il nostro operare",
+          "contenuti":[
+             {
+                "voce":"La persona al centro dell’impresa",
+                "contenuti":[
+ 
+                ]
+             },
+             {
+                "voce":"Innovazione continua",
+                "contenuti":[
+ 
+                ]
+             },
+             {
+                "voce":"I nostri impegni sociali",
+                "contenuti":[
+                   {
+                      "voce":"Territorio",
+                      "contenuti":[
+ 
+                      ]
+                   },
+                   {
+                      "voce":"Associazioni",
+                      "contenuti":[
+ 
+                      ]
+                   },
+                   {
+                      "voce":"Istituzioni",
+                      "contenuti":[
+ 
+                      ]
+                   },
+                   {
+                      "voce":"BB per lo sport",
+                      "contenuti":[
+ 
+                      ]
+                   }
+                ]
+             },
+             {
+                "voce":"BB per l’ambiente",
+                "contenuti":[
+                  
+                ]
+             },
+             {
+               "voce":"Certificazioni",
                "contenuti":[
 
                ]
             }
-         ]
-      },
-      {
-         "voce":"Cosa facciamo",
-         "contenuti":[
-            {
-               "voce":"BB partner progettuale",
-               "contenuti":[
-                  {
-                     "voce":"Campionatura",
-                     "contenuti":[
-
-                     ]
-                  },
-                  {
-                     "voce":"Industrializzazione",
-                     "contenuti":[
-
-                     ]
-                  }
-               ]
-            },
-            {
-               "voce":"Materie e Materiali",
-               "contenuti":[
-
-               ]
-            },
-            {
-               "voce":"Produzione a 360°",
-               "contenuti":[
-                  {
-                     "voce":"Lavorazioni Meccaniche",
-                     "contenuti":[
-
-                     ]
-                  },
-                  {
-                     "voce":"Saldatura",
-                     "contenuti":[
-
-                     ]
-                  },
-                  {
-                     "voce":"Smalteria",
-                     "contenuti":[
-
-                     ]
-                  },
-                  {
-                     "voce":"Galvanica",
-                     "contenuti":[
-
-                     ]
-                  },
-                  {
-                     "voce":"Montaggio",
-                     "contenuti":[
-
-                     ]
-                  },
-                  {
-                     "voce":"Termoformatura",
-                     "contenuti":[
-
-                     ]
-                  }
-               ]
-            },
-            {
-               "voce":"Percorso della qualità",
-               "contenuti":[
-
-               ]
-            },
-            {
-               "voce":"Ricerca e sviluppo",
-               "contenuti":[
-
-               ]
-            }
-         ]
-      },
-      {
-         "voce":"Il nostro operare",
-         "contenuti":[
-            {
-               "voce":"La persona al centro dell’impresa",
-               "contenuti":[
-
-               ]
-            },
-            {
-               "voce":"Innovazione continua",
-               "contenuti":[
-
-               ]
-            },
-            {
-               "voce":"I nostri impegni sociali",
-               "contenuti":[
-                  {
-                     "voce":"Territorio",
-                     "contenuti":[
-
-                     ]
-                  },
-                  {
-                     "voce":"Associazioni",
-                     "contenuti":[
-
-                     ]
-                  },
-                  {
-                     "voce":"Istituzioni",
-                     "contenuti":[
-
-                     ]
-                  },
-                  {
-                     "voce":"BB per lo sport",
-                     "contenuti":[
-
-                     ]
-                  }
-               ]
-            },
-            {
-               "voce":"BB per l’ambiente",
-               "contenuti":[
-                 
-               ]
-            },
-            {
-              "voce":"Certificazioni",
-              "contenuti":[
-
-              ]
-           }
-         ]
-      }
-   ],
-   "vociFooter":[
-      {
-         "voce":"contatti"
-      },
-      {
-         "voce":"come raggiungerci"
-      },
-      {
-         "voce":"press"
-      },
-      {
-         "voce":"dicono di noi"
-      },
-      {
-         "voce":"privacy"
-      },
-      {
-         "voce":"policy"
-      }
-   ],
-   "footerInfo":"BB S.p.A. &nbsp;| &nbsp;Gruppo BB Holding - Socio Unico &nbsp;|&nbsp; <a href='mailto:bb@bbspa.eu'><u>bb@bbspa.eu</u></a> &nbsp;| &nbsp;Tel. 055-8874644 - Fax 8826570 <br>Via F. Petrarca 158, 50041, Calenzano (FI) &nbsp;|&nbsp; Reg.Imp. FI e P.IVA n. 05373430486 - Cap. Soc. € 350.000,00 i.v."
-}
+          ]
+       }
+    ],
+    "vociFooter":[
+       {
+          "voce":"contatti"
+       },
+       {
+          "voce":"come raggiungerci"
+       },
+       {
+          "voce":"press"
+       },
+       {
+          "voce":"dicono di noi"
+       },
+       {
+          "voce":"privacy"
+       },
+       {
+          "voce":"policy"
+       }
+    ],
+    "footerInfo":"BB S.p.A. &nbsp;| &nbsp;Gruppo BB Holding - Socio Unico &nbsp;|&nbsp; <a href='mailto:bb@bbspa.eu'><u>bb@bbspa.eu</u></a> &nbsp;| &nbsp;Tel. 055-8874644 - Fax 8826570 <br>Via F. Petrarca 158, 50041, Calenzano (FI) &nbsp;|&nbsp; Reg.Imp. FI e P.IVA n. 05373430486 - Cap. Soc. € 350.000,00 i.v."
+ }

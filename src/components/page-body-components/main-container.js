@@ -32,18 +32,18 @@ export default class MainContainer extends React.Component{
                     changeLangEvent.triggerChangeLangEvent(event.state.lang)
                 }
                 if((pageManager.getCurrentPage().voce !== event.state.currentPage) && event.state.payload.isPageRef){
-                    changepageEvent.triggerChangePageEvent(event.state.currentPage);
+                    changepageEvent.triggerChangePageEvent(event.state.currentPage)
                 }
             }
         })
     }
-    
+
     componentWillReceiveProps(props){
         this.setState({
             footerData: props.footerData
         })
     }
-    
+
     componentDidUpdate(){
         if(this.state.pageOrigin === 'voce-footer-menu'){
             $('#main-container').animate({

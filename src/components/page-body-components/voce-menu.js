@@ -34,7 +34,6 @@ export default class VoceMenu extends React.Component{
     }
         
     whenClicked(){
-        historyManager.newState({currentPage: this.state.voce, lang: langmanager.getCurrentLang(), payload: {isPageRef: this.isPagRef}});
         this.manageUnderLine();
         if(this.data.contenuti.length > 0){
             if (!($('#'+this.id).is(':visible'))){
@@ -49,6 +48,7 @@ export default class VoceMenu extends React.Component{
             changePageSectionEvent.trigger(this.state.voce, 'voce-menu')
         }
         
+        historyManager.newState({currentPage: this.state.voce, lang: langmanager.getCurrentLang(), payload: {isPageRef: this.isPagRef}});
     }
     
     buildChild(){

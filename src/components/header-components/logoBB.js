@@ -3,6 +3,7 @@ import logoBB from './../../images/logoBB.svg'
 import './../../styles-components/header-components/logoBB.css'
 
 
+
 export default () => {
 
     function backToStart(){

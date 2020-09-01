@@ -30,8 +30,7 @@ const pageManager = {
         currentPage = currentLangPack.pagine.find(p =>  p.voce === vocePag );
         if(currentPage === undefined){
             currentPage = oldPage;
-            // throw new Error('! page not found in current language pack ! \n missing page with title: ->' + vocePag + '<- in\n current language pack: -> ' + currentLangPack.lang + '<-');
-            window.location.reload();
+            throw new Error('! page not found in current language pack ! \n missing page with title: ->' + vocePag + '<- in\n current language pack: -> ' + currentLangPack.lang + '<-')
         }
     }
     ,
