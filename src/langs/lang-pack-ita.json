@@ -64,7 +64,7 @@
        {
           "voce":"Campionatura",
           "subTitle":"",
-          "mainContent":"<span> Il percorso dell’accessorio nasce nel reparto campionatura luogo dove l’idea del cliente prende forma, dove si elaborano <strong>soluzioni costruttive innovative e moderne</strong>, avvalendosi, oltre alle attrezzature tradizionali, anche della <strong>prototipazione rapida</strong>. <br><br>Fondamentale la competenza e l'esperienza dei tecnici; qui la <strong>manualità e l'artigianalità</strong> sono alla base della realizzazione dell’accessorio stesso.</span><span> <video autoplay loop muted> <source src='img/CAMPIONATURA-BB.mp4' type='video/mp4'/> </video></span>",
+          "mainContent":"<span> Il percorso dell’accessorio nasce nel reparto campionatura luogo dove l’idea del cliente prende forma, dove si elaborano <strong>soluzioni costruttive innovative e moderne</strong>, avvalendosi, oltre alle attrezzature tradizionali, anche della <strong>prototipazione rapida</strong>. <br><br>Fondamentale la competenza e l'esperienza dei tecnici; qui la <strong>manualità e l'artigianalità</strong> sono alla base della realizzazione dell’accessorio stesso.</span><span> <video style='top: -1em;left: -6em;width: 129%;' autoplay loop muted> <source src='img/CAMPIONATURA-BB.mp4' type='video/mp4'/> </video></span>",
           "footer":"",
           "images":[],
           "id":"385186228662"
@@ -72,7 +72,7 @@
        {
           "voce":"Industrializzazione",
           "subTitle":"",
-          "mainContent":"<span> Validato il prototipo, il reparto industrializzazione perfeziona l’articolo per la realizzazione su larga scala, <strong>ottimizzando costi e tempistiche</strong>. <br><br>Si tratta di un centro di competenza fortemente orientato ai core business aziendali e costituisce il fondamentale <strong>anello di congiunzione tra</strong> le aree tecnica di<strong> progettazione e </strong>quella di <strong>produzione</strong>.</span><span> <video autoplay loop muted> <source src='img/INDUSTRIALIZZAZIONE-BB.mp4' type='video/mp4'/> </video></span>",
+          "mainContent":"<span> Validato il prototipo, il reparto industrializzazione perfeziona l’articolo per la realizzazione su larga scala, <strong>ottimizzando costi e tempistiche</strong>. <br><br>Si tratta di un centro di competenza fortemente orientato ai core business aziendali e costituisce il fondamentale <strong>anello di congiunzione tra</strong> le aree tecnica di<strong> progettazione e </strong>quella di <strong>produzione</strong>.</span><span> <video style='left:-2em;top2em;width:110%' autoplay loop muted> <source src='img/INDUSTRIALIZZAZIONE-BB.mp4' type='video/mp4'/> </video></span>",
           "footer":"",
           "images":[],
           "id":"1292265386304"
