@@ -56,5 +56,8 @@
 
 .t-l-mainContent span video{
     position: relative;
+    width: 110%;
+    left: -5%;
+    top: -5%;
 }
 
