@@ -1,7 +1,6 @@
 .logoBB{
     width: 145px;
     margin-left: 75px;
-    position: relative;
-    top: 30px;
-    cursor: pointer
+    margin-top: 75px;
+    cursor: pointer;
 }
