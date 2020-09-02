@@ -74,3 +74,83 @@
     top: 70px;
     opacity: 0.84;
 }
+
+@media screen and (max-width: 750px) {
+  
+  .first-page{
+    display: flex;
+    align-items: center;
+    min-height: 100%;
+  }
+  
+  .first-page h1{
+    /* font-variation-settings: "MONO" 0, "CASL" 0, "slnt" 0, "CRSV" 0; */
+    /* animation: example 4s 1 forwards;
+    animation-timing-function: ease-out; */
+    color: var(--bb-logo-color);
+    line-height: 10.1vh;
+    font-size: 4vw;
+    font-weight: 210;
+    position: absolute;
+    text-align: right;
+    top: 6%;
+    right: 2%;
+    z-index: 10;
+    text-transform: uppercase;   
+    letter-spacing: 2px; 
+  }
+  
+  .first-page strong{
+  }
+  
+  .first-page i{
+  }
+  
+  @keyframes example {
+    0%{
+      /* color:#7bd481; */
+      color: rgba(0, 0, 255, 0);
+      letter-spacing: 1px;
+    }
+    
+    100%{
+      color: var(--bb-logo-color); 
+      letter-spacing: 8px;
+      
+    }
+  }
+  
+  #first-page-video-container{
+    width: 80%;
+    height: 8%;
+    overflow: hidden;
+  }
+    #video-prima-pagina{
+      position: relative;
+      top: 3px;
+      left: -168px;
+      width: 288%;
+      /* padding-left: 2%;*/
+    }
+    
+    
+    /* .fondoOp{
+      background-color: rgba(0, 150, 240, 0.10);
+    } 
+    
+    .someBold{
+      font-weight: 400;
+    }
+    */
+  
+  #trasformiamo-idee-prodotti{
+    height: 30%;
+  
+    position: absolute;
+    right: 5%;
+      width: 80%;
+      top: 0%;
+      opacity: 0.84;
+  }
+
+}
