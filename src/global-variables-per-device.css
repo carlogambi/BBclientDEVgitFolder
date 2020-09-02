@@ -7,7 +7,7 @@
   
   @media screen and (max-width: var(--mobile-max-width)) {
     :root {
-      --bb-logo-color: red;
+      --bb-logo-color: #005CA5;
       --bb-border-top-style: solid 1px var(--bb-logo-color);
     }
   }

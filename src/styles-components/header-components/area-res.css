@@ -4,3 +4,12 @@
     font-size: 12px;
     cursor: pointer;
 }
+
+@media screen and (max-width: 750px) {
+    .areaRes{
+        border-bottom: solid 1px;
+        letter-spacing: 2px;
+        font-size: 10px;
+        cursor: pointer;
+    }
+}

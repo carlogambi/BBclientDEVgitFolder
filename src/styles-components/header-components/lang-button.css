@@ -4,3 +4,14 @@
     font-size: 12px;
     cursor: pointer;
 }
+@media screen and (max-width: 750px) {
+    .langButton{
+        margin-left: 1px;
+        margin-right: 15px;
+        font-size: 10px;
+        cursor: pointer;
+    }
+    .langButton:last-of-type{
+        margin-left: 15px;
+    }
+}

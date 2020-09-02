@@ -1,13 +1,16 @@
 import React from 'react';
 
+import langmanager from './langs/langManager';
+import changeLangEvent from './custom-events/changeLangEvent'
+import detectDevice from './components/util/detect-device';
+
 import Header from './components/header';
 import PageBody from './components/page-body';
 import Footer from './components/footer';
-import langmanager from './langs/langManager';
+import MobileMenu from './components/mobile-menu'
 
 import $ from 'jquery';
 
-import changeLangEvent from './custom-events/changeLangEvent'
 
 $(document).ready(() => {
   $('.app').animate({opacity: '1.0'}, 1000);
@@ -42,6 +45,33 @@ export default class App extends React.Component{
 
   }
 
+  insertFooterIfDesktop(){
+    if(detectDevice() === 'desktop'){
+      return        <Footer
+      isFirstPage={true}
+      data= {
+        { 
+          footerInfo: this.state.langPack.footerInfo, 
+          vociFooter: this.state.langPack.vociFooter
+        }
+      } />
+    }
+  }
+
+  insertMenuIfMobile(){
+    if(detectDevice() === 'mobile'){
+      return  <MobileMenu 
+      vociMenu={this.state.langPack.vociMenu}
+      footerData= {
+        { 
+          footerInfo: this.state.langPack.footerInfo, 
+          vociFooter: this.state.langPack.vociFooter
+        }
+      }
+      />
+    }
+  }
+
   render(){
     return (
      <div className="app">
@@ -63,14 +93,8 @@ export default class App extends React.Component{
         }
        }
        />
-       <Footer
-        isFirstPage={true}
-        data= {
-          { 
-            footerInfo: this.state.langPack.footerInfo, 
-            vociFooter: this.state.langPack.vociFooter
-          }
-        } />
+        {this.insertFooterIfDesktop()}
+        {this.insertMenuIfMobile()}
       </div>
     );
   }

@@ -1,5 +1,5 @@
 #page-body{
     display: flex;
-    min-height: 550px;
+    min-height:fit-content;
     justify-content: space-around;
 }

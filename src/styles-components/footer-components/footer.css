@@ -16,3 +16,15 @@ a{
     color: black;
     letter-spacing: 0.4px;
 }
+
+@media screen and (max-width: 750px) {
+    .footer{
+        border-top: var(--bb-border-top-style);
+        padding-top: 15px;
+        position: static;
+        background: url(../../images/background.svg);
+        width: 100%;
+    }
+    
+    
+}

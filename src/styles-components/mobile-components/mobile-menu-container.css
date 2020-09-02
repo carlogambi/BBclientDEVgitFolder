@@ -1,0 +1,11 @@
+#mobile-menu-container{
+    border-top: var(--bb-border-top-style);
+    background-color: white;
+    margin: 10%;
+    border: solid 1px var(--bb-logo-color);
+    position: fixed;
+    top: 10%;
+    bottom: 5%;
+    width: 80%;
+
+}

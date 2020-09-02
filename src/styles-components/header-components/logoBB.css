@@ -4,3 +4,12 @@
     margin-top: 75px;
     cursor: pointer;
 }
+
+@media screen and (max-width: 750px) {
+    .logoBB{
+        width: 1.2wh;
+        margin-left: 10px;
+        margin-top: 30px;
+    }
+    
+}
