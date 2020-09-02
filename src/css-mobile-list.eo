@@ -2,6 +2,7 @@ MOBILE
 breakpoint file list: 
 
 mobile-components/all
+page-types/all
 
 logoBB.css
 lang-button.css
@@ -12,3 +13,5 @@ footer-info.css
 voce-menu.css
 main-menu.css
 voce-footer-menu.css
+main-container.css
+

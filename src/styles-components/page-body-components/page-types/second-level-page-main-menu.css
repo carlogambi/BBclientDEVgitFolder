@@ -80,3 +80,88 @@
         margin-top: 2em;
         width: 100%;
     }
+    
+    @media screen and (max-width: 750px) {
+        .s-l-title{
+            padding-left: 1vw;
+            font-variation-settings: "MONO" 0, "CASL" 0, "slnt" 0, "CRSV" 0;
+            font-weight: 370;
+            /* margin-bottom: 10px; */
+            font-size: 4.3vw;
+            text-transform: uppercase;
+            letter-spacing: 0.15em;
+            border-bottom: solid 1px var(--bb-logo-color);
+            border-left: 1px solid var(--bb-logo-color);
+            margin-bottom: 0px;
+            
+            }
+            
+            .s-l-subTitle{
+                font-weight: 400;
+                margin-bottom: 10px;
+                margin-top: 5px;
+                font-variation-settings: "MONO" 0, "CASL" 0.4, "slnt" -15, "CRSV" 1;
+                padding-right: 17%;
+            }
+            
+            .s-l-mainContent{
+                padding-top: 10px;
+                font-size: 3.05vw;
+                padding-right: 13%;
+                padding-left: 2%;
+                font-weight: 300;
+                column-count: 2;
+                grid-column-gap: 3vw;
+                column-gap: 3vw;
+                font-family: 'Poppins', sans-serif;
+                border-left: 1px solid var(--bb-logo-color);
+                display: flex;
+                text-align: justify;
+                hyphens: auto;
+                letter-spacing: 0.025em;
+                line-height: 19px;
+                flex-direction: column;
+        
+            }
+            
+            .s-l-mainContent span{
+                vertical-align: text-top;   
+                width: 100%;
+                margin-left: -0.8%;
+                margin-right: -0.8%;
+            }
+            
+            
+            .s-l-footer{
+                /*text-align: justify;*/
+                margin: 10% 15% 1% 15%;
+                padding-right: 15%;
+                font-weight: 300;
+                
+                font-size: 3.05vw;
+                /*text-align: justify;
+                hyphens: auto;*/
+                letter-spacing: 0.04em;
+            
+            }
+            
+            .s-l-page{
+                /*padding-left: 2%;*/
+            /*    border-top: solid 1px var(--bb-logo-color);*/
+                margin-bottom: 3vw;
+            }
+            
+            /* #la-nostra-storia-media{
+            } */
+        
+            .s-l-mainContent span video{
+                margin-top: 2em;
+                width: 100%;
+            }
+        
+            .s-l-mainContent span img{
+                margin-top: 2em;
+                width: 100%;
+            }
+
+    }

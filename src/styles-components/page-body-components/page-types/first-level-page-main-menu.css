@@ -44,9 +44,7 @@
 
 .f-l-gallery{
     padding-left: 9%;
-
 }
-
 
 
 .f-l-footer{
@@ -57,4 +55,56 @@
 .f-l-page{
     
     margin-bottom: 2vw;
+}
+
+@media screen and (max-width: 750px) {
+    .f-l-title{
+        text-align: right;
+        padding-right: 2vw;
+        font-size: 6vw;
+        font-weight: 200;
+        color: var(--bb-logo-color);
+        animation: fLtitleAnim 6s 1 forwards;
+        /* font-variation-settings: "MONO" 0, "CASL" 1, "slnt" 0, "CRSV" 0; */
+        letter-spacing: 5px;
+        text-transform: uppercase;
+    }
+    
+    .f-l-subTitle{
+        padding-left: 9%;
+        font-weight: 400;
+        margin-bottom: 10px;
+        margin-top: 5px;
+        font-variation-settings: "MONO" 0, "CASL" 0.4, "slnt" -7, "CRSV" 1;
+        padding-right: 17%;
+    }
+    
+    .f-l-mainContent{
+        font-size: 1.1vw;
+        padding-right: 15%;
+        font-weight: 300;
+        /* column-count: 2; */
+        padding-left: 9%;
+        /* grid-column-gap: 3vw; */
+        /* grid-column-gap: 3vw; */
+        /* column-gap: 3vw; */
+        font-family: 'Poppins', sans-serif;
+        padding-bottom: 2vw;
+    }
+    
+    .f-l-gallery{
+        padding-left: 9%;
+    }
+    
+    
+    .f-l-footer{
+        padding-left: 9%;
+        
+    }
+    
+    .f-l-page{
+        
+        margin-bottom: 2vw;
+    }
+
     }
