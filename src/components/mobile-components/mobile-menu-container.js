@@ -11,8 +11,7 @@ export default (props) => {
             >
                 <MenuContainer vociMenu={props.menuInfo}/>
                 <FooterMenu vociFooter={props.footerData.vociFooter} />
-                <br/>
-                <p dangerouslySetInnerHTML={{ __html: props.footerData.footerInfo }}>
+                <p dangerouslySetInnerHTML={{ __html: props.footerData.footerInfo }} id="footer-info-mobile">
                 </p>
             </div>
 

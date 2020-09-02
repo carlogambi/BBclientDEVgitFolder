@@ -6,3 +6,13 @@
     display: none;
     letter-spacing: 0.4px;
 }
+
+
+    #footer-info-mobile{
+        /* background: #005ca54d; */
+        text-align: center;
+        font-size: 6px;
+        padding-bottom: 7px;
+        letter-spacing: 0.4px;
+    }
+

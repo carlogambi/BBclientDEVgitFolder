@@ -8,3 +8,18 @@
     padding: 4px;
     letter-spacing: 0.4px;
 }
+
+@media screen and (max-width: 750px) {
+    .footer-menu{
+        /* background-color: #005ca54d; */
+        /* height: 50px; */
+        border-top: solid 1px var(--bb-logo-color);
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 4px;
+        letter-spacing: 0.4px;
+        width: 100%;
+    }    
+}

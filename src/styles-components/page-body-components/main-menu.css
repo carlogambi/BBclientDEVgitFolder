@@ -24,3 +24,13 @@
     /* border: 1px solid #005CA5;   */
     /* creates padding around scroll thumb */
 }
+
+@media screen and (max-width: 750px) {
+    #main-menu{
+        margin-top: 20px;
+        text-align: right;
+        margin-right: 0;
+        max-height: 410px;
+        line-height: 32px;
+    }
+}
