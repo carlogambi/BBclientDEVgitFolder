@@ -2,10 +2,10 @@
 
     border: solid 1px var(--bb-logo-color);
     background-color: rgb(255, 255, 255);
-    margin: 10%;
     position: fixed;
-    max-height: 70%;
-    bottom: 15%;
+    height: fit-content;
+    left: 10%;
+    top: 100%;
     width: 80%;
     overflow-y: hidden;
     overflow-x: hidden;
