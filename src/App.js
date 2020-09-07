@@ -46,7 +46,7 @@ export default class App extends React.Component{
   }
 
   insertFooterIfDesktop(){
-    if(detectDevice() === 'desktop'){
+    if(detectDevice() === 'desktop'  || detectDevice() === 'tablet'){
       return        <Footer
       isFirstPage={true}
       data= {
@@ -75,6 +75,7 @@ export default class App extends React.Component{
   render(){
     return (
      <div className="app">
+       {/* <span>{detectDevice()}</span> */}
        <Header langData = {
          {
            areaR: this.state.langPack.areaRes, 

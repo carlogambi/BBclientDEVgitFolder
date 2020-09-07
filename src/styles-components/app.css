@@ -13,6 +13,7 @@ body{
     background-repeat: no-repeat;
     background-size: 120%;
     overflow-y: hidden;
+    zoom: 100%;
 }
 
 .app{

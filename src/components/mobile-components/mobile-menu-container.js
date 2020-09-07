@@ -7,11 +7,11 @@ import FooterMenu from '../footer-components/footer-menu'
 export default (props) => {
     if(props.visibility){
         $('#mobile-menu-container').animate({
-            top: '20%',
+            right: '0%',
         }, 500);
     }else{
             $('#mobile-menu-container').animate({
-                top: '100%'
+                right: '100%'
             }, 500);
     }
     return <div 

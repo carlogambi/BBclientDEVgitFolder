@@ -6,7 +6,7 @@ import mobileMenuIcon from './../images/menu-icon.svg';
 import mobileMenuIconCollapse from './../images/menu-icon-collapse.svg';
 import MobileMenuContainer from './mobile-components/mobile-menu-container'
 
-// import $ from 'jquery'
+import $ from 'jquery'
 
 export default class MobileMenu extends React.Component {
     constructor(props){
@@ -36,7 +36,11 @@ export default class MobileMenu extends React.Component {
     }
     
 
-
+    componentDidMount(){
+        $('.voce-footer-menu').on('click', () => {
+            this.toggleVisibility();
+        })
+    }
     
     render(){
         return <div id="mobile-menu">
