@@ -1,5 +1,4 @@
 import React from 'react';
-import Gallery from './../page-components/gallery';
 import './../../../styles-components/page-body-components/page-types/third-level-page-main-menu.css';
 
 
@@ -15,11 +14,7 @@ export default (props) => {
             return <h4 className="t-l-subTitle">{props.page.subTitle}</h4>
         }
     }
-    function gallery(){
-        if(props.page.images && props.page.images.length > 0){ 
-            return <Gallery images = {props.page.images} />
-        }
-    }
+
     function mainContent(){
         if(props.page.mainContent){ 
             return <div className="t-l-mainContent"  dangerouslySetInnerHTML={{__html: props.page.mainContent}} />;
@@ -33,7 +28,7 @@ export default (props) => {
     return <div className="t-l-page"  id={props.id} data-voce-ref={props.page.voce}>
         {title()}
         {subTitle()}
-        {gallery()}
+
         {mainContent()}
         {footer()}
     </div>

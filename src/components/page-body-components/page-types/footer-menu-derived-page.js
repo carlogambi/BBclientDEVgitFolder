@@ -1,5 +1,4 @@
 import React from 'react'
-import Gallery from './../page-components/gallery'
 
 import './../../../styles-components/page-body-components/page-types/footer-menu-derived-page.css'
 
@@ -22,11 +21,7 @@ export default class extends React.Component{
             return <h4 className="f-d-p-subtitle" dangerouslySetInnerHTML={{__html: this.state.props.page.subTitle}}></h4>
         }
     }
-    gallery(){
-        if(this.state.props.page.images && this.state.props.page.images.length > 0){ 
-            return <Gallery images = {this.state.props.page.images} />
-        }
-    }
+
     mainContent(){
         if(this.state.props.page.mainContent){ 
             return <div className="f-d-p-main-content" dangerouslySetInnerHTML={{__html: this.state.props.page.mainContent}}></div>
@@ -58,7 +53,7 @@ export default class extends React.Component{
         return <div className="footer-derived-page">
         {this.title()}
         {this.subTitle()}
-        {this.gallery()}
+  
         {this.mainContent()}
         {this.footer()}
         </div>

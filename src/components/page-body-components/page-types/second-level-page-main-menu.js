@@ -1,5 +1,4 @@
 import React from 'react'
-import Gallery from './../page-components/gallery'
 import './../../../styles-components/page-body-components/page-types/second-level-page-main-menu.css';
 
 import $ from 'jquery'
@@ -53,11 +52,7 @@ export default class SlPage extends React.Component{
             return <h4 className="s-l-subTitle"  dangerouslySetInnerHTML={{__html: this.props.page.subTitle}}></h4>
         }
     }
-    gallery(){
-        if(this.props.page.images && this.props.page.images.length > 0){ 
-            return <Gallery images = {this.props.page.images} />
-        }
-    }
+
     mainContent(){
         if(this.props.page.mainContent){ 
             return <div className="s-l-mainContent" dangerouslySetInnerHTML={{__html: this.props.page.mainContent}} />;
@@ -73,7 +68,6 @@ export default class SlPage extends React.Component{
         return <div className="s-l-page" id={this.props.id} data-voce-ref={this.props.page.voce}>
             {this.title()}
             {this.subTitle()}
-            {this.gallery()}
             {this.mainContent()}
             {this.footer()}
         </div>
