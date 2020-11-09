@@ -33,11 +33,11 @@ export default  (props) => {
     })
 
     return <div className="s-l-page" id={props.id} data-voce-ref={props.page.voce}>
-    {props.page.voce?<h1 className="s-l-title" >{props.page.voce}</h1>:null}        
-    {props.page.subTitle?<h4 className="s-l-subtitle" dangerouslySetInnerHTML={{__html: props.page.subTitle}}></h4>:null}        
-    {props.page.mainContent?<div className="s-l-main-content" dangerouslySetInnerHTML={{__html: props.page.mainContent}}></div>:null}        
-    {props.page.footer?<div className="s-l-footer" dangerouslySetInnerHTML={{__html: props.page.footer}}></div>:null}        
-    </div>
+                {props.page.voce?<h1 className="s-l-title" >{props.page.voce}</h1>:null}        
+                {props.page.subTitle?<h4 className="s-l-subtitle" dangerouslySetInnerHTML={{__html: props.page.subTitle}}></h4>:null}        
+                {props.page.mainContent?<div className="s-l-main-content" dangerouslySetInnerHTML={{__html: props.page.mainContent}}></div>:null}        
+                {props.page.footer?<div className="s-l-footer" dangerouslySetInnerHTML={{__html: props.page.footer}}></div>:null}        
+            </div>
 }
 
 // export default class SlPage extends React.Component{
